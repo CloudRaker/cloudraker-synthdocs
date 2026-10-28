@@ -1,0 +1,828 @@
+{
+ "id": "4001_002770",
+ "industry": "healthcare",
+ "doctype": "intake_form",
+ "lang": "en",
+ "seed": "4001_002770",
+ "preset": "lowres_jpeg",
+ "bbox_approx": false,
+ "styled": false,
+ "homography": null,
+ "width": 1700,
+ "height": 2200,
+ "page_md": "**Plateau Medical Clinic**\n2272, boulevard Pie-IX, Suite 320, Terrebonne QC J6N 9C4\nTel. 514 778-1797 | Fax 418 778-5133\n\n# **NEW PATIENT INTAKE FORM**\n\nPlease complete all sections. The information is confidential and kept in your medical record.\n\n## **Personal information**\n\nLAST NAME\n\nBROWN\n\nFIRST NAME\n\nDATE OF BIRTH\n\n2003-09-22\n\nSEX\n\n□ M☑ F□ X\n\nHEALTH INSURANCE NO. (RAMQ)\n\nBROL 0359 2274\n\nEXPIRY\n\n2025-09\n\nPREFERRED LANGUAGE\n\n□ Français☑ English□ Other\n\nMARITAL STATUS\n\nADDRESS\n\nCITY\n\nPOSTAL CODE\n\nG1E 8H4\n\nHOME PHONE\n\n418 774-5374\n\nCELL PHONE\n\n819 218-5875\n\nEMAIL\n\nchasewilliams7@gmail.com\n\nOCCUPATION\n\nFurther education lecturer\n\nEMPLOYER\n\nRomero, Ross and Conner\n\nFAMILY DOCTOR?\n\n☒ Yes□ No\n\n## **Emergency contact**\n\nNAME\n\nAmanda Ramirez\n\nRELATIONSHIP\n\nAmi\n\nPHONE\n\n819 474-7606\n\n## **Medical history (check all that apply)**\n\n□ Thyroid disorder\n\n□ Hepatitis\n\n□ Stroke\n\n☒ Cancer\n\n□ Epilepsy\n\n□ High blood pressure\n\n□ Heart disease\n\n□ Kidney disease\n\n□ Diabetes\n\n□ Arthritis\n\n□ Sleep apnea\n\n□ Bleeding disorder\n\n□ Migraine\n\n□ Depression / anxiety\n\n□ Osteoporosis\n\n□ Asthma / COPD\n\nOther / details: chx appendice 2009\n\n## **Current medications**\n\n| Medication | Dose | Frequency | Reason |\n|---|---|---|---|\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n\nAllergies (drugs, food, latex): Pénicilline\n\n## **Lifestyle**\n\nSmoking: □ Yes□ No☑ Former per day: 0 Alcohol: □ Yes☒ No drinks/week: 0 Exercise: 2x/sem\n\n## **Consent**\n\nI confirm that the information above is accurate to the best of my knowledge. I consent to the collection and use of my personal health information by the clinic for the purpose of providing care, and to its communication to other health professionals involved in my care, in accordance with the Act respecting health services and social services (RLRQ c. S-4.2) and Law 25.\n\nPATIENT SIGNATURE\n\nLisa Brown\n\nDATE\n\n09/06/2024\n\nRESERVED FOR CLINIC\n\ncopie faite\n\nPlateau Medical Clinic · Form ACC-81 · Confidential · Page 1/1",
+ "layout_1036": [
+  {
+   "bbox": [
+    122,
+    40,
+    481,
+    88
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    49,
+    111,
+    366,
+    130
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    49,
+    135,
+    603,
+    146
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    159,
+    227,
+    175
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    52,
+    180,
+    129,
+    212
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    380,
+    180,
+    446,
+    190
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    660,
+    180,
+    790,
+    215
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    846,
+    180,
+    946,
+    207
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    52,
+    215,
+    233,
+    251
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    333,
+    215,
+    428,
+    248
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    472,
+    215,
+    681,
+    242
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    753,
+    215,
+    844,
+    225
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    52,
+    251,
+    105,
+    261
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    474,
+    251,
+    498,
+    261
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    707,
+    251,
+    796,
+    286
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    52,
+    289,
+    181,
+    319
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    286,
+    289,
+    420,
+    324
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    519,
+    289,
+    794,
+    319
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    52,
+    325,
+    352,
+    358
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    427,
+    325,
+    686,
+    363
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    754,
+    325,
+    848,
+    352
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    372,
+    213,
+    388
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    52,
+    393,
+    229,
+    427
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    427,
+    393,
+    506,
+    429
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    660,
+    393,
+    800,
+    428
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    441,
+    359,
+    457
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    58,
+    464,
+    889,
+    528
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    533,
+    349,
+    560
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    569,
+    222,
+    585
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    49,
+    589,
+    987,
+    698
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    49,
+    702,
+    365,
+    730
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    737,
+    121,
+    753
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    49,
+    761,
+    762,
+    789
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    802,
+    120,
+    818
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    49,
+    823,
+    981,
+    859
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    52,
+    863,
+    250,
+    915
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    474,
+    863,
+    606,
+    898
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    707,
+    863,
+    832,
+    873
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    905,
+    909,
+    989,
+    933
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    987,
+    403,
+    997
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "4001_002770_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    201,
+    86,
+    789,
+    187
+   ],
+   "md": "**Plateau Medical Clinic**\n2272, boulevard Pie-IX, Suite 320, Terrebonne QC J6N 9C4\nTel. 514 778-1797 | Fax 418 778-5133"
+  },
+  {
+   "id": "4001_002770_r1",
+   "cat": "title",
+   "bbox_px": [
+    80,
+    235,
+    601,
+    277
+   ],
+   "md": "# **NEW PATIENT INTAKE FORM**"
+  },
+  {
+   "id": "4001_002770_r2",
+   "cat": "text",
+   "bbox_px": [
+    80,
+    286,
+    989,
+    311
+   ],
+   "md": "Please complete all sections. The information is confidential and kept in your medical record."
+  },
+  {
+   "id": "4001_002770_r3",
+   "cat": "section_header",
+   "bbox_px": [
+    80,
+    338,
+    372,
+    371
+   ],
+   "md": "## **Personal information**"
+  },
+  {
+   "id": "4001_002770_r4",
+   "cat": "text",
+   "bbox_px": [
+    86,
+    382,
+    212,
+    450
+   ],
+   "md": "LAST NAME\n\nBROWN"
+  },
+  {
+   "id": "4001_002770_r5",
+   "cat": "text",
+   "bbox_px": [
+    623,
+    382,
+    732,
+    403
+   ],
+   "md": "FIRST NAME"
+  },
+  {
+   "id": "4001_002770_r6",
+   "cat": "text",
+   "bbox_px": [
+    1083,
+    382,
+    1297,
+    457
+   ],
+   "md": "DATE OF BIRTH\n\n2003-09-22"
+  },
+  {
+   "id": "4001_002770_r7",
+   "cat": "text",
+   "bbox_px": [
+    1389,
+    382,
+    1553,
+    439
+   ],
+   "md": "SEX\n\n□ M☑ F□ X"
+  },
+  {
+   "id": "4001_002770_r8",
+   "cat": "text",
+   "bbox_px": [
+    86,
+    457,
+    382,
+    534
+   ],
+   "md": "HEALTH INSURANCE NO. (RAMQ)\n\nBROL 0359 2274"
+  },
+  {
+   "id": "4001_002770_r9",
+   "cat": "text",
+   "bbox_px": [
+    546,
+    457,
+    703,
+    526
+   ],
+   "md": "EXPIRY\n\n2025-09"
+  },
+  {
+   "id": "4001_002770_r10",
+   "cat": "text",
+   "bbox_px": [
+    775,
+    457,
+    1117,
+    514
+   ],
+   "md": "PREFERRED LANGUAGE\n\n□ Français☑ English□ Other"
+  },
+  {
+   "id": "4001_002770_r11",
+   "cat": "text",
+   "bbox_px": [
+    1235,
+    457,
+    1385,
+    478
+   ],
+   "md": "MARITAL STATUS"
+  },
+  {
+   "id": "4001_002770_r12",
+   "cat": "text",
+   "bbox_px": [
+    86,
+    534,
+    173,
+    555
+   ],
+   "md": "ADDRESS"
+  },
+  {
+   "id": "4001_002770_r13",
+   "cat": "text",
+   "bbox_px": [
+    777,
+    534,
+    818,
+    555
+   ],
+   "md": "CITY"
+  },
+  {
+   "id": "4001_002770_r14",
+   "cat": "text",
+   "bbox_px": [
+    1160,
+    534,
+    1306,
+    608
+   ],
+   "md": "POSTAL CODE\n\nG1E 8H4"
+  },
+  {
+   "id": "4001_002770_r15",
+   "cat": "text",
+   "bbox_px": [
+    86,
+    613,
+    297,
+    678
+   ],
+   "md": "HOME PHONE\n\n418 774-5374"
+  },
+  {
+   "id": "4001_002770_r16",
+   "cat": "text",
+   "bbox_px": [
+    469,
+    613,
+    689,
+    688
+   ],
+   "md": "CELL PHONE\n\n819 218-5875"
+  },
+  {
+   "id": "4001_002770_r17",
+   "cat": "text",
+   "bbox_px": [
+    852,
+    613,
+    1303,
+    677
+   ],
+   "md": "EMAIL\n\nchasewilliams7@gmail.com"
+  },
+  {
+   "id": "4001_002770_r18",
+   "cat": "text",
+   "bbox_px": [
+    86,
+    691,
+    577,
+    760
+   ],
+   "md": "OCCUPATION\n\nFurther education lecturer"
+  },
+  {
+   "id": "4001_002770_r19",
+   "cat": "text",
+   "bbox_px": [
+    700,
+    691,
+    1125,
+    770
+   ],
+   "md": "EMPLOYER\n\nRomero, Ross and Conner"
+  },
+  {
+   "id": "4001_002770_r20",
+   "cat": "text",
+   "bbox_px": [
+    1237,
+    691,
+    1392,
+    748
+   ],
+   "md": "FAMILY DOCTOR?\n\n☒ Yes□ No"
+  },
+  {
+   "id": "4001_002770_r21",
+   "cat": "section_header",
+   "bbox_px": [
+    80,
+    791,
+    349,
+    824
+   ],
+   "md": "## **Emergency contact**"
+  },
+  {
+   "id": "4001_002770_r22",
+   "cat": "text",
+   "bbox_px": [
+    86,
+    835,
+    376,
+    906
+   ],
+   "md": "NAME\n\nAmanda Ramirez"
+  },
+  {
+   "id": "4001_002770_r23",
+   "cat": "text",
+   "bbox_px": [
+    700,
+    835,
+    831,
+    912
+   ],
+   "md": "RELATIONSHIP\n\nAmi"
+  },
+  {
+   "id": "4001_002770_r24",
+   "cat": "text",
+   "bbox_px": [
+    1083,
+    835,
+    1312,
+    909
+   ],
+   "md": "PHONE\n\n819 474-7606"
+  },
+  {
+   "id": "4001_002770_r25",
+   "cat": "section_header",
+   "bbox_px": [
+    80,
+    937,
+    589,
+    970
+   ],
+   "md": "## **Medical history (check all that apply)**"
+  },
+  {
+   "id": "4001_002770_r26",
+   "cat": "text",
+   "bbox_px": [
+    95,
+    985,
+    1459,
+    1121
+   ],
+   "md": "□ Thyroid disorder\n\n□ Hepatitis\n\n□ Stroke\n\n☒ Cancer\n\n□ Epilepsy\n\n□ High blood pressure\n\n□ Heart disease\n\n□ Kidney disease\n\n□ Diabetes\n\n□ Arthritis\n\n□ Sleep apnea\n\n□ Bleeding disorder\n\n□ Migraine\n\n□ Depression / anxiety\n\n□ Osteoporosis\n\n□ Asthma / COPD"
+  },
+  {
+   "id": "4001_002770_r27",
+   "cat": "text",
+   "bbox_px": [
+    80,
+    1131,
+    573,
+    1190
+   ],
+   "md": "Other / details: chx appendice 2009"
+  },
+  {
+   "id": "4001_002770_r28",
+   "cat": "section_header",
+   "bbox_px": [
+    80,
+    1209,
+    364,
+    1242
+   ],
+   "md": "## **Current medications**"
+  },
+  {
+   "id": "4001_002770_r29",
+   "cat": "table",
+   "bbox_px": [
+    80,
+    1251,
+    1620,
+    1482
+   ],
+   "otsl": "<fcel>Medication<fcel>Dose<fcel>Frequency<fcel>Reason<nl>\n<ecel><ecel><ecel><ecel><nl>\n<ecel><ecel><ecel><ecel><nl>\n<ecel><ecel><ecel><ecel><nl>\n<ecel><ecel><ecel><ecel><nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:8.5pt\"><thead><tr><th>Medication</th><th>Dose</th><th>Frequency</th><th>Reason</th></tr></thead><tbody><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr></tbody></table>",
+   "md": "| Medication | Dose | Frequency | Reason |\n|---|---|---|---|\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |"
+  },
+  {
+   "id": "4001_002770_r30",
+   "cat": "text",
+   "bbox_px": [
+    80,
+    1491,
+    599,
+    1551
+   ],
+   "md": "Allergies (drugs, food, latex): Pénicilline"
+  },
+  {
+   "id": "4001_002770_r31",
+   "cat": "section_header",
+   "bbox_px": [
+    80,
+    1566,
+    198,
+    1599
+   ],
+   "md": "## **Lifestyle**"
+  },
+  {
+   "id": "4001_002770_r32",
+   "cat": "text",
+   "bbox_px": [
+    80,
+    1616,
+    1251,
+    1675
+   ],
+   "md": "Smoking: □ Yes□ No☑ Former per day: 0 Alcohol: □ Yes☒ No drinks/week: 0 Exercise: 2x/sem"
+  },
+  {
+   "id": "4001_002770_r33",
+   "cat": "section_header",
+   "bbox_px": [
+    80,
+    1704,
+    197,
+    1737
+   ],
+   "md": "## **Consent**"
+  },
+  {
+   "id": "4001_002770_r34",
+   "cat": "text",
+   "bbox_px": [
+    80,
+    1748,
+    1609,
+    1825
+   ],
+   "md": "I confirm that the information above is accurate to the best of my knowledge. I consent to the collection and use of my personal health information by the clinic for the purpose of providing care, and to its communication to other health professionals involved in my care, in accordance with the Act respecting health services and social services (RLRQ c. S-4.2) and Law 25."
+  },
+  {
+   "id": "4001_002770_r35",
+   "cat": "text",
+   "bbox_px": [
+    86,
+    1833,
+    410,
+    1943
+   ],
+   "md": "PATIENT SIGNATURE\n\nLisa Brown"
+  },
+  {
+   "id": "4001_002770_r36",
+   "cat": "text",
+   "bbox_px": [
+    777,
+    1833,
+    994,
+    1908
+   ],
+   "md": "DATE\n\n09/06/2024"
+  },
+  {
+   "id": "4001_002770_r37",
+   "cat": "text",
+   "bbox_px": [
+    1160,
+    1833,
+    1366,
+    1854
+   ],
+   "md": "RESERVED FOR CLINIC"
+  },
+  {
+   "id": "4001_002770_r38",
+   "cat": "text",
+   "bbox_px": [
+    1485,
+    1931,
+    1623,
+    1981
+   ],
+   "md": "copie faite"
+  },
+  {
+   "id": "4001_002770_r39",
+   "cat": "page_footer",
+   "bbox_px": [
+    80,
+    2095,
+    661,
+    2118
+   ],
+   "md": "Plateau Medical Clinic · Form ACC-81 · Confidential · Page 1/1"
+  }
+ ],
+ "tables": [
+  {
+   "id": "4001_002770_r29",
+   "otsl": "<fcel>Medication<fcel>Dose<fcel>Frequency<fcel>Reason<nl>\n<ecel><ecel><ecel><ecel><nl>\n<ecel><ecel><ecel><ecel><nl>\n<ecel><ecel><ecel><ecel><nl>\n<ecel><ecel><ecel><ecel><nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:8.5pt\"><thead><tr><th>Medication</th><th>Dose</th><th>Frequency</th><th>Reason</th></tr></thead><tbody><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr><tr><td style=\"height:22px\"></td><td></td><td></td><td></td></tr></tbody></table>",
+   "markdown": "| Medication | Dose | Frequency | Reason |\n|---|---|---|---|\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |"
+  }
+ ]
+}

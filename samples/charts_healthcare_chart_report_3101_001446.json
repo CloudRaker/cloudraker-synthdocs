@@ -1,0 +1,226 @@
+{
+ "id": "3101_001446",
+ "industry": "healthcare",
+ "doctype": "chart_report",
+ "lang": "en",
+ "seed": "3101_001446",
+ "preset": "clean",
+ "bbox_approx": false,
+ "styled": false,
+ "homography": null,
+ "width": 1700,
+ "height": 2200,
+ "page_md": "**MA Mccarthy, Anderson and Flores** Annual Quality Report · 2022\n\n# **Annual Quality Report — 2022**\n\nThis report summarizes key indicators for Mccarthy, Anderson and Flores for fiscal 2022.\n\n## **Visits**\n\n**Exhibit 1.** Emergency department visits\n\n| Month | Visits | Admissions |\n|---|---|---|\n| Aug | 3,128 | 8,555 |\n| Sep | 3,014 | 8,504 |\n| Oct | 2,854 | 8,257 |\n| Nov | 2,749 | 9,059 |\n| Dec | 2,906 | 8,436 |\n| Jan | 2,783 | 9,063 |\n| Feb | 2,911 | 9,500 |\n\nVisits moved from 3,128 in Aug to 2,911 in Feb. The highest value was recorded for Aug (3,128). Results remain within the tolerance set out in the annual plan.\n\nMccarthy, Anderson and Flores Page 4",
+ "layout_1036": [
+  {
+   "bbox": [
+    73,
+    57,
+    963,
+    78
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    73,
+    97,
+    465,
+    118
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    73,
+    127,
+    922,
+    142
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    154,
+    137,
+    170
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    73,
+    176,
+    403,
+    187
+   ],
+   "cat": "caption"
+  },
+  {
+   "bbox": [
+    73,
+    193,
+    905,
+    602
+   ],
+   "cat": "chart"
+  },
+  {
+   "bbox": [
+    73,
+    608,
+    903,
+    639
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    968,
+    963,
+    979
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "3101_001446_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    120,
+    120,
+    1580,
+    166
+   ],
+   "md": "**MA Mccarthy, Anderson and Flores** Annual Quality Report · 2022"
+  },
+  {
+   "id": "3101_001446_r1",
+   "cat": "title",
+   "bbox_px": [
+    120,
+    206,
+    763,
+    250
+   ],
+   "md": "# **Annual Quality Report — 2022**"
+  },
+  {
+   "id": "3101_001446_r2",
+   "cat": "text",
+   "bbox_px": [
+    120,
+    270,
+    1513,
+    301
+   ],
+   "md": "This report summarizes key indicators for Mccarthy, Anderson and Flores for fiscal 2022."
+  },
+  {
+   "id": "3101_001446_r3",
+   "cat": "section_header",
+   "bbox_px": [
+    120,
+    327,
+    224,
+    361
+   ],
+   "md": "## **Visits**"
+  },
+  {
+   "id": "3101_001446_r4",
+   "cat": "caption",
+   "bbox_px": [
+    120,
+    373,
+    662,
+    398
+   ],
+   "md": "**Exhibit 1.** Emergency department visits"
+  },
+  {
+   "id": "3101_001446_r5",
+   "cat": "chart",
+   "bbox_px": [
+    120,
+    410,
+    1485,
+    1279
+   ],
+   "chart": {
+    "sub": "Bar Chart",
+    "caption": "A bar chart showing emergency department visits across 7 month categories for Visits and Admissions.",
+    "title": null,
+    "header": [
+     "Month",
+     "Visits",
+     "Admissions"
+    ],
+    "rows": [
+     [
+      "Aug",
+      "3,128",
+      "8,555"
+     ],
+     [
+      "Sep",
+      "3,014",
+      "8,504"
+     ],
+     [
+      "Oct",
+      "2,854",
+      "8,257"
+     ],
+     [
+      "Nov",
+      "2,749",
+      "9,059"
+     ],
+     [
+      "Dec",
+      "2,906",
+      "8,436"
+     ],
+     [
+      "Jan",
+      "2,783",
+      "9,063"
+     ],
+     [
+      "Feb",
+      "2,911",
+      "9,500"
+     ]
+    ]
+   },
+   "md": "| Month | Visits | Admissions |\n|---|---|---|\n| Aug | 3,128 | 8,555 |\n| Sep | 3,014 | 8,504 |\n| Oct | 2,854 | 8,257 |\n| Nov | 2,749 | 9,059 |\n| Dec | 2,906 | 8,436 |\n| Jan | 2,783 | 9,063 |\n| Feb | 2,911 | 9,500 |"
+  },
+  {
+   "id": "3101_001446_r6",
+   "cat": "text",
+   "bbox_px": [
+    120,
+    1292,
+    1481,
+    1357
+   ],
+   "md": "Visits moved from 3,128 in Aug to 2,911 in Feb. The highest value was recorded for Aug (3,128). Results remain within the tolerance set out in the annual plan."
+  },
+  {
+   "id": "3101_001446_r7",
+   "cat": "page_footer",
+   "bbox_px": [
+    120,
+    2055,
+    1580,
+    2078
+   ],
+   "md": "Mccarthy, Anderson and Flores Page 4"
+  }
+ ],
+ "tables": []
+}

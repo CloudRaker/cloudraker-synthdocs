@@ -1,0 +1,304 @@
+{
+ "id": "4001_002254",
+ "industry": "manufacturing",
+ "doctype": "calibration_certificate",
+ "lang": "en",
+ "seed": "4001_002254",
+ "preset": "clean",
+ "bbox_approx": false,
+ "styled": true,
+ "homography": null,
+ "width": 1700,
+ "height": 2200,
+ "page_md": "**Services d'étalonnage Winters**\n**ISO/IEC 17025:2017 accredited - SCC #934**\n163 Macleod Trail SE\nHalifax, NS B3X 4Z0\nTel. (782) 907-6204\n\n**Certificate**\nCAL-5002-83484\n\n# **CERTIFICATE OF CALIBRATION**\n\n| Certificate No. | CAL-5002-83484 | Calibration Date | 2026-10-21 |\n|---|---|---|---|\n| Instrument | Pressure gauge, Ashcroft 1009 | Range | 0-1000 kPa |\n| Serial No. | KD457980 | Asset / ID No. | GA-9070 |\n| Customer | Phelps Steel Corp. | Cal. Interval | 6 months |\n| Procedure | CP-606 Rev B | Condition Received | Good |\n| Temperature | 20.4 ± 0.5 °C | Humidity | 41 % RH |\n\n## **Reference Standards Used**\n\n| Reference Standard | ID | Serial | Traceability | Cert. No. | Due |\n|---|---|---|---|---|---|\n| Digital pressure standard 0-70 bar | DP-02 | S/N 233300 | NIST | 683/3077-23 | 2027-10-29 |\n\n## **Calibration Results**\n\n| Nominal (kPa) | Tolerance | As Found |  |  | As Left |  |  |  |\n|---|---|---|---|---|---|---|---|---|\n|  |  | Reading | Error | Status | Reading | Error | Uncert. (k=2) | Status |\n| 0.0 | ±10.0 | 2.2 | 2.2 | Pass | 2.2 | 2.2 | ±2.5 | Pass |\n| 250.0 | ±10.0 | 247.7 | -2.3 | Pass | 247.7 | -2.3 | ±2.5 | Pass |\n| 500.0 | ±10.0 | 503.7 | 3.7 | Pass | 503.7 | 3.7 | ±2.5 | Pass |\n| 750.0 | ±10.0 | 748.2 | -1.8 | Pass | 748.2 | -1.8 | ±2.5 | Pass |\n| 1,000.0 | ±10.0 | 1,003.0 | 3.0 | Pass | 1,003.0 | 3.0 | ±2.5 | Pass |\n\nError = Reading − Nominal. Pass = |Error| ≤ Tolerance (decision rule: simple acceptance, ILAC-G8).\n\nThe above instrument has been calibrated using standards traceable to the International System of Units (SI) through the National Research Council of Canada (NRC) or NIST. The reported expanded uncertainty is based on a coverage factor k = 2, providing a confidence level of approximately 95 %. This certificate shall not be reproduced, except in full, without written approval of the laboratory. Results relate only to the item calibrated.\n\nCalibrated by\n\nValerie Rodriguez\nDate: Oct 21, 2026\n\nApproved by (Technical Signatory)\n\nBrandon Flores\nDate: 2026-10-23\n\nServices d'étalonnage Winters | Uncontrolled when printed | F-CAL-016 Rev 5 | Page 1 of 1",
+ "layout_1036": [
+  {
+   "bbox": [
+    91,
+    71,
+    385,
+    148
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    789,
+    75,
+    909,
+    105
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    311,
+    162,
+    725,
+    189
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    91,
+    198,
+    945,
+    337
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    91,
+    343,
+    353,
+    365
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    91,
+    375,
+    945,
+    408
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    91,
+    413,
+    283,
+    435
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    91,
+    445,
+    945,
+    580
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    91,
+    586,
+    703,
+    600
+   ],
+   "cat": "table_footnote"
+  },
+  {
+   "bbox": [
+    91,
+    601,
+    936,
+    653
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    91,
+    664,
+    279,
+    760
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    527,
+    664,
+    755,
+    749
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    91,
+    951,
+    670,
+    964
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "4001_002254_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    150,
+    150,
+    631,
+    314
+   ],
+   "md": "**Services d'étalonnage Winters**\n**ISO/IEC 17025:2017 accredited - SCC #934**\n163 Macleod Trail SE\nHalifax, NS B3X 4Z0\nTel. (782) 907-6204"
+  },
+  {
+   "id": "4001_002254_r1",
+   "cat": "page_header",
+   "bbox_px": [
+    1295,
+    160,
+    1492,
+    224
+   ],
+   "md": "**Certificate**\nCAL-5002-83484"
+  },
+  {
+   "id": "4001_002254_r2",
+   "cat": "title",
+   "bbox_px": [
+    511,
+    345,
+    1189,
+    401
+   ],
+   "md": "# **CERTIFICATE OF CALIBRATION**"
+  },
+  {
+   "id": "4001_002254_r3",
+   "cat": "table",
+   "bbox_px": [
+    150,
+    420,
+    1550,
+    715
+   ],
+   "otsl": "<fcel>Certificate No.<fcel>CAL-5002-83484<fcel>Calibration Date<fcel>2026-10-21<nl>\n<fcel>Instrument<fcel>Pressure gauge, Ashcroft 1009<fcel>Range<fcel>0-1000 kPa<nl>\n<fcel>Serial No.<fcel>KD457980<fcel>Asset / ID No.<fcel>GA-9070<nl>\n<fcel>Customer<fcel>Phelps Steel Corp.<fcel>Cal. Interval<fcel>6 months<nl>\n<fcel>Procedure<fcel>CP-606 Rev B<fcel>Condition Received<fcel>Good<nl>\n<fcel>Temperature<fcel>20.4 ± 0.5 °C<fcel>Humidity<fcel>41 % RH<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"grid\"><tbody><tr><th>Certificate No.</th><td><b>CAL-5002-83484</b></td><th>Calibration Date</th><td>2026-10-21</td></tr><tr><th>Instrument</th><td>Pressure gauge, Ashcroft 1009</td><th>Range</th><td>0-1000 kPa</td></tr><tr><th>Serial No.</th><td>KD457980</td><th>Asset / ID No.</th><td>GA-9070</td></tr><tr><th>Customer</th><td>Phelps Steel Corp.</td><th>Cal. Interval</th><td>6 months</td></tr><tr><th>Procedure</th><td>CP-606 Rev B</td><th>Condition Received</th><td>Good</td></tr><tr><th>Temperature</th><td>20.4 ± 0.5 °C</td><th>Humidity</th><td>41 % RH</td></tr></tbody></table>",
+   "md": "| Certificate No. | CAL-5002-83484 | Calibration Date | 2026-10-21 |\n|---|---|---|---|\n| Instrument | Pressure gauge, Ashcroft 1009 | Range | 0-1000 kPa |\n| Serial No. | KD457980 | Asset / ID No. | GA-9070 |\n| Customer | Phelps Steel Corp. | Cal. Interval | 6 months |\n| Procedure | CP-606 Rev B | Condition Received | Good |\n| Temperature | 20.4 ± 0.5 °C | Humidity | 41 % RH |"
+  },
+  {
+   "id": "4001_002254_r4",
+   "cat": "section_header",
+   "bbox_px": [
+    150,
+    729,
+    580,
+    775
+   ],
+   "md": "## **Reference Standards Used**"
+  },
+  {
+   "id": "4001_002254_r5",
+   "cat": "table",
+   "bbox_px": [
+    150,
+    796,
+    1550,
+    867
+   ],
+   "otsl": "<fcel>Reference Standard<fcel>ID<fcel>Serial<fcel>Traceability<fcel>Cert. No.<fcel>Due<nl>\n<fcel>Digital pressure standard 0-70 bar<fcel>DP-02<fcel>S/N 233300<fcel>NIST<fcel>683/3077-23<fcel>2027-10-29<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight small\"><thead><tr><th>Reference Standard</th><th>ID</th><th>Serial</th><th>Traceability</th><th>Cert. No.</th><th>Due</th></tr></thead><tbody><tr><td>Digital pressure standard 0-70 bar</td><td>DP-02</td><td>S/N 233300</td><td>NIST</td><td class=\"small\">683/3077-23</td><td>2027-10-29</td></tr></tbody></table>",
+   "md": "| Reference Standard | ID | Serial | Traceability | Cert. No. | Due |\n|---|---|---|---|---|---|\n| Digital pressure standard 0-70 bar | DP-02 | S/N 233300 | NIST | 683/3077-23 | 2027-10-29 |"
+  },
+  {
+   "id": "4001_002254_r6",
+   "cat": "section_header",
+   "bbox_px": [
+    150,
+    878,
+    464,
+    924
+   ],
+   "md": "## **Calibration Results**"
+  },
+  {
+   "id": "4001_002254_r7",
+   "cat": "table",
+   "bbox_px": [
+    150,
+    945,
+    1550,
+    1231
+   ],
+   "otsl": "<fcel>Nominal (kPa)<fcel>Tolerance<fcel>As Found<lcel><lcel><fcel>As Left<lcel><lcel><lcel><nl>\n<ucel><ucel><fcel>Reading<fcel>Error<fcel>Status<fcel>Reading<fcel>Error<fcel>Uncert. (k=2)<fcel>Status<nl>\n<fcel>0.0<fcel>±10.0<fcel>2.2<fcel>2.2<fcel>Pass<fcel>2.2<fcel>2.2<fcel>±2.5<fcel>Pass<nl>\n<fcel>250.0<fcel>±10.0<fcel>247.7<fcel>-2.3<fcel>Pass<fcel>247.7<fcel>-2.3<fcel>±2.5<fcel>Pass<nl>\n<fcel>500.0<fcel>±10.0<fcel>503.7<fcel>3.7<fcel>Pass<fcel>503.7<fcel>3.7<fcel>±2.5<fcel>Pass<nl>\n<fcel>750.0<fcel>±10.0<fcel>748.2<fcel>-1.8<fcel>Pass<fcel>748.2<fcel>-1.8<fcel>±2.5<fcel>Pass<nl>\n<fcel>1,000.0<fcel>±10.0<fcel>1,003.0<fcel>3.0<fcel>Pass<fcel>1,003.0<fcel>3.0<fcel>±2.5<fcel>Pass<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight\"><thead><tr><th rowspan=\"2\" class=\"r\">Nominal (kPa)</th><th rowspan=\"2\" class=\"r\">Tolerance</th><th colspan=\"3\">As Found</th><th colspan=\"4\">As Left</th></tr><tr><th class=\"r\">Reading</th><th class=\"r\">Error</th><th class=\"c\">Status</th><th class=\"r\">Reading</th><th class=\"r\">Error</th><th class=\"r\">Uncert. (k=2)</th><th class=\"c\">Status</th></tr></thead><tbody><tr><td class=\"r\">0.0</td><td class=\"r\">±10.0</td><td class=\"r\">2.2</td><td class=\"r\">2.2</td><td class=\"c\">Pass</td><td class=\"r\">2.2</td><td class=\"r\">2.2</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">250.0</td><td class=\"r\">±10.0</td><td class=\"r\">247.7</td><td class=\"r\">-2.3</td><td class=\"c\">Pass</td><td class=\"r\">247.7</td><td class=\"r\">-2.3</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">500.0</td><td class=\"r\">±10.0</td><td class=\"r\">503.7</td><td class=\"r\">3.7</td><td class=\"c\">Pass</td><td class=\"r\">503.7</td><td class=\"r\">3.7</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">750.0</td><td class=\"r\">±10.0</td><td class=\"r\">748.2</td><td class=\"r\">-1.8</td><td class=\"c\">Pass</td><td class=\"r\">748.2</td><td class=\"r\">-1.8</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">1,000.0</td><td class=\"r\">±10.0</td><td class=\"r\">1,003.0</td><td class=\"r\">3.0</td><td class=\"c\">Pass</td><td class=\"r\">1,003.0</td><td class=\"r\">3.0</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr></tbody></table>",
+   "md": "| Nominal (kPa) | Tolerance | As Found |  |  | As Left |  |  |  |\n|---|---|---|---|---|---|---|---|---|\n|  |  | Reading | Error | Status | Reading | Error | Uncert. (k=2) | Status |\n| 0.0 | ±10.0 | 2.2 | 2.2 | Pass | 2.2 | 2.2 | ±2.5 | Pass |\n| 250.0 | ±10.0 | 247.7 | -2.3 | Pass | 247.7 | -2.3 | ±2.5 | Pass |\n| 500.0 | ±10.0 | 503.7 | 3.7 | Pass | 503.7 | 3.7 | ±2.5 | Pass |\n| 750.0 | ±10.0 | 748.2 | -1.8 | Pass | 748.2 | -1.8 | ±2.5 | Pass |\n| 1,000.0 | ±10.0 | 1,003.0 | 3.0 | Pass | 1,003.0 | 3.0 | ±2.5 | Pass |"
+  },
+  {
+   "id": "4001_002254_r8",
+   "cat": "table_footnote",
+   "bbox_px": [
+    150,
+    1245,
+    1153,
+    1274
+   ],
+   "md": "Error = Reading − Nominal. Pass = |Error| ≤ Tolerance (decision rule: simple acceptance, ILAC-G8)."
+  },
+  {
+   "id": "4001_002254_r9",
+   "cat": "text",
+   "bbox_px": [
+    150,
+    1276,
+    1536,
+    1387
+   ],
+   "md": "The above instrument has been calibrated using standards traceable to the International System of Units (SI) through the National Research Council of Canada (NRC) or NIST. The reported expanded uncertainty is based on a coverage factor k = 2, providing a confidence level of approximately 95 %. This certificate shall not be reproduced, except in full, without written approval of the laboratory. Results relate only to the item calibrated."
+  },
+  {
+   "id": "4001_002254_r10",
+   "cat": "text",
+   "bbox_px": [
+    150,
+    1409,
+    458,
+    1613
+   ],
+   "md": "Calibrated by\n\nValerie Rodriguez\nDate: Oct 21, 2026"
+  },
+  {
+   "id": "4001_002254_r11",
+   "cat": "text",
+   "bbox_px": [
+    865,
+    1409,
+    1239,
+    1591
+   ],
+   "md": "Approved by (Technical Signatory)\n\nBrandon Flores\nDate: 2026-10-23"
+  },
+  {
+   "id": "4001_002254_r12",
+   "cat": "page_footer",
+   "bbox_px": [
+    150,
+    2019,
+    1100,
+    2048
+   ],
+   "md": "Services d'étalonnage Winters | Uncontrolled when printed | F-CAL-016 Rev 5 | Page 1 of 1"
+  }
+ ],
+ "tables": [
+  {
+   "id": "4001_002254_r3",
+   "otsl": "<fcel>Certificate No.<fcel>CAL-5002-83484<fcel>Calibration Date<fcel>2026-10-21<nl>\n<fcel>Instrument<fcel>Pressure gauge, Ashcroft 1009<fcel>Range<fcel>0-1000 kPa<nl>\n<fcel>Serial No.<fcel>KD457980<fcel>Asset / ID No.<fcel>GA-9070<nl>\n<fcel>Customer<fcel>Phelps Steel Corp.<fcel>Cal. Interval<fcel>6 months<nl>\n<fcel>Procedure<fcel>CP-606 Rev B<fcel>Condition Received<fcel>Good<nl>\n<fcel>Temperature<fcel>20.4 ± 0.5 °C<fcel>Humidity<fcel>41 % RH<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"grid\"><tbody><tr><th>Certificate No.</th><td><b>CAL-5002-83484</b></td><th>Calibration Date</th><td>2026-10-21</td></tr><tr><th>Instrument</th><td>Pressure gauge, Ashcroft 1009</td><th>Range</th><td>0-1000 kPa</td></tr><tr><th>Serial No.</th><td>KD457980</td><th>Asset / ID No.</th><td>GA-9070</td></tr><tr><th>Customer</th><td>Phelps Steel Corp.</td><th>Cal. Interval</th><td>6 months</td></tr><tr><th>Procedure</th><td>CP-606 Rev B</td><th>Condition Received</th><td>Good</td></tr><tr><th>Temperature</th><td>20.4 ± 0.5 °C</td><th>Humidity</th><td>41 % RH</td></tr></tbody></table>",
+   "markdown": "| Certificate No. | CAL-5002-83484 | Calibration Date | 2026-10-21 |\n|---|---|---|---|\n| Instrument | Pressure gauge, Ashcroft 1009 | Range | 0-1000 kPa |\n| Serial No. | KD457980 | Asset / ID No. | GA-9070 |\n| Customer | Phelps Steel Corp. | Cal. Interval | 6 months |\n| Procedure | CP-606 Rev B | Condition Received | Good |\n| Temperature | 20.4 ± 0.5 °C | Humidity | 41 % RH |"
+  },
+  {
+   "id": "4001_002254_r5",
+   "otsl": "<fcel>Reference Standard<fcel>ID<fcel>Serial<fcel>Traceability<fcel>Cert. No.<fcel>Due<nl>\n<fcel>Digital pressure standard 0-70 bar<fcel>DP-02<fcel>S/N 233300<fcel>NIST<fcel>683/3077-23<fcel>2027-10-29<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight small\"><thead><tr><th>Reference Standard</th><th>ID</th><th>Serial</th><th>Traceability</th><th>Cert. No.</th><th>Due</th></tr></thead><tbody><tr><td>Digital pressure standard 0-70 bar</td><td>DP-02</td><td>S/N 233300</td><td>NIST</td><td class=\"small\">683/3077-23</td><td>2027-10-29</td></tr></tbody></table>",
+   "markdown": "| Reference Standard | ID | Serial | Traceability | Cert. No. | Due |\n|---|---|---|---|---|---|\n| Digital pressure standard 0-70 bar | DP-02 | S/N 233300 | NIST | 683/3077-23 | 2027-10-29 |"
+  },
+  {
+   "id": "4001_002254_r7",
+   "otsl": "<fcel>Nominal (kPa)<fcel>Tolerance<fcel>As Found<lcel><lcel><fcel>As Left<lcel><lcel><lcel><nl>\n<ucel><ucel><fcel>Reading<fcel>Error<fcel>Status<fcel>Reading<fcel>Error<fcel>Uncert. (k=2)<fcel>Status<nl>\n<fcel>0.0<fcel>±10.0<fcel>2.2<fcel>2.2<fcel>Pass<fcel>2.2<fcel>2.2<fcel>±2.5<fcel>Pass<nl>\n<fcel>250.0<fcel>±10.0<fcel>247.7<fcel>-2.3<fcel>Pass<fcel>247.7<fcel>-2.3<fcel>±2.5<fcel>Pass<nl>\n<fcel>500.0<fcel>±10.0<fcel>503.7<fcel>3.7<fcel>Pass<fcel>503.7<fcel>3.7<fcel>±2.5<fcel>Pass<nl>\n<fcel>750.0<fcel>±10.0<fcel>748.2<fcel>-1.8<fcel>Pass<fcel>748.2<fcel>-1.8<fcel>±2.5<fcel>Pass<nl>\n<fcel>1,000.0<fcel>±10.0<fcel>1,003.0<fcel>3.0<fcel>Pass<fcel>1,003.0<fcel>3.0<fcel>±2.5<fcel>Pass<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight\"><thead><tr><th rowspan=\"2\" class=\"r\">Nominal (kPa)</th><th rowspan=\"2\" class=\"r\">Tolerance</th><th colspan=\"3\">As Found</th><th colspan=\"4\">As Left</th></tr><tr><th class=\"r\">Reading</th><th class=\"r\">Error</th><th class=\"c\">Status</th><th class=\"r\">Reading</th><th class=\"r\">Error</th><th class=\"r\">Uncert. (k=2)</th><th class=\"c\">Status</th></tr></thead><tbody><tr><td class=\"r\">0.0</td><td class=\"r\">±10.0</td><td class=\"r\">2.2</td><td class=\"r\">2.2</td><td class=\"c\">Pass</td><td class=\"r\">2.2</td><td class=\"r\">2.2</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">250.0</td><td class=\"r\">±10.0</td><td class=\"r\">247.7</td><td class=\"r\">-2.3</td><td class=\"c\">Pass</td><td class=\"r\">247.7</td><td class=\"r\">-2.3</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">500.0</td><td class=\"r\">±10.0</td><td class=\"r\">503.7</td><td class=\"r\">3.7</td><td class=\"c\">Pass</td><td class=\"r\">503.7</td><td class=\"r\">3.7</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">750.0</td><td class=\"r\">±10.0</td><td class=\"r\">748.2</td><td class=\"r\">-1.8</td><td class=\"c\">Pass</td><td class=\"r\">748.2</td><td class=\"r\">-1.8</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr><tr><td class=\"r\">1,000.0</td><td class=\"r\">±10.0</td><td class=\"r\">1,003.0</td><td class=\"r\">3.0</td><td class=\"c\">Pass</td><td class=\"r\">1,003.0</td><td class=\"r\">3.0</td><td class=\"r\">±2.5</td><td class=\"c\">Pass</td></tr></tbody></table>",
+   "markdown": "| Nominal (kPa) | Tolerance | As Found |  |  | As Left |  |  |  |\n|---|---|---|---|---|---|---|---|---|\n|  |  | Reading | Error | Status | Reading | Error | Uncert. (k=2) | Status |\n| 0.0 | ±10.0 | 2.2 | 2.2 | Pass | 2.2 | 2.2 | ±2.5 | Pass |\n| 250.0 | ±10.0 | 247.7 | -2.3 | Pass | 247.7 | -2.3 | ±2.5 | Pass |\n| 500.0 | ±10.0 | 503.7 | 3.7 | Pass | 503.7 | 3.7 | ±2.5 | Pass |\n| 750.0 | ±10.0 | 748.2 | -1.8 | Pass | 748.2 | -1.8 | ±2.5 | Pass |\n| 1,000.0 | ±10.0 | 1,003.0 | 3.0 | Pass | 1,003.0 | 3.0 | ±2.5 | Pass |"
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "id": "1006_001866",
+ "industry": "manufacturing",
+ "doctype": "certificate_of_conformance",
+ "lang": "en",
+ "seed": "1006_001866",
+ "preset": "scan_300dpi",
+ "bbox_approx": false,
+ "homography": [
+  [
+   0.9999935418653398,
+   -0.003593915359708493,
+   3.9587963101404773
+  ],
+  [
+   0.003593915359708493,
+   0.9999935418653398,
+   -3.047724107626044
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "width": 1700,
+ "height": 2200,
+ "page_md": "8388 Carling Avenue · Thunder Bay, ON P7Z 0Y3 · Tel. 807-576-2217\n\n# **CERTIFICATE OF CONFORMANCE**\n\n| Certificate No. | CoC-888749 | Date | Jul 29, 2026 |\n|---|---|---|---|\n| Customer | Manufacturier Hamilton | Customer PO | PO-093259 |\n| Sales Order | SO-15345 | Packing Slip | PS-23347 |\n| Ship Date | 2026-09-26 | Quality System | IATF 16949:2016 |\n\n## **Items Covered**\n\n| Line | Item |  |  | Qty Shipped | Traceability |  |\n|---|---|---|---|---|---|---|\n|  | Part Number | Rev | Description |  | Lot / Batch | Heat No. |\n| 1 | A2522-254 | A | Bracket, mounting, zinc plated | 256 | LOT-200541 | H972707 |\n| 2 | A9841-370 | F | Flange, weld neck, 150# | 291 | LOT-640911 | H414704 |\n| 3 | AT-1034-642 | F | Manifold block, anodized | 317 | LOT-714079 | H616093 |\n| 4 | 688-4789-31 | C | Cover plate, laser cut A36 | 429 | LOT-923505 | H434559 |\n\n## **Statement of Conformance**\n\nWe hereby certify that the items listed above were manufactured, inspected and tested in accordance with the drawings, specifications and requirements of purchase order **PO-093259**, and conform to all applicable requirements. Materials are traceable by heat and lot number. Test reports and inspection records are retained on file for a period of 15 years and are available upon request.\n\n## **Applicable Specifications**\n\n- ASTM A36/A36M-19\n\n- DFARS 252.225-7014\n\n- AWS D1.1:2020\n\nQuality Manager\n\nMichelle Roberts\nDate: 2026-09-28\n\nGonzalez Industries Corp. | Uncontrolled when printed | F-QA-012 Rev C | Page 1 of 1",
+ "layout_1036": [
+  {
+   "bbox": [
+    310,
+    97,
+    729,
+    111
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    252,
+    130,
+    788,
+    161
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    93,
+    169,
+    946,
+    275
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    93,
+    280,
+    260,
+    304
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    92,
+    316,
+    946,
+    449
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    91,
+    455,
+    403,
+    480
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    91,
+    491,
+    944,
+    587
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    91,
+    593,
+    379,
+    617
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    91,
+    629,
+    266,
+    648
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    91,
+    647,
+    263,
+    666
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    91,
+    666,
+    215,
+    685
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    90,
+    695,
+    297,
+    793
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    90,
+    949,
+    638,
+    965
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "1006_001866_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    509,
+    205,
+    1197,
+    236
+   ],
+   "md": "8388 Carling Avenue · Thunder Bay, ON P7Z 0Y3 · Tel. 807-576-2217"
+  },
+  {
+   "id": "1006_001866_r1",
+   "cat": "title",
+   "bbox_px": [
+    413,
+    276,
+    1293,
+    341
+   ],
+   "md": "# **CERTIFICATE OF CONFORMANCE**"
+  },
+  {
+   "id": "1006_001866_r2",
+   "cat": "table",
+   "bbox_px": [
+    152,
+    358,
+    1553,
+    583
+   ],
+   "otsl": "<fcel>Certificate No.<fcel>CoC-888749<fcel>Date<fcel>Jul 29, 2026<nl>\n<fcel>Customer<fcel>Manufacturier Hamilton<fcel>Customer PO<fcel>PO-093259<nl>\n<fcel>Sales Order<fcel>SO-15345<fcel>Packing Slip<fcel>PS-23347<nl>\n<fcel>Ship Date<fcel>2026-09-26<fcel>Quality System<fcel>IATF 16949:2016<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"grid\"><tbody><tr><th>Certificate No.</th><td>CoC-888749</td><th>Date</th><td>Jul 29, 2026</td></tr><tr><th>Customer</th><td>Manufacturier Hamilton</td><th>Customer PO</th><td>PO-093259</td></tr><tr><th>Sales Order</th><td>SO-15345</td><th>Packing Slip</th><td>PS-23347</td></tr><tr><th>Ship Date</th><td>2026-09-26</td><th>Quality System</th><td>IATF 16949:2016</td></tr></tbody></table>",
+   "md": "| Certificate No. | CoC-888749 | Date | Jul 29, 2026 |\n|---|---|---|---|\n| Customer | Manufacturier Hamilton | Customer PO | PO-093259 |\n| Sales Order | SO-15345 | Packing Slip | PS-23347 |\n| Ship Date | 2026-09-26 | Quality System | IATF 16949:2016 |"
+  },
+  {
+   "id": "1006_001866_r3",
+   "cat": "section_header",
+   "bbox_px": [
+    152,
+    595,
+    426,
+    646
+   ],
+   "md": "## **Items Covered**"
+  },
+  {
+   "id": "1006_001866_r4",
+   "cat": "table",
+   "bbox_px": [
+    151,
+    671,
+    1552,
+    954
+   ],
+   "otsl": "<fcel>Line<fcel>Item<lcel><lcel><fcel>Qty Shipped<fcel>Traceability<lcel><nl>\n<ucel><fcel>Part Number<fcel>Rev<fcel>Description<ucel><fcel>Lot / Batch<fcel>Heat No.<nl>\n<fcel>1<fcel>A2522-254<fcel>A<fcel>Bracket, mounting, zinc plated<fcel>256<fcel>LOT-200541<fcel>H972707<nl>\n<fcel>2<fcel>A9841-370<fcel>F<fcel>Flange, weld neck, 150#<fcel>291<fcel>LOT-640911<fcel>H414704<nl>\n<fcel>3<fcel>AT-1034-642<fcel>F<fcel>Manifold block, anodized<fcel>317<fcel>LOT-714079<fcel>H616093<nl>\n<fcel>4<fcel>688-4789-31<fcel>C<fcel>Cover plate, laser cut A36<fcel>429<fcel>LOT-923505<fcel>H434559<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight\"><thead><tr><th rowspan=\"2\" class=\"c\">Line</th><th colspan=\"3\">Item</th><th rowspan=\"2\" class=\"r\">Qty Shipped</th><th colspan=\"2\">Traceability</th></tr><tr><th>Part Number</th><th>Rev</th><th>Description</th><th>Lot / Batch</th><th>Heat No.</th></tr></thead><tbody><tr><td class=\"c\">1</td><td>A2522-254</td><td class=\"c\">A</td><td class=\"wrap\">Bracket, mounting, zinc plated</td><td class=\"r\">256</td><td>LOT-200541</td><td>H972707</td></tr><tr><td class=\"c\">2</td><td>A9841-370</td><td class=\"c\">F</td><td class=\"wrap\">Flange, weld neck, 150#</td><td class=\"r\">291</td><td>LOT-640911</td><td>H414704</td></tr><tr><td class=\"c\">3</td><td>AT-1034-642</td><td class=\"c\">F</td><td class=\"wrap\">Manifold block, anodized</td><td class=\"r\">317</td><td>LOT-714079</td><td>H616093</td></tr><tr><td class=\"c\">4</td><td>688-4789-31</td><td class=\"c\">C</td><td class=\"wrap\">Cover plate, laser cut A36</td><td class=\"r\">429</td><td>LOT-923505</td><td>H434559</td></tr></tbody></table>",
+   "md": "| Line | Item |  |  | Qty Shipped | Traceability |  |\n|---|---|---|---|---|---|---|\n|  | Part Number | Rev | Description |  | Lot / Batch | Heat No. |\n| 1 | A2522-254 | A | Bracket, mounting, zinc plated | 256 | LOT-200541 | H972707 |\n| 2 | A9841-370 | F | Flange, weld neck, 150# | 291 | LOT-640911 | H414704 |\n| 3 | AT-1034-642 | F | Manifold block, anodized | 317 | LOT-714079 | H616093 |\n| 4 | 688-4789-31 | C | Cover plate, laser cut A36 | 429 | LOT-923505 | H434559 |"
+  },
+  {
+   "id": "1006_001866_r5",
+   "cat": "section_header",
+   "bbox_px": [
+    150,
+    967,
+    661,
+    1019
+   ],
+   "md": "## **Statement of Conformance**"
+  },
+  {
+   "id": "1006_001866_r6",
+   "cat": "text",
+   "bbox_px": [
+    149,
+    1042,
+    1549,
+    1247
+   ],
+   "md": "We hereby certify that the items listed above were manufactured, inspected and tested in accordance with the drawings, specifications and requirements of purchase order **PO-093259**, and conform to all applicable requirements. Materials are traceable by heat and lot number. Test reports and inspection records are retained on file for a period of 15 years and are available upon request."
+  },
+  {
+   "id": "1006_001866_r7",
+   "cat": "section_header",
+   "bbox_px": [
+    149,
+    1259,
+    622,
+    1311
+   ],
+   "md": "## **Applicable Specifications**"
+  },
+  {
+   "id": "1006_001866_r8",
+   "cat": "list_item",
+   "bbox_px": [
+    149,
+    1335,
+    437,
+    1376
+   ],
+   "md": "- ASTM A36/A36M-19"
+  },
+  {
+   "id": "1006_001866_r9",
+   "cat": "list_item",
+   "bbox_px": [
+    149,
+    1374,
+    431,
+    1415
+   ],
+   "md": "- DFARS 252.225-7014"
+  },
+  {
+   "id": "1006_001866_r10",
+   "cat": "list_item",
+   "bbox_px": [
+    149,
+    1414,
+    353,
+    1455
+   ],
+   "md": "- AWS D1.1:2020"
+  },
+  {
+   "id": "1006_001866_r11",
+   "cat": "text",
+   "bbox_px": [
+    148,
+    1475,
+    487,
+    1684
+   ],
+   "md": "Quality Manager\n\nMichelle Roberts\nDate: 2026-09-28"
+  },
+  {
+   "id": "1006_001866_r12",
+   "cat": "page_footer",
+   "bbox_px": [
+    147,
+    2016,
+    1047,
+    2049
+   ],
+   "md": "Gonzalez Industries Corp. | Uncontrolled when printed | F-QA-012 Rev C | Page 1 of 1"
+  }
+ ],
+ "tables": [
+  {
+   "id": "1006_001866_r2",
+   "otsl": "<fcel>Certificate No.<fcel>CoC-888749<fcel>Date<fcel>Jul 29, 2026<nl>\n<fcel>Customer<fcel>Manufacturier Hamilton<fcel>Customer PO<fcel>PO-093259<nl>\n<fcel>Sales Order<fcel>SO-15345<fcel>Packing Slip<fcel>PS-23347<nl>\n<fcel>Ship Date<fcel>2026-09-26<fcel>Quality System<fcel>IATF 16949:2016<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"grid\"><tbody><tr><th>Certificate No.</th><td>CoC-888749</td><th>Date</th><td>Jul 29, 2026</td></tr><tr><th>Customer</th><td>Manufacturier Hamilton</td><th>Customer PO</th><td>PO-093259</td></tr><tr><th>Sales Order</th><td>SO-15345</td><th>Packing Slip</th><td>PS-23347</td></tr><tr><th>Ship Date</th><td>2026-09-26</td><th>Quality System</th><td>IATF 16949:2016</td></tr></tbody></table>",
+   "markdown": "| Certificate No. | CoC-888749 | Date | Jul 29, 2026 |\n|---|---|---|---|\n| Customer | Manufacturier Hamilton | Customer PO | PO-093259 |\n| Sales Order | SO-15345 | Packing Slip | PS-23347 |\n| Ship Date | 2026-09-26 | Quality System | IATF 16949:2016 |"
+  },
+  {
+   "id": "1006_001866_r4",
+   "otsl": "<fcel>Line<fcel>Item<lcel><lcel><fcel>Qty Shipped<fcel>Traceability<lcel><nl>\n<ucel><fcel>Part Number<fcel>Rev<fcel>Description<ucel><fcel>Lot / Batch<fcel>Heat No.<nl>\n<fcel>1<fcel>A2522-254<fcel>A<fcel>Bracket, mounting, zinc plated<fcel>256<fcel>LOT-200541<fcel>H972707<nl>\n<fcel>2<fcel>A9841-370<fcel>F<fcel>Flange, weld neck, 150#<fcel>291<fcel>LOT-640911<fcel>H414704<nl>\n<fcel>3<fcel>AT-1034-642<fcel>F<fcel>Manifold block, anodized<fcel>317<fcel>LOT-714079<fcel>H616093<nl>\n<fcel>4<fcel>688-4789-31<fcel>C<fcel>Cover plate, laser cut A36<fcel>429<fcel>LOT-923505<fcel>H434559<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight\"><thead><tr><th rowspan=\"2\" class=\"c\">Line</th><th colspan=\"3\">Item</th><th rowspan=\"2\" class=\"r\">Qty Shipped</th><th colspan=\"2\">Traceability</th></tr><tr><th>Part Number</th><th>Rev</th><th>Description</th><th>Lot / Batch</th><th>Heat No.</th></tr></thead><tbody><tr><td class=\"c\">1</td><td>A2522-254</td><td class=\"c\">A</td><td class=\"wrap\">Bracket, mounting, zinc plated</td><td class=\"r\">256</td><td>LOT-200541</td><td>H972707</td></tr><tr><td class=\"c\">2</td><td>A9841-370</td><td class=\"c\">F</td><td class=\"wrap\">Flange, weld neck, 150#</td><td class=\"r\">291</td><td>LOT-640911</td><td>H414704</td></tr><tr><td class=\"c\">3</td><td>AT-1034-642</td><td class=\"c\">F</td><td class=\"wrap\">Manifold block, anodized</td><td class=\"r\">317</td><td>LOT-714079</td><td>H616093</td></tr><tr><td class=\"c\">4</td><td>688-4789-31</td><td class=\"c\">C</td><td class=\"wrap\">Cover plate, laser cut A36</td><td class=\"r\">429</td><td>LOT-923505</td><td>H434559</td></tr></tbody></table>",
+   "markdown": "| Line | Item |  |  | Qty Shipped | Traceability |  |\n|---|---|---|---|---|---|---|\n|  | Part Number | Rev | Description |  | Lot / Batch | Heat No. |\n| 1 | A2522-254 | A | Bracket, mounting, zinc plated | 256 | LOT-200541 | H972707 |\n| 2 | A9841-370 | F | Flange, weld neck, 150# | 291 | LOT-640911 | H414704 |\n| 3 | AT-1034-642 | F | Manifold block, anodized | 317 | LOT-714079 | H616093 |\n| 4 | 688-4789-31 | C | Cover plate, laser cut A36 | 429 | LOT-923505 | H434559 |"
+  }
+ ]
+}

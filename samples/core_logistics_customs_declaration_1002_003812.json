@@ -1,0 +1,239 @@
+{
+ "id": "1002_003812",
+ "industry": "logistics",
+ "doctype": "customs_declaration",
+ "lang": "en",
+ "seed": "1002_003812",
+ "preset": "photo_phone",
+ "bbox_approx": false,
+ "homography": [
+  [
+   0.9693632303259162,
+   0.0603616275058777,
+   18.345476150512695
+  ],
+  [
+   0.0959762498943745,
+   1.0429031134854159,
+   71.8172607421875
+  ],
+  [
+   3.378889126075717e-05,
+   5.257035616858241e-05,
+   1.0
+  ]
+ ],
+ "width": 1700,
+ "height": 2200,
+ "page_md": "DEPARTMENT OF HOMELAND SECURITY\nU.S. Customs and Border Protection\n\n# **ENTRY SUMMARY**\n\nForm Approved OMB No. 1651-0022\nEXP. 01-31-2027\n**CBP Form 7501**\n\n| 1 FILER CODE/ENTRY NUMBER VFV-2972348-4 |  | 2 ENTRY TYPE 06 | 3 SUMMARY DATE 03/21/2026 | 4 SURETY NO. 687 | 5 BOND TYPE 8 | 6 PORT CODE 3901 | 7 ENTRY DATE 03/21/2026 |\n|---|---|---|---|---|---|---|---|\n| 8 IMPORTING CARRIER Vaughn Logistics Inc. |  | 9 MODE OF TRANSPORT 30 | 10 COUNTRY OF ORIGIN US | 11 IMPORT DATE 04/05/2026 | 12 B/L OR AWB NUMBER STBE17133700 |  | 13 MANUFACTURER ID JF922KGK9287 |\n| 14 EXPORTING COUNTRY CA | 15 EXPORT DATE 04/05/2026 | 16 I.T. NUMBER | 17 I.T. DATE | 18 MISSING DOCS | 19 FOREIGN PORT OF LADING | 20 U.S. PORT OF UNLADING 0712 |  |\n| 21 LOCATION OF GOODS/G.O. NO. M067 |  | 22 CONSIGNEE NO. 95-842932200 |  | 23 IMPORTER NO. 77-681103600 |  | 24 REFERENCE NO. REF451861 |  |\n| 25 ULTIMATE CONSIGNEE NAME AND ADDRESS Smith LLC 9009 Spring Garden Road, Unit 447 Windsor, ON N9B 2W4 |  |  |  | 26 IMPORTER OF RECORD NAME AND ADDRESS Stephens LLC 3635 Danforth Avenue Kitchener, ON N2B 0Z2 |  |  |  |\n\n| 27 Line No. | 28. Description of Merchandise |  |  | 32 A. HTSUS Rate B. AD/CVD Rate C. IRC Rate D. Visa No. | 33 Duty and I.R. Tax Dollars Cents |\n|---|---|---|---|---|---|\n|  | 29 A. HTSUS No. B. AD/CVD No. | 30 A. Gross Weight B. Manifest Qty. | 31 Net Quantity in HTSUS Units / Entered Value CHGS Relationship |  |  |\n| 001 | Plastic cable ties 300mm (bag of 100) |  |  | 3.7% | 94.05 |\n|  | 3926909961 | 144 KG 40 CTN | 454 PCS 2,542 C 765 N |  |  |\n| 002 | Safety boots CSA grade 1, size run |  |  | 0% FREE | 0.00 |\n|  | 6403999016 | 1,678 KG 14 CTN | 975 KG 86,847 C 64 N |  |  |\n| 003 | Steel brackets, galvanized |  |  | 2.5% A-570-755 | 36.55 |\n|  | 7326909084 | 142 KG 22 CTN | 176 NO 1,462 C 190 Y |  |  |\n| 004 | Hex bolts M10x40 zinc plated NO. UX-1062 |  |  | 3.7% | 13.88 |\n|  | 7318150048 | 44 KG 24 CTN | 38 KG 375 C 331 Y |  |  |\n| 005 | Passenger car tires 205/55R16 NO. KT-8356 |  |  | 0% FREE A-570-351 | 0.00 |\n|  | 4011100046 | 18 KG 20 CTN | 2 KG 319 C 406 N |  |  |\n\n| 35 TOTAL ENTERED VALUE $ 91,545.00 |  |\n|---|---|\n| 37 DUTY 144.48 | 38 TAX 0.00 |\n| 39 OTHER (MPF / HMF) 431.54 | 40 TOTAL 576.02 |\n\n**DECLARATION OF IMPORTER OF RECORD (OWNER OR PURCHASER) OR AUTHORIZED AGENT**\nI declare that I am the importer of record and that the merchandise was obtained pursuant to a purchase; that the statements in the documents herein filed fully disclose to the best of my knowledge and belief the true prices, values, quantities, rebates, drawbacks, fees, commissions, and royalties and are true and correct.\n41 Declarant Name: Jamie Gentry Title: Licensed Customs Broker Signature: Date: 03/21/2026\n\n42 Broker/Filer Information: Conrad Inc Tel. 905-702-7716 43 Broker/Importer File No. 392812\n\nCBP Form 7501 (5/22) · Page 1 of 1",
+ "layout_1036": [
+  {
+   "bbox": [
+    67,
+    81,
+    328,
+    127
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    433,
+    108,
+    601,
+    143
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    704,
+    128,
+    912,
+    179
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    70,
+    125,
+    910,
+    429
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    88,
+    390,
+    905,
+    718
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    552,
+    711,
+    898,
+    829
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    117,
+    810,
+    879,
+    900
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    122,
+    883,
+    737,
+    910
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    127,
+    954,
+    349,
+    969
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "1002_003812_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    110,
+    171,
+    539,
+    269
+   ],
+   "md": "DEPARTMENT OF HOMELAND SECURITY\nU.S. Customs and Border Protection"
+  },
+  {
+   "id": "1002_003812_r1",
+   "cat": "title",
+   "bbox_px": [
+    711,
+    229,
+    987,
+    304
+   ],
+   "md": "# **ENTRY SUMMARY**"
+  },
+  {
+   "id": "1002_003812_r2",
+   "cat": "page_header",
+   "bbox_px": [
+    1156,
+    271,
+    1496,
+    381
+   ],
+   "md": "Form Approved OMB No. 1651-0022\nEXP. 01-31-2027\n**CBP Form 7501**"
+  },
+  {
+   "id": "1002_003812_r3",
+   "cat": "table",
+   "bbox_px": [
+    115,
+    265,
+    1494,
+    912
+   ],
+   "otsl": "<fcel>1 FILER CODE/ENTRY NUMBER VFV-2972348-4<lcel><fcel>2 ENTRY TYPE 06<fcel>3 SUMMARY DATE 03/21/2026<fcel>4 SURETY NO. 687<fcel>5 BOND TYPE 8<fcel>6 PORT CODE 3901<fcel>7 ENTRY DATE 03/21/2026<nl>\n<fcel>8 IMPORTING CARRIER Vaughn Logistics Inc.<lcel><fcel>9 MODE OF TRANSPORT 30<fcel>10 COUNTRY OF ORIGIN US<fcel>11 IMPORT DATE 04/05/2026<fcel>12 B/L OR AWB NUMBER STBE17133700<lcel><fcel>13 MANUFACTURER ID JF922KGK9287<nl>\n<fcel>14 EXPORTING COUNTRY CA<fcel>15 EXPORT DATE 04/05/2026<fcel>16 I.T. NUMBER<fcel>17 I.T. DATE<fcel>18 MISSING DOCS<fcel>19 FOREIGN PORT OF LADING<fcel>20 U.S. PORT OF UNLADING 0712<lcel><nl>\n<fcel>21 LOCATION OF GOODS/G.O. NO. M067<lcel><fcel>22 CONSIGNEE NO. 95-842932200<lcel><fcel>23 IMPORTER NO. 77-681103600<lcel><fcel>24 REFERENCE NO. REF451861<lcel><nl>\n<fcel>25 ULTIMATE CONSIGNEE NAME AND ADDRESS Smith LLC 9009 Spring Garden Road, Unit 447 Windsor, ON N9B 2W4<lcel><lcel><lcel><fcel>26 IMPORTER OF RECORD NAME AND ADDRESS Stephens LLC 3635 Danforth Avenue Kitchener, ON N2B 0Z2<lcel><lcel><lcel><nl>\n",
+   "html": "<table data-cat=\"table\" class=\"form b3\"><tbody><tr><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">1</span> FILER CODE/ENTRY NUMBER</span><br><span class=\"mono\">VFV-2972348-4</span></td><td><span class=\"lbl\"><span class=\"n\">2</span> ENTRY TYPE</span><br>06</td><td><span class=\"lbl\"><span class=\"n\">3</span> SUMMARY DATE</span><br>03/21/2026</td><td><span class=\"lbl\"><span class=\"n\">4</span> SURETY NO.</span><br>687</td><td><span class=\"lbl\"><span class=\"n\">5</span> BOND TYPE</span><br>8</td><td><span class=\"lbl\"><span class=\"n\">6</span> PORT CODE</span><br>3901</td><td><span class=\"lbl\"><span class=\"n\">7</span> ENTRY DATE</span><br>03/21/2026</td></tr><tr><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">8</span> IMPORTING CARRIER</span><br>Vaughn Logistics Inc.</td><td><span class=\"lbl\"><span class=\"n\">9</span> MODE OF TRANSPORT</span><br>30</td><td><span class=\"lbl\"><span class=\"n\">10</span> COUNTRY OF ORIGIN</span><br>US</td><td><span class=\"lbl\"><span class=\"n\">11</span> IMPORT DATE</span><br>04/05/2026</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">12</span> B/L OR AWB NUMBER</span><br>STBE17133700</td><td><span class=\"lbl\"><span class=\"n\">13</span> MANUFACTURER ID</span><br>JF922KGK9287</td></tr><tr><td><span class=\"lbl\"><span class=\"n\">14</span> EXPORTING COUNTRY</span><br>CA</td><td><span class=\"lbl\"><span class=\"n\">15</span> EXPORT DATE</span><br>04/05/2026</td><td><span class=\"lbl\"><span class=\"n\">16</span> I.T. NUMBER</span><br></td><td><span class=\"lbl\"><span class=\"n\">17</span> I.T. DATE</span><br></td><td><span class=\"lbl\"><span class=\"n\">18</span> MISSING DOCS</span><br></td><td><span class=\"lbl\"><span class=\"n\">19</span> FOREIGN PORT OF LADING</span><br></td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">20</span> U.S. PORT OF UNLADING</span><br>0712</td></tr><tr><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">21</span> LOCATION OF GOODS/G.O. NO.</span><br>M067</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">22</span> CONSIGNEE NO.</span><br>95-842932200</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">23</span> IMPORTER NO.</span><br>77-681103600</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">24</span> REFERENCE NO.</span><br>REF451861</td></tr><tr><td colspan=\"4\"><span class=\"lbl\"><span class=\"n\">25</span> ULTIMATE CONSIGNEE NAME AND ADDRESS</span><br><b>Smith LLC</b><br>9009 Spring Garden Road, Unit 447<br>Windsor, ON  N9B 2W4</td><td colspan=\"4\"><span class=\"lbl\"><span class=\"n\">26</span> IMPORTER OF RECORD NAME AND ADDRESS</span><br><b>Stephens LLC</b><br>3635 Danforth Avenue<br>Kitchener, ON  N2B 0Z2</td></tr></tbody></table>",
+   "md": "| 1 FILER CODE/ENTRY NUMBER VFV-2972348-4 |  | 2 ENTRY TYPE 06 | 3 SUMMARY DATE 03/21/2026 | 4 SURETY NO. 687 | 5 BOND TYPE 8 | 6 PORT CODE 3901 | 7 ENTRY DATE 03/21/2026 |\n|---|---|---|---|---|---|---|---|\n| 8 IMPORTING CARRIER Vaughn Logistics Inc. |  | 9 MODE OF TRANSPORT 30 | 10 COUNTRY OF ORIGIN US | 11 IMPORT DATE 04/05/2026 | 12 B/L OR AWB NUMBER STBE17133700 |  | 13 MANUFACTURER ID JF922KGK9287 |\n| 14 EXPORTING COUNTRY CA | 15 EXPORT DATE 04/05/2026 | 16 I.T. NUMBER | 17 I.T. DATE | 18 MISSING DOCS | 19 FOREIGN PORT OF LADING | 20 U.S. PORT OF UNLADING 0712 |  |\n| 21 LOCATION OF GOODS/G.O. NO. M067 |  | 22 CONSIGNEE NO. 95-842932200 |  | 23 IMPORTER NO. 77-681103600 |  | 24 REFERENCE NO. REF451861 |  |\n| 25 ULTIMATE CONSIGNEE NAME AND ADDRESS Smith LLC 9009 Spring Garden Road, Unit 447 Windsor, ON N9B 2W4 |  |  |  | 26 IMPORTER OF RECORD NAME AND ADDRESS Stephens LLC 3635 Danforth Avenue Kitchener, ON N2B 0Z2 |  |  |  |"
+  },
+  {
+   "id": "1002_003812_r4",
+   "cat": "table",
+   "bbox_px": [
+    145,
+    829,
+    1485,
+    1525
+   ],
+   "otsl": "<fcel>27 Line No.<fcel>28. Description of Merchandise<lcel><lcel><fcel>32 A. HTSUS Rate B. AD/CVD Rate C. IRC Rate D. Visa No.<fcel>33 Duty and I.R. Tax Dollars Cents<nl>\n<ucel><fcel>29 A. HTSUS No. B. AD/CVD No.<fcel>30 A. Gross Weight B. Manifest Qty.<fcel>31 Net Quantity in HTSUS Units / Entered Value CHGS Relationship<ucel><ucel><nl>\n<fcel>001<fcel>Plastic cable ties 300mm (bag of 100)<lcel><lcel><fcel>3.7%<fcel>94.05<nl>\n<ucel><fcel>3926909961<fcel>144 KG 40 CTN<fcel>454 PCS 2,542 C 765 N<ucel><ucel><nl>\n<fcel>002<fcel>Safety boots CSA grade 1, size run<lcel><lcel><fcel>0% FREE<fcel>0.00<nl>\n<ucel><fcel>6403999016<fcel>1,678 KG 14 CTN<fcel>975 KG 86,847 C 64 N<ucel><ucel><nl>\n<fcel>003<fcel>Steel brackets, galvanized<lcel><lcel><fcel>2.5% A-570-755<fcel>36.55<nl>\n<ucel><fcel>7326909084<fcel>142 KG 22 CTN<fcel>176 NO 1,462 C 190 Y<ucel><ucel><nl>\n<fcel>004<fcel>Hex bolts M10x40 zinc plated NO. UX-1062<lcel><lcel><fcel>3.7%<fcel>13.88<nl>\n<ucel><fcel>7318150048<fcel>44 KG 24 CTN<fcel>38 KG 375 C 331 Y<ucel><ucel><nl>\n<fcel>005<fcel>Passenger car tires 205/55R16 NO. KT-8356<lcel><lcel><fcel>0% FREE A-570-351<fcel>0.00<nl>\n<ucel><fcel>4011100046<fcel>18 KG 20 CTN<fcel>2 KG 319 C 406 N<ucel><ucel><nl>\n",
+   "html": "<table data-cat=\"table\" class=\"items b3l\"><thead><tr><th class=\"tiny c\" rowspan=\"2\">27<br>Line No.</th><th class=\"tiny\" colspan=\"3\">28. Description of Merchandise</th><th class=\"tiny c\" rowspan=\"2\">32<br>A. HTSUS Rate<br>B. AD/CVD Rate<br>C. IRC Rate<br>D. Visa No.</th><th class=\"tiny r\" rowspan=\"2\">33<br>Duty and I.R. Tax<br>Dollars &nbsp; Cents</th></tr><tr><th class=\"tiny\">29 &nbsp; A. HTSUS No. &nbsp; B. AD/CVD No.</th><th class=\"tiny\">30 &nbsp; A. Gross Weight &nbsp; B. Manifest Qty.</th><th class=\"tiny\">31 &nbsp; Net Quantity in HTSUS Units &nbsp; / &nbsp; Entered Value &nbsp; CHGS &nbsp; Relationship</th></tr></thead><tbody><tr><td class=\"c\" rowspan=\"2\">001</td><td colspan=\"3\">Plastic cable ties 300mm (bag of 100) &nbsp; </td><td class=\"c\" rowspan=\"2\">3.7% <br></td><td class=\"r\" rowspan=\"2\">94.05</td></tr><tr><td class=\"mono\">3926909961</td><td class=\"r\">144 KG<br>40 CTN</td><td class=\"r\">454 PCS &nbsp; 2,542 &nbsp; C 765 &nbsp; N</td></tr><tr><td class=\"c\" rowspan=\"2\">002</td><td colspan=\"3\">Safety boots CSA grade 1, size run &nbsp; </td><td class=\"c\" rowspan=\"2\">0% FREE<br></td><td class=\"r\" rowspan=\"2\">0.00</td></tr><tr><td class=\"mono\">6403999016</td><td class=\"r\">1,678 KG<br>14 CTN</td><td class=\"r\">975 KG &nbsp; 86,847 &nbsp; C 64 &nbsp; N</td></tr><tr><td class=\"c\" rowspan=\"2\">003</td><td colspan=\"3\">Steel brackets, galvanized &nbsp; </td><td class=\"c\" rowspan=\"2\">2.5% <br>A-570-755</td><td class=\"r\" rowspan=\"2\">36.55</td></tr><tr><td class=\"mono\">7326909084</td><td class=\"r\">142 KG<br>22 CTN</td><td class=\"r\">176 NO &nbsp; 1,462 &nbsp; C 190 &nbsp; Y</td></tr><tr><td class=\"c\" rowspan=\"2\">004</td><td colspan=\"3\">Hex bolts M10x40 zinc plated &nbsp; NO. UX-1062</td><td class=\"c\" rowspan=\"2\">3.7% <br></td><td class=\"r\" rowspan=\"2\">13.88</td></tr><tr><td class=\"mono\">7318150048</td><td class=\"r\">44 KG<br>24 CTN</td><td class=\"r\">38 KG &nbsp; 375 &nbsp; C 331 &nbsp; Y</td></tr><tr><td class=\"c\" rowspan=\"2\">005</td><td colspan=\"3\">Passenger car tires 205/55R16 &nbsp; NO. KT-8356</td><td class=\"c\" rowspan=\"2\">0% FREE<br>A-570-351</td><td class=\"r\" rowspan=\"2\">0.00</td></tr><tr><td class=\"mono\">4011100046</td><td class=\"r\">18 KG<br>20 CTN</td><td class=\"r\">2 KG &nbsp; 319 &nbsp; C 406 &nbsp; N</td></tr></tbody></table>",
+   "md": "| 27 Line No. | 28. Description of Merchandise |  |  | 32 A. HTSUS Rate B. AD/CVD Rate C. IRC Rate D. Visa No. | 33 Duty and I.R. Tax Dollars Cents |\n|---|---|---|---|---|---|\n|  | 29 A. HTSUS No. B. AD/CVD No. | 30 A. Gross Weight B. Manifest Qty. | 31 Net Quantity in HTSUS Units / Entered Value CHGS Relationship |  |  |\n| 001 | Plastic cable ties 300mm (bag of 100) |  |  | 3.7% | 94.05 |\n|  | 3926909961 | 144 KG 40 CTN | 454 PCS 2,542 C 765 N |  |  |\n| 002 | Safety boots CSA grade 1, size run |  |  | 0% FREE | 0.00 |\n|  | 6403999016 | 1,678 KG 14 CTN | 975 KG 86,847 C 64 N |  |  |\n| 003 | Steel brackets, galvanized |  |  | 2.5% A-570-755 | 36.55 |\n|  | 7326909084 | 142 KG 22 CTN | 176 NO 1,462 C 190 Y |  |  |\n| 004 | Hex bolts M10x40 zinc plated NO. UX-1062 |  |  | 3.7% | 13.88 |\n|  | 7318150048 | 44 KG 24 CTN | 38 KG 375 C 331 Y |  |  |\n| 005 | Passenger car tires 205/55R16 NO. KT-8356 |  |  | 0% FREE A-570-351 | 0.00 |\n|  | 4011100046 | 18 KG 20 CTN | 2 KG 319 C 406 N |  |  |"
+  },
+  {
+   "id": "1002_003812_r5",
+   "cat": "table",
+   "bbox_px": [
+    906,
+    1509,
+    1474,
+    1760
+   ],
+   "otsl": "<fcel>35 TOTAL ENTERED VALUE $ 91,545.00<lcel><nl>\n<fcel>37 DUTY 144.48<fcel>38 TAX 0.00<nl>\n<fcel>39 OTHER (MPF / HMF) 431.54<fcel>40 TOTAL 576.02<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"form b3\" style=\"width:45%;margin-left:auto\"><tbody><tr><td colspan=\"2\" class=\"r\"><span class=\"lbl\">35 TOTAL ENTERED VALUE</span><br>$ 91,545.00</td></tr><tr><td class=\"r\"><span class=\"lbl\">37 DUTY</span><br>144.48</td><td class=\"r\"><span class=\"lbl\">38 TAX</span><br>0.00</td></tr><tr><td class=\"r\"><span class=\"lbl\">39 OTHER (MPF / HMF)</span><br>431.54</td><td class=\"r\"><span class=\"lbl\">40 TOTAL</span><br><b>576.02</b></td></tr></tbody></table>",
+   "md": "| 35 TOTAL ENTERED VALUE $ 91,545.00 |  |\n|---|---|\n| 37 DUTY 144.48 | 38 TAX 0.00 |\n| 39 OTHER (MPF / HMF) 431.54 | 40 TOTAL 576.02 |"
+  },
+  {
+   "id": "1002_003812_r6",
+   "cat": "text",
+   "bbox_px": [
+    192,
+    1721,
+    1443,
+    1911
+   ],
+   "md": "**DECLARATION OF IMPORTER OF RECORD (OWNER OR PURCHASER) OR AUTHORIZED AGENT**\nI declare that I am the importer of record and that the merchandise was obtained pursuant to a purchase; that the statements in the documents herein filed fully disclose to the best of my knowledge and belief the true prices, values, quantities, rebates, drawbacks, fees, commissions, and royalties and are true and correct.\n41 Declarant Name: Jamie Gentry Title: Licensed Customs Broker Signature: Date: 03/21/2026"
+  },
+  {
+   "id": "1002_003812_r7",
+   "cat": "text",
+   "bbox_px": [
+    200,
+    1876,
+    1210,
+    1932
+   ],
+   "md": "42 Broker/Filer Information: Conrad Inc Tel. 905-702-7716 43 Broker/Importer File No. 392812"
+  },
+  {
+   "id": "1002_003812_r8",
+   "cat": "page_footer",
+   "bbox_px": [
+    208,
+    2025,
+    572,
+    2058
+   ],
+   "md": "CBP Form 7501 (5/22) · Page 1 of 1"
+  }
+ ],
+ "tables": [
+  {
+   "id": "1002_003812_r3",
+   "otsl": "<fcel>1 FILER CODE/ENTRY NUMBER VFV-2972348-4<lcel><fcel>2 ENTRY TYPE 06<fcel>3 SUMMARY DATE 03/21/2026<fcel>4 SURETY NO. 687<fcel>5 BOND TYPE 8<fcel>6 PORT CODE 3901<fcel>7 ENTRY DATE 03/21/2026<nl>\n<fcel>8 IMPORTING CARRIER Vaughn Logistics Inc.<lcel><fcel>9 MODE OF TRANSPORT 30<fcel>10 COUNTRY OF ORIGIN US<fcel>11 IMPORT DATE 04/05/2026<fcel>12 B/L OR AWB NUMBER STBE17133700<lcel><fcel>13 MANUFACTURER ID JF922KGK9287<nl>\n<fcel>14 EXPORTING COUNTRY CA<fcel>15 EXPORT DATE 04/05/2026<fcel>16 I.T. NUMBER<fcel>17 I.T. DATE<fcel>18 MISSING DOCS<fcel>19 FOREIGN PORT OF LADING<fcel>20 U.S. PORT OF UNLADING 0712<lcel><nl>\n<fcel>21 LOCATION OF GOODS/G.O. NO. M067<lcel><fcel>22 CONSIGNEE NO. 95-842932200<lcel><fcel>23 IMPORTER NO. 77-681103600<lcel><fcel>24 REFERENCE NO. REF451861<lcel><nl>\n<fcel>25 ULTIMATE CONSIGNEE NAME AND ADDRESS Smith LLC 9009 Spring Garden Road, Unit 447 Windsor, ON N9B 2W4<lcel><lcel><lcel><fcel>26 IMPORTER OF RECORD NAME AND ADDRESS Stephens LLC 3635 Danforth Avenue Kitchener, ON N2B 0Z2<lcel><lcel><lcel><nl>\n",
+   "html": "<table data-cat=\"table\" class=\"form b3\"><tbody><tr><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">1</span> FILER CODE/ENTRY NUMBER</span><br><span class=\"mono\">VFV-2972348-4</span></td><td><span class=\"lbl\"><span class=\"n\">2</span> ENTRY TYPE</span><br>06</td><td><span class=\"lbl\"><span class=\"n\">3</span> SUMMARY DATE</span><br>03/21/2026</td><td><span class=\"lbl\"><span class=\"n\">4</span> SURETY NO.</span><br>687</td><td><span class=\"lbl\"><span class=\"n\">5</span> BOND TYPE</span><br>8</td><td><span class=\"lbl\"><span class=\"n\">6</span> PORT CODE</span><br>3901</td><td><span class=\"lbl\"><span class=\"n\">7</span> ENTRY DATE</span><br>03/21/2026</td></tr><tr><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">8</span> IMPORTING CARRIER</span><br>Vaughn Logistics Inc.</td><td><span class=\"lbl\"><span class=\"n\">9</span> MODE OF TRANSPORT</span><br>30</td><td><span class=\"lbl\"><span class=\"n\">10</span> COUNTRY OF ORIGIN</span><br>US</td><td><span class=\"lbl\"><span class=\"n\">11</span> IMPORT DATE</span><br>04/05/2026</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">12</span> B/L OR AWB NUMBER</span><br>STBE17133700</td><td><span class=\"lbl\"><span class=\"n\">13</span> MANUFACTURER ID</span><br>JF922KGK9287</td></tr><tr><td><span class=\"lbl\"><span class=\"n\">14</span> EXPORTING COUNTRY</span><br>CA</td><td><span class=\"lbl\"><span class=\"n\">15</span> EXPORT DATE</span><br>04/05/2026</td><td><span class=\"lbl\"><span class=\"n\">16</span> I.T. NUMBER</span><br></td><td><span class=\"lbl\"><span class=\"n\">17</span> I.T. DATE</span><br></td><td><span class=\"lbl\"><span class=\"n\">18</span> MISSING DOCS</span><br></td><td><span class=\"lbl\"><span class=\"n\">19</span> FOREIGN PORT OF LADING</span><br></td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">20</span> U.S. PORT OF UNLADING</span><br>0712</td></tr><tr><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">21</span> LOCATION OF GOODS/G.O. NO.</span><br>M067</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">22</span> CONSIGNEE NO.</span><br>95-842932200</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">23</span> IMPORTER NO.</span><br>77-681103600</td><td colspan=\"2\"><span class=\"lbl\"><span class=\"n\">24</span> REFERENCE NO.</span><br>REF451861</td></tr><tr><td colspan=\"4\"><span class=\"lbl\"><span class=\"n\">25</span> ULTIMATE CONSIGNEE NAME AND ADDRESS</span><br><b>Smith LLC</b><br>9009 Spring Garden Road, Unit 447<br>Windsor, ON  N9B 2W4</td><td colspan=\"4\"><span class=\"lbl\"><span class=\"n\">26</span> IMPORTER OF RECORD NAME AND ADDRESS</span><br><b>Stephens LLC</b><br>3635 Danforth Avenue<br>Kitchener, ON  N2B 0Z2</td></tr></tbody></table>",
+   "markdown": "| 1 FILER CODE/ENTRY NUMBER VFV-2972348-4 |  | 2 ENTRY TYPE 06 | 3 SUMMARY DATE 03/21/2026 | 4 SURETY NO. 687 | 5 BOND TYPE 8 | 6 PORT CODE 3901 | 7 ENTRY DATE 03/21/2026 |\n|---|---|---|---|---|---|---|---|\n| 8 IMPORTING CARRIER Vaughn Logistics Inc. |  | 9 MODE OF TRANSPORT 30 | 10 COUNTRY OF ORIGIN US | 11 IMPORT DATE 04/05/2026 | 12 B/L OR AWB NUMBER STBE17133700 |  | 13 MANUFACTURER ID JF922KGK9287 |\n| 14 EXPORTING COUNTRY CA | 15 EXPORT DATE 04/05/2026 | 16 I.T. NUMBER | 17 I.T. DATE | 18 MISSING DOCS | 19 FOREIGN PORT OF LADING | 20 U.S. PORT OF UNLADING 0712 |  |\n| 21 LOCATION OF GOODS/G.O. NO. M067 |  | 22 CONSIGNEE NO. 95-842932200 |  | 23 IMPORTER NO. 77-681103600 |  | 24 REFERENCE NO. REF451861 |  |\n| 25 ULTIMATE CONSIGNEE NAME AND ADDRESS Smith LLC 9009 Spring Garden Road, Unit 447 Windsor, ON N9B 2W4 |  |  |  | 26 IMPORTER OF RECORD NAME AND ADDRESS Stephens LLC 3635 Danforth Avenue Kitchener, ON N2B 0Z2 |  |  |  |"
+  },
+  {
+   "id": "1002_003812_r4",
+   "otsl": "<fcel>27 Line No.<fcel>28. Description of Merchandise<lcel><lcel><fcel>32 A. HTSUS Rate B. AD/CVD Rate C. IRC Rate D. Visa No.<fcel>33 Duty and I.R. Tax Dollars Cents<nl>\n<ucel><fcel>29 A. HTSUS No. B. AD/CVD No.<fcel>30 A. Gross Weight B. Manifest Qty.<fcel>31 Net Quantity in HTSUS Units / Entered Value CHGS Relationship<ucel><ucel><nl>\n<fcel>001<fcel>Plastic cable ties 300mm (bag of 100)<lcel><lcel><fcel>3.7%<fcel>94.05<nl>\n<ucel><fcel>3926909961<fcel>144 KG 40 CTN<fcel>454 PCS 2,542 C 765 N<ucel><ucel><nl>\n<fcel>002<fcel>Safety boots CSA grade 1, size run<lcel><lcel><fcel>0% FREE<fcel>0.00<nl>\n<ucel><fcel>6403999016<fcel>1,678 KG 14 CTN<fcel>975 KG 86,847 C 64 N<ucel><ucel><nl>\n<fcel>003<fcel>Steel brackets, galvanized<lcel><lcel><fcel>2.5% A-570-755<fcel>36.55<nl>\n<ucel><fcel>7326909084<fcel>142 KG 22 CTN<fcel>176 NO 1,462 C 190 Y<ucel><ucel><nl>\n<fcel>004<fcel>Hex bolts M10x40 zinc plated NO. UX-1062<lcel><lcel><fcel>3.7%<fcel>13.88<nl>\n<ucel><fcel>7318150048<fcel>44 KG 24 CTN<fcel>38 KG 375 C 331 Y<ucel><ucel><nl>\n<fcel>005<fcel>Passenger car tires 205/55R16 NO. KT-8356<lcel><lcel><fcel>0% FREE A-570-351<fcel>0.00<nl>\n<ucel><fcel>4011100046<fcel>18 KG 20 CTN<fcel>2 KG 319 C 406 N<ucel><ucel><nl>\n",
+   "html": "<table data-cat=\"table\" class=\"items b3l\"><thead><tr><th class=\"tiny c\" rowspan=\"2\">27<br>Line No.</th><th class=\"tiny\" colspan=\"3\">28. Description of Merchandise</th><th class=\"tiny c\" rowspan=\"2\">32<br>A. HTSUS Rate<br>B. AD/CVD Rate<br>C. IRC Rate<br>D. Visa No.</th><th class=\"tiny r\" rowspan=\"2\">33<br>Duty and I.R. Tax<br>Dollars &nbsp; Cents</th></tr><tr><th class=\"tiny\">29 &nbsp; A. HTSUS No. &nbsp; B. AD/CVD No.</th><th class=\"tiny\">30 &nbsp; A. Gross Weight &nbsp; B. Manifest Qty.</th><th class=\"tiny\">31 &nbsp; Net Quantity in HTSUS Units &nbsp; / &nbsp; Entered Value &nbsp; CHGS &nbsp; Relationship</th></tr></thead><tbody><tr><td class=\"c\" rowspan=\"2\">001</td><td colspan=\"3\">Plastic cable ties 300mm (bag of 100) &nbsp; </td><td class=\"c\" rowspan=\"2\">3.7% <br></td><td class=\"r\" rowspan=\"2\">94.05</td></tr><tr><td class=\"mono\">3926909961</td><td class=\"r\">144 KG<br>40 CTN</td><td class=\"r\">454 PCS &nbsp; 2,542 &nbsp; C 765 &nbsp; N</td></tr><tr><td class=\"c\" rowspan=\"2\">002</td><td colspan=\"3\">Safety boots CSA grade 1, size run &nbsp; </td><td class=\"c\" rowspan=\"2\">0% FREE<br></td><td class=\"r\" rowspan=\"2\">0.00</td></tr><tr><td class=\"mono\">6403999016</td><td class=\"r\">1,678 KG<br>14 CTN</td><td class=\"r\">975 KG &nbsp; 86,847 &nbsp; C 64 &nbsp; N</td></tr><tr><td class=\"c\" rowspan=\"2\">003</td><td colspan=\"3\">Steel brackets, galvanized &nbsp; </td><td class=\"c\" rowspan=\"2\">2.5% <br>A-570-755</td><td class=\"r\" rowspan=\"2\">36.55</td></tr><tr><td class=\"mono\">7326909084</td><td class=\"r\">142 KG<br>22 CTN</td><td class=\"r\">176 NO &nbsp; 1,462 &nbsp; C 190 &nbsp; Y</td></tr><tr><td class=\"c\" rowspan=\"2\">004</td><td colspan=\"3\">Hex bolts M10x40 zinc plated &nbsp; NO. UX-1062</td><td class=\"c\" rowspan=\"2\">3.7% <br></td><td class=\"r\" rowspan=\"2\">13.88</td></tr><tr><td class=\"mono\">7318150048</td><td class=\"r\">44 KG<br>24 CTN</td><td class=\"r\">38 KG &nbsp; 375 &nbsp; C 331 &nbsp; Y</td></tr><tr><td class=\"c\" rowspan=\"2\">005</td><td colspan=\"3\">Passenger car tires 205/55R16 &nbsp; NO. KT-8356</td><td class=\"c\" rowspan=\"2\">0% FREE<br>A-570-351</td><td class=\"r\" rowspan=\"2\">0.00</td></tr><tr><td class=\"mono\">4011100046</td><td class=\"r\">18 KG<br>20 CTN</td><td class=\"r\">2 KG &nbsp; 319 &nbsp; C 406 &nbsp; N</td></tr></tbody></table>",
+   "markdown": "| 27 Line No. | 28. Description of Merchandise |  |  | 32 A. HTSUS Rate B. AD/CVD Rate C. IRC Rate D. Visa No. | 33 Duty and I.R. Tax Dollars Cents |\n|---|---|---|---|---|---|\n|  | 29 A. HTSUS No. B. AD/CVD No. | 30 A. Gross Weight B. Manifest Qty. | 31 Net Quantity in HTSUS Units / Entered Value CHGS Relationship |  |  |\n| 001 | Plastic cable ties 300mm (bag of 100) |  |  | 3.7% | 94.05 |\n|  | 3926909961 | 144 KG 40 CTN | 454 PCS 2,542 C 765 N |  |  |\n| 002 | Safety boots CSA grade 1, size run |  |  | 0% FREE | 0.00 |\n|  | 6403999016 | 1,678 KG 14 CTN | 975 KG 86,847 C 64 N |  |  |\n| 003 | Steel brackets, galvanized |  |  | 2.5% A-570-755 | 36.55 |\n|  | 7326909084 | 142 KG 22 CTN | 176 NO 1,462 C 190 Y |  |  |\n| 004 | Hex bolts M10x40 zinc plated NO. UX-1062 |  |  | 3.7% | 13.88 |\n|  | 7318150048 | 44 KG 24 CTN | 38 KG 375 C 331 Y |  |  |\n| 005 | Passenger car tires 205/55R16 NO. KT-8356 |  |  | 0% FREE A-570-351 | 0.00 |\n|  | 4011100046 | 18 KG 20 CTN | 2 KG 319 C 406 N |  |  |"
+  },
+  {
+   "id": "1002_003812_r5",
+   "otsl": "<fcel>35 TOTAL ENTERED VALUE $ 91,545.00<lcel><nl>\n<fcel>37 DUTY 144.48<fcel>38 TAX 0.00<nl>\n<fcel>39 OTHER (MPF / HMF) 431.54<fcel>40 TOTAL 576.02<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"form b3\" style=\"width:45%;margin-left:auto\"><tbody><tr><td colspan=\"2\" class=\"r\"><span class=\"lbl\">35 TOTAL ENTERED VALUE</span><br>$ 91,545.00</td></tr><tr><td class=\"r\"><span class=\"lbl\">37 DUTY</span><br>144.48</td><td class=\"r\"><span class=\"lbl\">38 TAX</span><br>0.00</td></tr><tr><td class=\"r\"><span class=\"lbl\">39 OTHER (MPF / HMF)</span><br>431.54</td><td class=\"r\"><span class=\"lbl\">40 TOTAL</span><br><b>576.02</b></td></tr></tbody></table>",
+   "markdown": "| 35 TOTAL ENTERED VALUE $ 91,545.00 |  |\n|---|---|\n| 37 DUTY 144.48 | 38 TAX 0.00 |\n| 39 OTHER (MPF / HMF) 431.54 | 40 TOTAL 576.02 |"
+  }
+ ]
+}

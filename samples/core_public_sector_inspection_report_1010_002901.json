@@ -1,0 +1,643 @@
+{
+ "id": "1010_002901",
+ "industry": "public_sector",
+ "doctype": "inspection_report",
+ "lang": "en",
+ "seed": "1010_002901",
+ "preset": "scan_skewed",
+ "bbox_approx": false,
+ "homography": [
+  [
+   0.9971958806528665,
+   0.023991553247852064,
+   -24.00720712757376
+  ],
+  [
+   -0.023991553247852064,
+   0.9971958806528665,
+   23.477351542521145
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "width": 1700,
+ "height": 2200,
+ "page_md": "**Township of Severn**\nFire Prevention Division\n\n2991 King Street West, Unit 25\nBrantford (ON) N2G 1P9\nTel.: 905 858-9597\n\n# **Fire Safety Inspection Report**\n\nREPORT NO.\n\nSI-2023-7046\n\nINSPECTION DATE\n\n2023-09-08\n\nTIME\n\n9:15\n\nTYPE\n\nRoutine\n\nPREMISES ADDRESS\n\n461 Main Street, Unit 50, Brantford (ON) L4V 9Z8\n\nOCCUPANT / OPERATOR\n\nRobinson, Molina and Gomez\n\nPERSON CONTACTED\n\nBeverly Barrett\n\nOCCUPANCY\n\nWarehouse\n\nSTOREYS\n\n4\n\nFLOOR AREA (M²)\n\n2631\n\nLAST INSPECTION\n\n2023-01-19\n\n## **Checklist**\n\n| No | Item | Status | Ref. | Observation |\n|---|---|---|---|---|\n| 1 | Portable extinguishers inspected (tag current) | Compliant | s. 3.1 |  |\n| 2 | Emergency lighting operational | Compliant | s. 8.4 | Correction required, see findings |\n| 3 | Exits unobstructed | Non-compliant | s. 9.1 | Documentation provided by operator |\n| 4 | Exit signage illuminated | Compliant | s. 7.2 | Documentation provided by operator |\n| 5 | Fire alarm system — annual verification | Non-compliant | s. 7.4 |  |\n| 6 | Fire doors self-closing | Compliant | s. 9.3 |  |\n| 7 | Sprinkler system — maintenance report | Non-compliant | s. 2.1 |  |\n| 8 | Combustible storage | Non-compliant | s. 7.1 |  |\n| 9 | Fire safety plan posted | N/A | s. 4.9 | Visual check |\n| 10 | Kitchen exhaust hood system | Compliant | s. 9.7 | Correction required, see findings |\n| 11 | Fire department access route | Non-compliant | s. 2.9 |  |\n| 12 | Civic number visible | Compliant | s. 3.9 | Correction required, see findings |\n\n## **Findings and corrective actions**\n\n- **1.** Rear exit obstructed by boxes and a pallet. Clear immediately. *Deadline: 30 days.*\n\n- **2.** Basement emergency lighting failed test. *Deadline: 7 days.*\n\n- **3.** Prep refrigerator at 7 °C. Repair and discard exposed perishable food. *Deadline: 30 days.*\n\n- **4.** No carbon monoxide alarm adjacent to sleeping areas. Install within 30 days. *Deadline: 60 days.*\n\n**Inspector notes :** Exploitant coopératif, correctifs promis d'ici vendredi\n\nOVERALL RESULT\n\nCompliant\n\nRE-INSPECTION SCHEDULED\n\n2023-09-26\n\nINSPECTOR\n\nJohn Moody\n\nOccupant signature (acknowledgement of receipt) : Date : 2023-09-08\n\n**Distribution :**\n\n- Original: operator / owner\n\n- Copy: premises file\n\nTownship of Severn | SI-2023-7046 | Page 1 of 1",
+ "layout_1036": [
+  {
+   "bbox": [
+    116,
+    52,
+    324,
+    92
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    767,
+    38,
+    957,
+    82
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    62,
+    109,
+    394,
+    139
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    68,
+    142,
+    190,
+    171
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    290,
+    137,
+    428,
+    175
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    512,
+    135,
+    548,
+    163
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    734,
+    130,
+    808,
+    162
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    69,
+    174,
+    424,
+    235
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    447,
+    170,
+    628,
+    203
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    701,
+    166,
+    832,
+    198
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    71,
+    237,
+    167,
+    272
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    293,
+    234,
+    350,
+    266
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    515,
+    228,
+    620,
+    268
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    737,
+    224,
+    848,
+    265
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    67,
+    282,
+    147,
+    301
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    68,
+    286,
+    963,
+    580
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    76,
+    583,
+    343,
+    606
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    92,
+    596,
+    704,
+    623
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    93,
+    615,
+    540,
+    639
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    93,
+    627,
+    764,
+    655
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    94,
+    642,
+    820,
+    672
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    79,
+    664,
+    642,
+    697
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    86,
+    695,
+    193,
+    725
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    523,
+    686,
+    700,
+    720
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    748,
+    681,
+    950,
+    742
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    82,
+    751,
+    820,
+    812
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    83,
+    814,
+    176,
+    829
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    104,
+    826,
+    284,
+    843
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    104,
+    842,
+    232,
+    858
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    389,
+    963,
+    675,
+    981
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "1010_002901_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    191,
+    110,
+    532,
+    196
+   ],
+   "md": "**Township of Severn**\nFire Prevention Division"
+  },
+  {
+   "id": "1010_002901_r1",
+   "cat": "page_header",
+   "bbox_px": [
+    1258,
+    80,
+    1571,
+    174
+   ],
+   "md": "2991 King Street West, Unit 25\nBrantford (ON) N2G 1P9\nTel.: 905 858-9597"
+  },
+  {
+   "id": "1010_002901_r2",
+   "cat": "title",
+   "bbox_px": [
+    101,
+    232,
+    647,
+    295
+   ],
+   "md": "# **Fire Safety Inspection Report**"
+  },
+  {
+   "id": "1010_002901_r3",
+   "cat": "text",
+   "bbox_px": [
+    112,
+    301,
+    312,
+    364
+   ],
+   "md": "REPORT NO.\n\nSI-2023-7046"
+  },
+  {
+   "id": "1010_002901_r4",
+   "cat": "text",
+   "bbox_px": [
+    476,
+    291,
+    702,
+    372
+   ],
+   "md": "INSPECTION DATE\n\n2023-09-08"
+  },
+  {
+   "id": "1010_002901_r5",
+   "cat": "text",
+   "bbox_px": [
+    840,
+    287,
+    899,
+    346
+   ],
+   "md": "TIME\n\n9:15"
+  },
+  {
+   "id": "1010_002901_r6",
+   "cat": "text",
+   "bbox_px": [
+    1204,
+    276,
+    1326,
+    345
+   ],
+   "md": "TYPE\n\nRoutine"
+  },
+  {
+   "id": "1010_002901_r7",
+   "cat": "text",
+   "bbox_px": [
+    114,
+    369,
+    696,
+    500
+   ],
+   "md": "PREMISES ADDRESS\n\n461 Main Street, Unit 50, Brantford (ON) L4V 9Z8"
+  },
+  {
+   "id": "1010_002901_r8",
+   "cat": "text",
+   "bbox_px": [
+    733,
+    361,
+    1030,
+    432
+   ],
+   "md": "OCCUPANT / OPERATOR\n\nRobinson, Molina and Gomez"
+  },
+  {
+   "id": "1010_002901_r9",
+   "cat": "text",
+   "bbox_px": [
+    1151,
+    353,
+    1365,
+    421
+   ],
+   "md": "PERSON CONTACTED\n\nBeverly Barrett"
+  },
+  {
+   "id": "1010_002901_r10",
+   "cat": "text",
+   "bbox_px": [
+    117,
+    503,
+    274,
+    578
+   ],
+   "md": "OCCUPANCY\n\nWarehouse"
+  },
+  {
+   "id": "1010_002901_r11",
+   "cat": "text",
+   "bbox_px": [
+    481,
+    496,
+    574,
+    565
+   ],
+   "md": "STOREYS\n\n4"
+  },
+  {
+   "id": "1010_002901_r12",
+   "cat": "text",
+   "bbox_px": [
+    845,
+    485,
+    1017,
+    569
+   ],
+   "md": "FLOOR AREA (M²)\n\n2631"
+  },
+  {
+   "id": "1010_002901_r13",
+   "cat": "text",
+   "bbox_px": [
+    1209,
+    476,
+    1392,
+    563
+   ],
+   "md": "LAST INSPECTION\n\n2023-01-19"
+  },
+  {
+   "id": "1010_002901_r14",
+   "cat": "section_header",
+   "bbox_px": [
+    110,
+    598,
+    241,
+    639
+   ],
+   "md": "## **Checklist**"
+  },
+  {
+   "id": "1010_002901_r15",
+   "cat": "table",
+   "bbox_px": [
+    111,
+    608,
+    1581,
+    1232
+   ],
+   "otsl": "<fcel>No<fcel>Item<fcel>Status<fcel>Ref.<fcel>Observation<nl>\n<fcel>1<fcel>Portable extinguishers inspected (tag current)<fcel>Compliant<fcel>s. 3.1<ecel><nl>\n<fcel>2<fcel>Emergency lighting operational<fcel>Compliant<fcel>s. 8.4<fcel>Correction required, see findings<nl>\n<fcel>3<fcel>Exits unobstructed<fcel>Non-compliant<fcel>s. 9.1<fcel>Documentation provided by operator<nl>\n<fcel>4<fcel>Exit signage illuminated<fcel>Compliant<fcel>s. 7.2<fcel>Documentation provided by operator<nl>\n<fcel>5<fcel>Fire alarm system — annual verification<fcel>Non-compliant<fcel>s. 7.4<ecel><nl>\n<fcel>6<fcel>Fire doors self-closing<fcel>Compliant<fcel>s. 9.3<ecel><nl>\n<fcel>7<fcel>Sprinkler system — maintenance report<fcel>Non-compliant<fcel>s. 2.1<ecel><nl>\n<fcel>8<fcel>Combustible storage<fcel>Non-compliant<fcel>s. 7.1<ecel><nl>\n<fcel>9<fcel>Fire safety plan posted<fcel>N/A<fcel>s. 4.9<fcel>Visual check<nl>\n<fcel>10<fcel>Kitchen exhaust hood system<fcel>Compliant<fcel>s. 9.7<fcel>Correction required, see findings<nl>\n<fcel>11<fcel>Fire department access route<fcel>Non-compliant<fcel>s. 2.9<ecel><nl>\n<fcel>12<fcel>Civic number visible<fcel>Compliant<fcel>s. 3.9<fcel>Correction required, see findings<nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:8.5pt\"><thead><tr><th>No</th><th>Item</th><th>Status</th><th>Ref.</th><th>Observation</th></tr></thead><tbody><tr><td>1</td><td>Portable extinguishers inspected (tag current)</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 3.1</td><td style=\"width:30%\"></td></tr><tr><td>2</td><td>Emergency lighting operational</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 8.4</td><td style=\"width:30%\">Correction required, see findings</td></tr><tr><td>3</td><td>Exits unobstructed</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 9.1</td><td style=\"width:30%\">Documentation provided by operator</td></tr><tr><td>4</td><td>Exit signage illuminated</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 7.2</td><td style=\"width:30%\">Documentation provided by operator</td></tr><tr><td>5</td><td>Fire alarm system — annual verification</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 7.4</td><td style=\"width:30%\"></td></tr><tr><td>6</td><td>Fire doors self-closing</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 9.3</td><td style=\"width:30%\"></td></tr><tr><td>7</td><td>Sprinkler system — maintenance report</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 2.1</td><td style=\"width:30%\"></td></tr><tr><td>8</td><td>Combustible storage</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 7.1</td><td style=\"width:30%\"></td></tr><tr><td>9</td><td>Fire safety plan posted</td><td style=\"text-align:center;\">N/A</td><td class=\"small\" style=\"white-space:nowrap\">s. 4.9</td><td style=\"width:30%\">Visual check</td></tr><tr><td>10</td><td>Kitchen exhaust hood system</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 9.7</td><td style=\"width:30%\">Correction required, see findings</td></tr><tr><td>11</td><td>Fire department access route</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 2.9</td><td style=\"width:30%\"></td></tr><tr><td>12</td><td>Civic number visible</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 3.9</td><td style=\"width:30%\">Correction required, see findings</td></tr></tbody></table>",
+   "md": "| No | Item | Status | Ref. | Observation |\n|---|---|---|---|---|\n| 1 | Portable extinguishers inspected (tag current) | Compliant | s. 3.1 |  |\n| 2 | Emergency lighting operational | Compliant | s. 8.4 | Correction required, see findings |\n| 3 | Exits unobstructed | Non-compliant | s. 9.1 | Documentation provided by operator |\n| 4 | Exit signage illuminated | Compliant | s. 7.2 | Documentation provided by operator |\n| 5 | Fire alarm system — annual verification | Non-compliant | s. 7.4 |  |\n| 6 | Fire doors self-closing | Compliant | s. 9.3 |  |\n| 7 | Sprinkler system — maintenance report | Non-compliant | s. 2.1 |  |\n| 8 | Combustible storage | Non-compliant | s. 7.1 |  |\n| 9 | Fire safety plan posted | N/A | s. 4.9 | Visual check |\n| 10 | Kitchen exhaust hood system | Compliant | s. 9.7 | Correction required, see findings |\n| 11 | Fire department access route | Non-compliant | s. 2.9 |  |\n| 12 | Civic number visible | Compliant | s. 3.9 | Correction required, see findings |"
+  },
+  {
+   "id": "1010_002901_r16",
+   "cat": "section_header",
+   "bbox_px": [
+    125,
+    1238,
+    563,
+    1286
+   ],
+   "md": "## **Findings and corrective actions**"
+  },
+  {
+   "id": "1010_002901_r17",
+   "cat": "list_item",
+   "bbox_px": [
+    151,
+    1265,
+    1155,
+    1323
+   ],
+   "md": "- **1.** Rear exit obstructed by boxes and a pallet. Clear immediately. *Deadline: 30 days.*"
+  },
+  {
+   "id": "1010_002901_r18",
+   "cat": "list_item",
+   "bbox_px": [
+    152,
+    1307,
+    886,
+    1357
+   ],
+   "md": "- **2.** Basement emergency lighting failed test. *Deadline: 7 days.*"
+  },
+  {
+   "id": "1010_002901_r19",
+   "cat": "list_item",
+   "bbox_px": [
+    153,
+    1332,
+    1253,
+    1391
+   ],
+   "md": "- **3.** Prep refrigerator at 7 °C. Repair and discard exposed perishable food. *Deadline: 30 days.*"
+  },
+  {
+   "id": "1010_002901_r20",
+   "cat": "list_item",
+   "bbox_px": [
+    154,
+    1363,
+    1345,
+    1426
+   ],
+   "md": "- **4.** No carbon monoxide alarm adjacent to sleeping areas. Install within 30 days. *Deadline: 60 days.*"
+  },
+  {
+   "id": "1010_002901_r21",
+   "cat": "text",
+   "bbox_px": [
+    130,
+    1409,
+    1054,
+    1481
+   ],
+   "md": "**Inspector notes :** Exploitant coopératif, correctifs promis d'ici vendredi"
+  },
+  {
+   "id": "1010_002901_r22",
+   "cat": "text",
+   "bbox_px": [
+    141,
+    1476,
+    317,
+    1539
+   ],
+   "md": "OVERALL RESULT\n\nCompliant"
+  },
+  {
+   "id": "1010_002901_r23",
+   "cat": "text",
+   "bbox_px": [
+    858,
+    1456,
+    1149,
+    1530
+   ],
+   "md": "RE-INSPECTION SCHEDULED\n\n2023-09-26"
+  },
+  {
+   "id": "1010_002901_r24",
+   "cat": "text",
+   "bbox_px": [
+    1228,
+    1446,
+    1559,
+    1576
+   ],
+   "md": "INSPECTOR\n\nJohn Moody"
+  },
+  {
+   "id": "1010_002901_r25",
+   "cat": "text",
+   "bbox_px": [
+    134,
+    1595,
+    1346,
+    1724
+   ],
+   "md": "Occupant signature (acknowledgement of receipt) : Date : 2023-09-08"
+  },
+  {
+   "id": "1010_002901_r26",
+   "cat": "text",
+   "bbox_px": [
+    137,
+    1728,
+    289,
+    1761
+   ],
+   "md": "**Distribution :**"
+  },
+  {
+   "id": "1010_002901_r27",
+   "cat": "list_item",
+   "bbox_px": [
+    170,
+    1755,
+    466,
+    1791
+   ],
+   "md": "- Original: operator / owner"
+  },
+  {
+   "id": "1010_002901_r28",
+   "cat": "list_item",
+   "bbox_px": [
+    171,
+    1787,
+    380,
+    1821
+   ],
+   "md": "- Copy: premises file"
+  },
+  {
+   "id": "1010_002901_r29",
+   "cat": "page_footer",
+   "bbox_px": [
+    639,
+    2045,
+    1108,
+    2083
+   ],
+   "md": "Township of Severn | SI-2023-7046 | Page 1 of 1"
+  }
+ ],
+ "tables": [
+  {
+   "id": "1010_002901_r15",
+   "otsl": "<fcel>No<fcel>Item<fcel>Status<fcel>Ref.<fcel>Observation<nl>\n<fcel>1<fcel>Portable extinguishers inspected (tag current)<fcel>Compliant<fcel>s. 3.1<ecel><nl>\n<fcel>2<fcel>Emergency lighting operational<fcel>Compliant<fcel>s. 8.4<fcel>Correction required, see findings<nl>\n<fcel>3<fcel>Exits unobstructed<fcel>Non-compliant<fcel>s. 9.1<fcel>Documentation provided by operator<nl>\n<fcel>4<fcel>Exit signage illuminated<fcel>Compliant<fcel>s. 7.2<fcel>Documentation provided by operator<nl>\n<fcel>5<fcel>Fire alarm system — annual verification<fcel>Non-compliant<fcel>s. 7.4<ecel><nl>\n<fcel>6<fcel>Fire doors self-closing<fcel>Compliant<fcel>s. 9.3<ecel><nl>\n<fcel>7<fcel>Sprinkler system — maintenance report<fcel>Non-compliant<fcel>s. 2.1<ecel><nl>\n<fcel>8<fcel>Combustible storage<fcel>Non-compliant<fcel>s. 7.1<ecel><nl>\n<fcel>9<fcel>Fire safety plan posted<fcel>N/A<fcel>s. 4.9<fcel>Visual check<nl>\n<fcel>10<fcel>Kitchen exhaust hood system<fcel>Compliant<fcel>s. 9.7<fcel>Correction required, see findings<nl>\n<fcel>11<fcel>Fire department access route<fcel>Non-compliant<fcel>s. 2.9<ecel><nl>\n<fcel>12<fcel>Civic number visible<fcel>Compliant<fcel>s. 3.9<fcel>Correction required, see findings<nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:8.5pt\"><thead><tr><th>No</th><th>Item</th><th>Status</th><th>Ref.</th><th>Observation</th></tr></thead><tbody><tr><td>1</td><td>Portable extinguishers inspected (tag current)</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 3.1</td><td style=\"width:30%\"></td></tr><tr><td>2</td><td>Emergency lighting operational</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 8.4</td><td style=\"width:30%\">Correction required, see findings</td></tr><tr><td>3</td><td>Exits unobstructed</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 9.1</td><td style=\"width:30%\">Documentation provided by operator</td></tr><tr><td>4</td><td>Exit signage illuminated</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 7.2</td><td style=\"width:30%\">Documentation provided by operator</td></tr><tr><td>5</td><td>Fire alarm system — annual verification</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 7.4</td><td style=\"width:30%\"></td></tr><tr><td>6</td><td>Fire doors self-closing</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 9.3</td><td style=\"width:30%\"></td></tr><tr><td>7</td><td>Sprinkler system — maintenance report</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 2.1</td><td style=\"width:30%\"></td></tr><tr><td>8</td><td>Combustible storage</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 7.1</td><td style=\"width:30%\"></td></tr><tr><td>9</td><td>Fire safety plan posted</td><td style=\"text-align:center;\">N/A</td><td class=\"small\" style=\"white-space:nowrap\">s. 4.9</td><td style=\"width:30%\">Visual check</td></tr><tr><td>10</td><td>Kitchen exhaust hood system</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 9.7</td><td style=\"width:30%\">Correction required, see findings</td></tr><tr><td>11</td><td>Fire department access route</td><td style=\"text-align:center;background:#fdd\">Non-compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 2.9</td><td style=\"width:30%\"></td></tr><tr><td>12</td><td>Civic number visible</td><td style=\"text-align:center;\">Compliant</td><td class=\"small\" style=\"white-space:nowrap\">s. 3.9</td><td style=\"width:30%\">Correction required, see findings</td></tr></tbody></table>",
+   "markdown": "| No | Item | Status | Ref. | Observation |\n|---|---|---|---|---|\n| 1 | Portable extinguishers inspected (tag current) | Compliant | s. 3.1 |  |\n| 2 | Emergency lighting operational | Compliant | s. 8.4 | Correction required, see findings |\n| 3 | Exits unobstructed | Non-compliant | s. 9.1 | Documentation provided by operator |\n| 4 | Exit signage illuminated | Compliant | s. 7.2 | Documentation provided by operator |\n| 5 | Fire alarm system — annual verification | Non-compliant | s. 7.4 |  |\n| 6 | Fire doors self-closing | Compliant | s. 9.3 |  |\n| 7 | Sprinkler system — maintenance report | Non-compliant | s. 2.1 |  |\n| 8 | Combustible storage | Non-compliant | s. 7.1 |  |\n| 9 | Fire safety plan posted | N/A | s. 4.9 | Visual check |\n| 10 | Kitchen exhaust hood system | Compliant | s. 9.7 | Correction required, see findings |\n| 11 | Fire department access route | Non-compliant | s. 2.9 |  |\n| 12 | Civic number visible | Compliant | s. 3.9 | Correction required, see findings |"
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "id": "1006_001934",
+ "industry": "construction",
+ "doctype": "daily_field_report",
+ "lang": "en",
+ "seed": "1006_001934",
+ "preset": "fax_2bit",
+ "bbox_approx": false,
+ "homography": null,
+ "width": 1700,
+ "height": 2200,
+ "page_md": "**Howe Construction Ltd.**\n5538, Suite 300 Jasper Avenue, Vancouver, BC V8Z 5V4\nTel. 418-831-2398 · vdavid@gilbert.info\n\n# **DAILY FIELD REPORT**\n\n**Project:** Distribution Warehouse - Kingston (9134-940)\n\n**Report No.:** 345\n\n**Date:** 2025-03-20\n\n**Day:** Thu\n\n**Superintendent:** Frances Weber\n\n**Weather AM / PM:** Clear / Sunny\n\n**Temp. low / high:** -7 °C / -4 °C\n\n**Wind / Precip.:** 45 km/h / 2 mm\n\n**Manpower**\n\n| Trade | Company | Workers | Hours | Location |\n|---|---|---|---|---|\n| Crane operator | Craig Mechanical Ltd. | 2 | 16 | roof B |\n| Apprentice | Grant Mechanical Ltd. | 8 | 60 | corridor 2 |\n| Painter | Davis & Sons Contracting Inc. | 3 | 30 | L2 east |\n| Cement finisher | Lopez Mechanical Ltd. | 4 | 32 | footings |\n| Plumber | Trevino Builders Inc. | 12 | 120 | footings |\n| TOTAL |  | 29 | 258 |  |\n\n**Equipment**\n\n| Equipment | Qty | Hours |  | Remarks |\n|---|---|---|---|---|\n|  |  | Working | Idle |  |\n| Plate compactor | 3 | 6 | 8 | subcontractor |\n| Welding machine | 2 | 0 | 0 | owned |\n| Generator 20 kW | 1 | 8 | 8 | rented - Lou-Tec |\n| Excavator CAT 320 | 1 | 4 | 8 | rented - Lou-Tec |\n\n## **Work performed**\n\nBackfill and compaction north side, 300 mm lifts, density\n\ntests passed 98%. Storm sewer MH-4 to MH-5 installed.\n\nErected structural steel columns C3-C9 level 2. Bolting\n\nand plumbing ongoing. Crane on site 06:30-15:00. Drywall\n\nboarding corridors 201-215, taping started room 204.\n\nPainter prepping level 3.\n\n**Deliveries:** Hollow metal frames, 22 pcs\n\n**Visitors / Inspections:** CNESST inspector - no notices issued\n\n**Delays:** Waiting on RFI-27 response for footing F7\n\n**Safety:** ☑ Toolbox talk held □ Incident / near miss □ First aid □ Site inspection done\n\nPrepared by: Barry Baker Wesley Grant, Superintendent Reviewed by:\n\nHowe Construction Ltd. Daily report - 2025-03-20",
+ "layout_1036": [
+  {
+   "bbox": [
+    624,
+    56,
+    963,
+    97
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    73,
+    119,
+    312,
+    142
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    82,
+    144,
+    795,
+    266
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    271,
+    144,
+    285
+   ],
+   "cat": "table_caption"
+  },
+  {
+   "bbox": [
+    73,
+    288,
+    963,
+    432
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    73,
+    437,
+    147,
+    452
+   ],
+   "cat": "table_caption"
+  },
+  {
+   "bbox": [
+    73,
+    455,
+    963,
+    576
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    73,
+    583,
+    195,
+    599
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    76,
+    599,
+    573,
+    760
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    752,
+    609,
+    853
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    848,
+    634,
+    866
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    865,
+    753,
+    903
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    968,
+    963,
+    979
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "1006_001934_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    1024,
+    118,
+    1580,
+    205
+   ],
+   "md": "**Howe Construction Ltd.**\n5538, Suite 300 Jasper Avenue, Vancouver, BC V8Z 5V4\nTel. 418-831-2398 · vdavid@gilbert.info"
+  },
+  {
+   "id": "1006_001934_r1",
+   "cat": "title",
+   "bbox_px": [
+    120,
+    252,
+    512,
+    302
+   ],
+   "md": "# **DAILY FIELD REPORT**"
+  },
+  {
+   "id": "1006_001934_r2",
+   "cat": "text",
+   "bbox_px": [
+    134,
+    305,
+    1304,
+    565
+   ],
+   "md": "**Project:** Distribution Warehouse - Kingston (9134-940)\n\n**Report No.:** 345\n\n**Date:** 2025-03-20\n\n**Day:** Thu\n\n**Superintendent:** Frances Weber\n\n**Weather AM / PM:** Clear / Sunny\n\n**Temp. low / high:** -7 °C / -4 °C\n\n**Wind / Precip.:** 45 km/h / 2 mm"
+  },
+  {
+   "id": "1006_001934_r3",
+   "cat": "table_caption",
+   "bbox_px": [
+    120,
+    575,
+    237,
+    606
+   ],
+   "md": "**Manpower**"
+  },
+  {
+   "id": "1006_001934_r4",
+   "cat": "table",
+   "bbox_px": [
+    120,
+    612,
+    1580,
+    918
+   ],
+   "otsl": "<fcel>Trade<fcel>Company<fcel>Workers<fcel>Hours<fcel>Location<nl>\n<fcel>Crane operator<fcel>Craig Mechanical Ltd.<fcel>2<fcel>16<fcel>roof B<nl>\n<fcel>Apprentice<fcel>Grant Mechanical Ltd.<fcel>8<fcel>60<fcel>corridor 2<nl>\n<fcel>Painter<fcel>Davis & Sons Contracting Inc.<fcel>3<fcel>30<fcel>L2 east<nl>\n<fcel>Cement finisher<fcel>Lopez Mechanical Ltd.<fcel>4<fcel>32<fcel>footings<nl>\n<fcel>Plumber<fcel>Trevino Builders Inc.<fcel>12<fcel>120<fcel>footings<nl>\n<fcel>TOTAL<lcel><fcel>29<fcel>258<ecel><nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight sm\"><thead><tr><th>Trade</th><th>Company</th><th class=\"n\">Workers</th><th class=\"n\">Hours</th><th>Location</th></tr></thead><tbody><tr><td>Crane operator</td><td>Craig Mechanical Ltd.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(2.20deg) translate(2.0px,-2.9px);\">2</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-2.13deg) translate(-1.8px,-2.2px);\">16</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.21deg) translate(-0.5px,2.5px);\">roof B</span></td></tr><tr><td>Apprentice</td><td>Grant Mechanical Ltd.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.08deg) translate(2.0px,1.5px);\">8</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(2.41deg) translate(-0.8px,-1.2px);\">60</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.50deg) translate(-0.3px,0.9px);\">corridor 2</span></td></tr><tr><td>Painter</td><td>Davis &amp; Sons Contracting Inc.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.36deg) translate(-1.2px,0.8px);\">3</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.54deg) translate(-1.3px,-0.3px);\">30</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.38deg) translate(0.8px,-1.8px);\">L2 east</span></td></tr><tr><td>Cement finisher</td><td>Lopez Mechanical Ltd.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(2.13deg) translate(0.3px,-0.7px);\">4</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.80deg) translate(-0.2px,1.6px);\">32</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.65deg) translate(1.5px,0.4px);\">footings</span></td></tr><tr><td>Plumber</td><td>Trevino Builders Inc.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.02deg) translate(1.0px,-1.2px);\">12</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.80deg) translate(-1.6px,1.6px);\">120</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.44deg) translate(1.1px,-1.8px);\">footings</span></td></tr><tr><td colspan=\"2\"><b>TOTAL</b></td><td class=\"n\"><b>29</b></td><td class=\"n\"><b>258</b></td><td></td></tr></tbody></table>",
+   "md": "| Trade | Company | Workers | Hours | Location |\n|---|---|---|---|---|\n| Crane operator | Craig Mechanical Ltd. | 2 | 16 | roof B |\n| Apprentice | Grant Mechanical Ltd. | 8 | 60 | corridor 2 |\n| Painter | Davis & Sons Contracting Inc. | 3 | 30 | L2 east |\n| Cement finisher | Lopez Mechanical Ltd. | 4 | 32 | footings |\n| Plumber | Trevino Builders Inc. | 12 | 120 | footings |\n| TOTAL |  | 29 | 258 |  |"
+  },
+  {
+   "id": "1006_001934_r5",
+   "cat": "table_caption",
+   "bbox_px": [
+    120,
+    929,
+    241,
+    960
+   ],
+   "md": "**Equipment**"
+  },
+  {
+   "id": "1006_001934_r6",
+   "cat": "table",
+   "bbox_px": [
+    120,
+    966,
+    1580,
+    1224
+   ],
+   "otsl": "<fcel>Equipment<fcel>Qty<fcel>Hours<lcel><fcel>Remarks<nl>\n<ucel><ucel><fcel>Working<fcel>Idle<ucel><nl>\n<fcel>Plate compactor<fcel>3<fcel>6<fcel>8<fcel>subcontractor<nl>\n<fcel>Welding machine<fcel>2<fcel>0<fcel>0<fcel>owned<nl>\n<fcel>Generator 20 kW<fcel>1<fcel>8<fcel>8<fcel>rented - Lou-Tec<nl>\n<fcel>Excavator CAT 320<fcel>1<fcel>4<fcel>8<fcel>rented - Lou-Tec<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight sm\"><thead><tr><th rowspan=\"2\">Equipment</th><th class=\"c\" rowspan=\"2\">Qty</th><th class=\"c\" colspan=\"2\">Hours</th><th rowspan=\"2\">Remarks</th></tr><tr><th class=\"c\">Working</th><th class=\"c\">Idle</th></tr></thead><tbody><tr><td>Plate compactor</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.57deg) translate(-1.3px,1.2px);\">3</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.00deg) translate(-1.9px,-1.1px);\">6</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.60deg) translate(0.3px,0.5px);\">8</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.25deg) translate(0.2px,0.7px);\">subcontractor</span></td></tr><tr><td>Welding machine</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.72deg) translate(-0.3px,-1.1px);\">2</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.71deg) translate(-0.1px,-1.5px);\">0</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.80deg) translate(-1.6px,-1.9px);\">0</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.10deg) translate(0.2px,1.0px);\">owned</span></td></tr><tr><td>Generator 20 kW</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.37deg) translate(0.7px,2.9px);\">1</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.67deg) translate(1.0px,-2.1px);\">8</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.49deg) translate(-0.1px,-0.3px);\">8</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.53deg) translate(-0.5px,-1.3px);\">rented - Lou-Tec</span></td></tr><tr><td>Excavator CAT 320</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.18deg) translate(-0.1px,-1.7px);\">1</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.50deg) translate(-2.0px,2.9px);\">4</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.81deg) translate(-1.6px,-0.7px);\">8</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.64deg) translate(0.4px,1.7px);\">rented - Lou-Tec</span></td></tr></tbody></table>",
+   "md": "| Equipment | Qty | Hours |  | Remarks |\n|---|---|---|---|---|\n|  |  | Working | Idle |  |\n| Plate compactor | 3 | 6 | 8 | subcontractor |\n| Welding machine | 2 | 0 | 0 | owned |\n| Generator 20 kW | 1 | 8 | 8 | rented - Lou-Tec |\n| Excavator CAT 320 | 1 | 4 | 8 | rented - Lou-Tec |"
+  },
+  {
+   "id": "1006_001934_r7",
+   "cat": "section_header",
+   "bbox_px": [
+    120,
+    1237,
+    320,
+    1271
+   ],
+   "md": "## **Work performed**"
+  },
+  {
+   "id": "1006_001934_r8",
+   "cat": "text",
+   "bbox_px": [
+    125,
+    1272,
+    940,
+    1614
+   ],
+   "md": "Backfill and compaction north side, 300 mm lifts, density\n\ntests passed 98%. Storm sewer MH-4 to MH-5 installed.\n\nErected structural steel columns C3-C9 level 2. Bolting\n\nand plumbing ongoing. Crane on site 06:30-15:00. Drywall\n\nboarding corridors 201-215, taping started room 204.\n\nPainter prepping level 3."
+  },
+  {
+   "id": "1006_001934_r9",
+   "cat": "text",
+   "bbox_px": [
+    120,
+    1596,
+    1000,
+    1812
+   ],
+   "md": "**Deliveries:** Hollow metal frames, 22 pcs\n\n**Visitors / Inspections:** CNESST inspector - no notices issued\n\n**Delays:** Waiting on RFI-27 response for footing F7"
+  },
+  {
+   "id": "1006_001934_r10",
+   "cat": "text",
+   "bbox_px": [
+    120,
+    1801,
+    1041,
+    1839
+   ],
+   "md": "**Safety:** ☑ Toolbox talk held □ Incident / near miss □ First aid □ Site inspection done"
+  },
+  {
+   "id": "1006_001934_r11",
+   "cat": "text",
+   "bbox_px": [
+    120,
+    1837,
+    1236,
+    1918
+   ],
+   "md": "Prepared by: Barry Baker Wesley Grant, Superintendent Reviewed by:"
+  },
+  {
+   "id": "1006_001934_r12",
+   "cat": "page_footer",
+   "bbox_px": [
+    120,
+    2055,
+    1580,
+    2078
+   ],
+   "md": "Howe Construction Ltd. Daily report - 2025-03-20"
+  }
+ ],
+ "tables": [
+  {
+   "id": "1006_001934_r4",
+   "otsl": "<fcel>Trade<fcel>Company<fcel>Workers<fcel>Hours<fcel>Location<nl>\n<fcel>Crane operator<fcel>Craig Mechanical Ltd.<fcel>2<fcel>16<fcel>roof B<nl>\n<fcel>Apprentice<fcel>Grant Mechanical Ltd.<fcel>8<fcel>60<fcel>corridor 2<nl>\n<fcel>Painter<fcel>Davis & Sons Contracting Inc.<fcel>3<fcel>30<fcel>L2 east<nl>\n<fcel>Cement finisher<fcel>Lopez Mechanical Ltd.<fcel>4<fcel>32<fcel>footings<nl>\n<fcel>Plumber<fcel>Trevino Builders Inc.<fcel>12<fcel>120<fcel>footings<nl>\n<fcel>TOTAL<lcel><fcel>29<fcel>258<ecel><nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight sm\"><thead><tr><th>Trade</th><th>Company</th><th class=\"n\">Workers</th><th class=\"n\">Hours</th><th>Location</th></tr></thead><tbody><tr><td>Crane operator</td><td>Craig Mechanical Ltd.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(2.20deg) translate(2.0px,-2.9px);\">2</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-2.13deg) translate(-1.8px,-2.2px);\">16</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.21deg) translate(-0.5px,2.5px);\">roof B</span></td></tr><tr><td>Apprentice</td><td>Grant Mechanical Ltd.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.08deg) translate(2.0px,1.5px);\">8</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(2.41deg) translate(-0.8px,-1.2px);\">60</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.50deg) translate(-0.3px,0.9px);\">corridor 2</span></td></tr><tr><td>Painter</td><td>Davis &amp; Sons Contracting Inc.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.36deg) translate(-1.2px,0.8px);\">3</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.54deg) translate(-1.3px,-0.3px);\">30</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.38deg) translate(0.8px,-1.8px);\">L2 east</span></td></tr><tr><td>Cement finisher</td><td>Lopez Mechanical Ltd.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(2.13deg) translate(0.3px,-0.7px);\">4</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.80deg) translate(-0.2px,1.6px);\">32</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.65deg) translate(1.5px,0.4px);\">footings</span></td></tr><tr><td>Plumber</td><td>Trevino Builders Inc.</td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.02deg) translate(1.0px,-1.2px);\">12</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.80deg) translate(-1.6px,1.6px);\">120</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.44deg) translate(1.1px,-1.8px);\">footings</span></td></tr><tr><td colspan=\"2\"><b>TOTAL</b></td><td class=\"n\"><b>29</b></td><td class=\"n\"><b>258</b></td><td></td></tr></tbody></table>",
+   "markdown": "| Trade | Company | Workers | Hours | Location |\n|---|---|---|---|---|\n| Crane operator | Craig Mechanical Ltd. | 2 | 16 | roof B |\n| Apprentice | Grant Mechanical Ltd. | 8 | 60 | corridor 2 |\n| Painter | Davis & Sons Contracting Inc. | 3 | 30 | L2 east |\n| Cement finisher | Lopez Mechanical Ltd. | 4 | 32 | footings |\n| Plumber | Trevino Builders Inc. | 12 | 120 | footings |\n| TOTAL |  | 29 | 258 |  |"
+  },
+  {
+   "id": "1006_001934_r6",
+   "otsl": "<fcel>Equipment<fcel>Qty<fcel>Hours<lcel><fcel>Remarks<nl>\n<ucel><ucel><fcel>Working<fcel>Idle<ucel><nl>\n<fcel>Plate compactor<fcel>3<fcel>6<fcel>8<fcel>subcontractor<nl>\n<fcel>Welding machine<fcel>2<fcel>0<fcel>0<fcel>owned<nl>\n<fcel>Generator 20 kW<fcel>1<fcel>8<fcel>8<fcel>rented - Lou-Tec<nl>\n<fcel>Excavator CAT 320<fcel>1<fcel>4<fcel>8<fcel>rented - Lou-Tec<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"tight sm\"><thead><tr><th rowspan=\"2\">Equipment</th><th class=\"c\" rowspan=\"2\">Qty</th><th class=\"c\" colspan=\"2\">Hours</th><th rowspan=\"2\">Remarks</th></tr><tr><th class=\"c\">Working</th><th class=\"c\">Idle</th></tr></thead><tbody><tr><td>Plate compactor</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.57deg) translate(-1.3px,1.2px);\">3</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.00deg) translate(-1.9px,-1.1px);\">6</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.60deg) translate(0.3px,0.5px);\">8</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-1.25deg) translate(0.2px,0.7px);\">subcontractor</span></td></tr><tr><td>Welding machine</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.72deg) translate(-0.3px,-1.1px);\">2</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.71deg) translate(-0.1px,-1.5px);\">0</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.80deg) translate(-1.6px,-1.9px);\">0</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.10deg) translate(0.2px,1.0px);\">owned</span></td></tr><tr><td>Generator 20 kW</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.37deg) translate(0.7px,2.9px);\">1</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.67deg) translate(1.0px,-2.1px);\">8</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.49deg) translate(-0.1px,-0.3px);\">8</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(-0.53deg) translate(-0.5px,-1.3px);\">rented - Lou-Tec</span></td></tr><tr><td>Excavator CAT 320</td><td class=\"c\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.18deg) translate(-0.1px,-1.7px);\">1</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.50deg) translate(-2.0px,2.9px);\">4</span></td><td class=\"n\"><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(1.81deg) translate(-1.6px,-0.7px);\">8</span></td><td><span class=\"hand\" style=\"font-family:'Cedarville Cursive';font-size:13.1pt;color:#2b2b2b;transform:rotate(0.64deg) translate(0.4px,1.7px);\">rented - Lou-Tec</span></td></tr></tbody></table>",
+   "markdown": "| Equipment | Qty | Hours |  | Remarks |\n|---|---|---|---|---|\n|  |  | Working | Idle |  |\n| Plate compactor | 3 | 6 | 8 | subcontractor |\n| Welding machine | 2 | 0 | 0 | owned |\n| Generator 20 kW | 1 | 8 | 8 | rented - Lou-Tec |\n| Excavator CAT 320 | 1 | 4 | 8 | rented - Lou-Tec |"
+  }
+ ]
+}

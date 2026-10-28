@@ -1,0 +1,107 @@
+{
+ "id": "1007_001006",
+ "industry": "legal",
+ "doctype": "toc_page",
+ "lang": "fr",
+ "seed": "1007_001006",
+ "preset": "fax_dither",
+ "bbox_approx": false,
+ "homography": null,
+ "width": 1700,
+ "height": 2200,
+ "page_md": "# **TABLE OF CONTENTS**\n\nSHARE PURCHASE AGREEMENT\n\n| Article | Heading | Page |\n|---|---|---|\n| ARTICLE 1 | INTERPRETATION | 1 |\n| 1.1 | Definitions | 2 |\n| 1.2 | Headings and Interpretation | 4 |\n| 1.3 | Currency | 5 |\n| ARTICLE 2 | PURCHASE AND SALE | 6 |\n| 2.1 | Agreement to Purchase and Sell | 8 |\n| 2.2 | Purchase Price | 8 |\n| 2.3 | Allocation of Purchase Price | 9 |\n| 2.4 | Adjustments | 10 |\n| ARTICLE 3 | REPRESENTATIONS AND WARRANTIES OF THE VENDOR | 11 |\n| 3.1 | Corporate Status | 11 |\n| 3.2 | Authority | 12 |\n| 3.3 | Title to Purchased Assets | 13 |\n| 3.4 | Financial Statements | 15 |\n| 3.5 | Litigation | 16 |\n| 3.6 | Environmental Matters | 16 |\n| 3.7 | Employees | 16 |\n| 3.8 | Taxes | 18 |\n| ARTICLE 4 | REPRESENTATIONS AND WARRANTIES OF THE PURCHASER | 19 |\n| SCHEDULES |  |  |\n| Schedule A | Purchased Assets | 22 |\n| Schedule B | Allocation of Purchase Price | 24 |\n\nFile 12368-098 Page ii",
+ "layout_1036": [
+  {
+   "bbox": [
+    372,
+    94,
+    664,
+    118
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    376,
+    122,
+    659,
+    140
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    122,
+    154,
+    914,
+    722
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    122,
+    927,
+    914,
+    941
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "1007_001006_r0",
+   "cat": "title",
+   "bbox_px": [
+    610,
+    200,
+    1090,
+    250
+   ],
+   "md": "# **TABLE OF CONTENTS**"
+  },
+  {
+   "id": "1007_001006_r1",
+   "cat": "text",
+   "bbox_px": [
+    617,
+    259,
+    1082,
+    298
+   ],
+   "md": "SHARE PURCHASE AGREEMENT"
+  },
+  {
+   "id": "1007_001006_r2",
+   "cat": "table",
+   "bbox_px": [
+    200,
+    328,
+    1500,
+    1534
+   ],
+   "otsl": "<fcel>Article<fcel>Heading<fcel>Page<nl>\n<fcel>ARTICLE 1<fcel>INTERPRETATION<fcel>1<nl>\n<fcel>1.1<fcel>Definitions<fcel>2<nl>\n<fcel>1.2<fcel>Headings and Interpretation<fcel>4<nl>\n<fcel>1.3<fcel>Currency<fcel>5<nl>\n<fcel>ARTICLE 2<fcel>PURCHASE AND SALE<fcel>6<nl>\n<fcel>2.1<fcel>Agreement to Purchase and Sell<fcel>8<nl>\n<fcel>2.2<fcel>Purchase Price<fcel>8<nl>\n<fcel>2.3<fcel>Allocation of Purchase Price<fcel>9<nl>\n<fcel>2.4<fcel>Adjustments<fcel>10<nl>\n<fcel>ARTICLE 3<fcel>REPRESENTATIONS AND WARRANTIES OF THE VENDOR<fcel>11<nl>\n<fcel>3.1<fcel>Corporate Status<fcel>11<nl>\n<fcel>3.2<fcel>Authority<fcel>12<nl>\n<fcel>3.3<fcel>Title to Purchased Assets<fcel>13<nl>\n<fcel>3.4<fcel>Financial Statements<fcel>15<nl>\n<fcel>3.5<fcel>Litigation<fcel>16<nl>\n<fcel>3.6<fcel>Environmental Matters<fcel>16<nl>\n<fcel>3.7<fcel>Employees<fcel>16<nl>\n<fcel>3.8<fcel>Taxes<fcel>18<nl>\n<fcel>ARTICLE 4<fcel>REPRESENTATIONS AND WARRANTIES OF THE PURCHASER<fcel>19<nl>\n<fcel>SCHEDULES<lcel><ecel><nl>\n<fcel>Schedule A<fcel>Purchased Assets<fcel>22<nl>\n<fcel>Schedule B<fcel>Allocation of Purchase Price<fcel>24<nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:10pt\"><thead><tr><th style=\"border:0;border-bottom:1px solid #222;background:none\">Article</th><th style=\"border:0;border-bottom:1px solid #222;background:none\">Heading</th><th style=\"border:0;border-bottom:1px solid #222;background:none;text-align:right\">Page</th></tr></thead><tbody><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 1</td><td style=\"font-weight:bold;border:0;padding-top:7px\">INTERPRETATION</td><td style=\"border:0;text-align:right;padding-top:7px\">1</td></tr><tr><td style=\"border:0;padding-left:18px\">1.1</td><td style=\"border:0;border-bottom:1px dotted #999\">Definitions</td><td style=\"border:0;text-align:right\">2</td></tr><tr><td style=\"border:0;padding-left:18px\">1.2</td><td style=\"border:0;border-bottom:1px dotted #999\">Headings and Interpretation</td><td style=\"border:0;text-align:right\">4</td></tr><tr><td style=\"border:0;padding-left:18px\">1.3</td><td style=\"border:0;border-bottom:1px dotted #999\">Currency</td><td style=\"border:0;text-align:right\">5</td></tr><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 2</td><td style=\"font-weight:bold;border:0;padding-top:7px\">PURCHASE AND SALE</td><td style=\"border:0;text-align:right;padding-top:7px\">6</td></tr><tr><td style=\"border:0;padding-left:18px\">2.1</td><td style=\"border:0;border-bottom:1px dotted #999\">Agreement to Purchase and Sell</td><td style=\"border:0;text-align:right\">8</td></tr><tr><td style=\"border:0;padding-left:18px\">2.2</td><td style=\"border:0;border-bottom:1px dotted #999\">Purchase Price</td><td style=\"border:0;text-align:right\">8</td></tr><tr><td style=\"border:0;padding-left:18px\">2.3</td><td style=\"border:0;border-bottom:1px dotted #999\">Allocation of Purchase Price</td><td style=\"border:0;text-align:right\">9</td></tr><tr><td style=\"border:0;padding-left:18px\">2.4</td><td style=\"border:0;border-bottom:1px dotted #999\">Adjustments</td><td style=\"border:0;text-align:right\">10</td></tr><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 3</td><td style=\"font-weight:bold;border:0;padding-top:7px\">REPRESENTATIONS AND WARRANTIES OF THE VENDOR</td><td style=\"border:0;text-align:right;padding-top:7px\">11</td></tr><tr><td style=\"border:0;padding-left:18px\">3.1</td><td style=\"border:0;border-bottom:1px dotted #999\">Corporate Status</td><td style=\"border:0;text-align:right\">11</td></tr><tr><td style=\"border:0;padding-left:18px\">3.2</td><td style=\"border:0;border-bottom:1px dotted #999\">Authority</td><td style=\"border:0;text-align:right\">12</td></tr><tr><td style=\"border:0;padding-left:18px\">3.3</td><td style=\"border:0;border-bottom:1px dotted #999\">Title to Purchased Assets</td><td style=\"border:0;text-align:right\">13</td></tr><tr><td style=\"border:0;padding-left:18px\">3.4</td><td style=\"border:0;border-bottom:1px dotted #999\">Financial Statements</td><td style=\"border:0;text-align:right\">15</td></tr><tr><td style=\"border:0;padding-left:18px\">3.5</td><td style=\"border:0;border-bottom:1px dotted #999\">Litigation</td><td style=\"border:0;text-align:right\">16</td></tr><tr><td style=\"border:0;padding-left:18px\">3.6</td><td style=\"border:0;border-bottom:1px dotted #999\">Environmental Matters</td><td style=\"border:0;text-align:right\">16</td></tr><tr><td style=\"border:0;padding-left:18px\">3.7</td><td style=\"border:0;border-bottom:1px dotted #999\">Employees</td><td style=\"border:0;text-align:right\">16</td></tr><tr><td style=\"border:0;padding-left:18px\">3.8</td><td style=\"border:0;border-bottom:1px dotted #999\">Taxes</td><td style=\"border:0;text-align:right\">18</td></tr><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 4</td><td style=\"font-weight:bold;border:0;padding-top:7px\">REPRESENTATIONS AND WARRANTIES OF THE PURCHASER</td><td style=\"border:0;text-align:right;padding-top:7px\">19</td></tr><tr><td colspan=\"2\" style=\"font-weight:bold;border:0;padding-top:12px\">SCHEDULES</td><td style=\"border:0\"></td></tr><tr><td style=\"border:0;padding-left:18px\">Schedule A</td><td style=\"border:0;border-bottom:1px dotted #999\">Purchased Assets</td><td style=\"border:0;text-align:right\">22</td></tr><tr><td style=\"border:0;padding-left:18px\">Schedule B</td><td style=\"border:0;border-bottom:1px dotted #999\">Allocation of Purchase Price</td><td style=\"border:0;text-align:right\">24</td></tr></tbody></table>",
+   "md": "| Article | Heading | Page |\n|---|---|---|\n| ARTICLE 1 | INTERPRETATION | 1 |\n| 1.1 | Definitions | 2 |\n| 1.2 | Headings and Interpretation | 4 |\n| 1.3 | Currency | 5 |\n| ARTICLE 2 | PURCHASE AND SALE | 6 |\n| 2.1 | Agreement to Purchase and Sell | 8 |\n| 2.2 | Purchase Price | 8 |\n| 2.3 | Allocation of Purchase Price | 9 |\n| 2.4 | Adjustments | 10 |\n| ARTICLE 3 | REPRESENTATIONS AND WARRANTIES OF THE VENDOR | 11 |\n| 3.1 | Corporate Status | 11 |\n| 3.2 | Authority | 12 |\n| 3.3 | Title to Purchased Assets | 13 |\n| 3.4 | Financial Statements | 15 |\n| 3.5 | Litigation | 16 |\n| 3.6 | Environmental Matters | 16 |\n| 3.7 | Employees | 16 |\n| 3.8 | Taxes | 18 |\n| ARTICLE 4 | REPRESENTATIONS AND WARRANTIES OF THE PURCHASER | 19 |\n| SCHEDULES |  |  |\n| Schedule A | Purchased Assets | 22 |\n| Schedule B | Allocation of Purchase Price | 24 |"
+  },
+  {
+   "id": "1007_001006_r3",
+   "cat": "page_footer",
+   "bbox_px": [
+    200,
+    1968,
+    1500,
+    1999
+   ],
+   "md": "File 12368-098 Page ii"
+  }
+ ],
+ "tables": [
+  {
+   "id": "1007_001006_r2",
+   "otsl": "<fcel>Article<fcel>Heading<fcel>Page<nl>\n<fcel>ARTICLE 1<fcel>INTERPRETATION<fcel>1<nl>\n<fcel>1.1<fcel>Definitions<fcel>2<nl>\n<fcel>1.2<fcel>Headings and Interpretation<fcel>4<nl>\n<fcel>1.3<fcel>Currency<fcel>5<nl>\n<fcel>ARTICLE 2<fcel>PURCHASE AND SALE<fcel>6<nl>\n<fcel>2.1<fcel>Agreement to Purchase and Sell<fcel>8<nl>\n<fcel>2.2<fcel>Purchase Price<fcel>8<nl>\n<fcel>2.3<fcel>Allocation of Purchase Price<fcel>9<nl>\n<fcel>2.4<fcel>Adjustments<fcel>10<nl>\n<fcel>ARTICLE 3<fcel>REPRESENTATIONS AND WARRANTIES OF THE VENDOR<fcel>11<nl>\n<fcel>3.1<fcel>Corporate Status<fcel>11<nl>\n<fcel>3.2<fcel>Authority<fcel>12<nl>\n<fcel>3.3<fcel>Title to Purchased Assets<fcel>13<nl>\n<fcel>3.4<fcel>Financial Statements<fcel>15<nl>\n<fcel>3.5<fcel>Litigation<fcel>16<nl>\n<fcel>3.6<fcel>Environmental Matters<fcel>16<nl>\n<fcel>3.7<fcel>Employees<fcel>16<nl>\n<fcel>3.8<fcel>Taxes<fcel>18<nl>\n<fcel>ARTICLE 4<fcel>REPRESENTATIONS AND WARRANTIES OF THE PURCHASER<fcel>19<nl>\n<fcel>SCHEDULES<lcel><ecel><nl>\n<fcel>Schedule A<fcel>Purchased Assets<fcel>22<nl>\n<fcel>Schedule B<fcel>Allocation of Purchase Price<fcel>24<nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:10pt\"><thead><tr><th style=\"border:0;border-bottom:1px solid #222;background:none\">Article</th><th style=\"border:0;border-bottom:1px solid #222;background:none\">Heading</th><th style=\"border:0;border-bottom:1px solid #222;background:none;text-align:right\">Page</th></tr></thead><tbody><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 1</td><td style=\"font-weight:bold;border:0;padding-top:7px\">INTERPRETATION</td><td style=\"border:0;text-align:right;padding-top:7px\">1</td></tr><tr><td style=\"border:0;padding-left:18px\">1.1</td><td style=\"border:0;border-bottom:1px dotted #999\">Definitions</td><td style=\"border:0;text-align:right\">2</td></tr><tr><td style=\"border:0;padding-left:18px\">1.2</td><td style=\"border:0;border-bottom:1px dotted #999\">Headings and Interpretation</td><td style=\"border:0;text-align:right\">4</td></tr><tr><td style=\"border:0;padding-left:18px\">1.3</td><td style=\"border:0;border-bottom:1px dotted #999\">Currency</td><td style=\"border:0;text-align:right\">5</td></tr><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 2</td><td style=\"font-weight:bold;border:0;padding-top:7px\">PURCHASE AND SALE</td><td style=\"border:0;text-align:right;padding-top:7px\">6</td></tr><tr><td style=\"border:0;padding-left:18px\">2.1</td><td style=\"border:0;border-bottom:1px dotted #999\">Agreement to Purchase and Sell</td><td style=\"border:0;text-align:right\">8</td></tr><tr><td style=\"border:0;padding-left:18px\">2.2</td><td style=\"border:0;border-bottom:1px dotted #999\">Purchase Price</td><td style=\"border:0;text-align:right\">8</td></tr><tr><td style=\"border:0;padding-left:18px\">2.3</td><td style=\"border:0;border-bottom:1px dotted #999\">Allocation of Purchase Price</td><td style=\"border:0;text-align:right\">9</td></tr><tr><td style=\"border:0;padding-left:18px\">2.4</td><td style=\"border:0;border-bottom:1px dotted #999\">Adjustments</td><td style=\"border:0;text-align:right\">10</td></tr><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 3</td><td style=\"font-weight:bold;border:0;padding-top:7px\">REPRESENTATIONS AND WARRANTIES OF THE VENDOR</td><td style=\"border:0;text-align:right;padding-top:7px\">11</td></tr><tr><td style=\"border:0;padding-left:18px\">3.1</td><td style=\"border:0;border-bottom:1px dotted #999\">Corporate Status</td><td style=\"border:0;text-align:right\">11</td></tr><tr><td style=\"border:0;padding-left:18px\">3.2</td><td style=\"border:0;border-bottom:1px dotted #999\">Authority</td><td style=\"border:0;text-align:right\">12</td></tr><tr><td style=\"border:0;padding-left:18px\">3.3</td><td style=\"border:0;border-bottom:1px dotted #999\">Title to Purchased Assets</td><td style=\"border:0;text-align:right\">13</td></tr><tr><td style=\"border:0;padding-left:18px\">3.4</td><td style=\"border:0;border-bottom:1px dotted #999\">Financial Statements</td><td style=\"border:0;text-align:right\">15</td></tr><tr><td style=\"border:0;padding-left:18px\">3.5</td><td style=\"border:0;border-bottom:1px dotted #999\">Litigation</td><td style=\"border:0;text-align:right\">16</td></tr><tr><td style=\"border:0;padding-left:18px\">3.6</td><td style=\"border:0;border-bottom:1px dotted #999\">Environmental Matters</td><td style=\"border:0;text-align:right\">16</td></tr><tr><td style=\"border:0;padding-left:18px\">3.7</td><td style=\"border:0;border-bottom:1px dotted #999\">Employees</td><td style=\"border:0;text-align:right\">16</td></tr><tr><td style=\"border:0;padding-left:18px\">3.8</td><td style=\"border:0;border-bottom:1px dotted #999\">Taxes</td><td style=\"border:0;text-align:right\">18</td></tr><tr><td style=\"font-weight:bold;border:0;padding-top:7px;white-space:nowrap;width:15%\">ARTICLE 4</td><td style=\"font-weight:bold;border:0;padding-top:7px\">REPRESENTATIONS AND WARRANTIES OF THE PURCHASER</td><td style=\"border:0;text-align:right;padding-top:7px\">19</td></tr><tr><td colspan=\"2\" style=\"font-weight:bold;border:0;padding-top:12px\">SCHEDULES</td><td style=\"border:0\"></td></tr><tr><td style=\"border:0;padding-left:18px\">Schedule A</td><td style=\"border:0;border-bottom:1px dotted #999\">Purchased Assets</td><td style=\"border:0;text-align:right\">22</td></tr><tr><td style=\"border:0;padding-left:18px\">Schedule B</td><td style=\"border:0;border-bottom:1px dotted #999\">Allocation of Purchase Price</td><td style=\"border:0;text-align:right\">24</td></tr></tbody></table>",
+   "markdown": "| Article | Heading | Page |\n|---|---|---|\n| ARTICLE 1 | INTERPRETATION | 1 |\n| 1.1 | Definitions | 2 |\n| 1.2 | Headings and Interpretation | 4 |\n| 1.3 | Currency | 5 |\n| ARTICLE 2 | PURCHASE AND SALE | 6 |\n| 2.1 | Agreement to Purchase and Sell | 8 |\n| 2.2 | Purchase Price | 8 |\n| 2.3 | Allocation of Purchase Price | 9 |\n| 2.4 | Adjustments | 10 |\n| ARTICLE 3 | REPRESENTATIONS AND WARRANTIES OF THE VENDOR | 11 |\n| 3.1 | Corporate Status | 11 |\n| 3.2 | Authority | 12 |\n| 3.3 | Title to Purchased Assets | 13 |\n| 3.4 | Financial Statements | 15 |\n| 3.5 | Litigation | 16 |\n| 3.6 | Environmental Matters | 16 |\n| 3.7 | Employees | 16 |\n| 3.8 | Taxes | 18 |\n| ARTICLE 4 | REPRESENTATIONS AND WARRANTIES OF THE PURCHASER | 19 |\n| SCHEDULES |  |  |\n| Schedule A | Purchased Assets | 22 |\n| Schedule B | Allocation of Purchase Price | 24 |"
+  }
+ ]
+}

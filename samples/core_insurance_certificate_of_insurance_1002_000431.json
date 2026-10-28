@@ -1,0 +1,375 @@
+{
+ "id": "1002_000431",
+ "industry": "insurance",
+ "doctype": "certificate_of_insurance",
+ "lang": "en",
+ "seed": "1002_000431",
+ "preset": "thermal",
+ "bbox_approx": false,
+ "homography": null,
+ "width": 1700,
+ "height": 2200,
+ "page_md": "Broker file: nb-57459\n\n# **CERTIFICATE OF LIABILITY INSURANCE**\n\n**DATE (MM/DD/YYYY)**\n01/17/2025\n\nTHIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.\n\n**IMPORTANT:** If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed. If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement. A statement on this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).\n\n**PRODUCER**\nLawson Insurance Services Inc.\n9757 Victoria Avenue\nRed Deer, AB T4P 7L5\n**CONTACT NAME:** Andrea Galvan\n**PHONE (A/C, No, Ext):** (825) 762-8927 **FAX:** 587 704-5500\n**E-MAIL ADDRESS:** agalvan@gmail.com\n\n| INSURER(S) AFFORDING COVERAGE |  | NAIC # |\n|---|---|---|\n| INSURER A: | Prairie Mutual Insurance | 37239 |\n| INSURER B: | Dominion Northern Assurance | 14699 |\n\n**INSURED**\nDay-Craig ltée\n3691 Albert Street, Suite 1214\nEdmonton, AB T5Y 7R1\n\n**CERTIFICATE NUMBER:**\nCERT-3619761\n\n**REVISION NUMBER:**\n1\n\n## **COVERAGES CERTIFICATE NUMBER: 87657426**\n\nTHIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD INDICATED. NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS, EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.\n\n| INSR LTR | TYPE OF INSURANCE | ADDL INSD | SUBR WVD | POLICY NUMBER | POLICY EFF | POLICY EXP | LIMITS |  |\n|---|---|---|---|---|---|---|---|---|\n|  |  | (Y/N) |  |  | (MM/DD/YYYY) |  |  |  |\n| A | COMMERCIAL GENERAL LIABILITY | Y |  | CGL-94465226A | 09/22/2024 | 09/22/2025 | EACH OCCURRENCE | $2,000,000 |\n|  | □ CLAIMS-MADE ☒ OCCUR |  |  |  |  |  | DAMAGE TO RENTED PREMISES (Ea occurrence) | $300,000 |\n|  | □ Contractual Liability |  |  |  |  |  | MED EXP (Any one person) | $5,000 |\n|  | □ Non-Owned Auto |  |  |  |  |  | PERSONAL & ADV INJURY | $2,000,000 |\n|  | GEN'L AGGREGATE LIMIT APPLIES PER: |  |  |  |  |  | GENERAL AGGREGATE | $4,000,000 |\n|  | ☑ POLICY □ PROJECT □ LOC |  |  |  |  |  | PRODUCTS - COMP/OP AGG | $4,000,000 |\n| B | AUTOMOBILE LIABILITY |  | Y | CA-55356767 | 09/22/2024 | 09/22/2025 | COMBINED SINGLE LIMIT (Ea accident) | $2,000,000 |\n|  | ☒ ANY AUTO |  |  |  |  |  | BODILY INJURY (Per person) |  |\n|  | □ OWNED AUTOS ONLY □ SCHEDULED AUTOS |  |  |  |  |  | BODILY INJURY (Per accident) |  |\n|  | ☒ HIRED AUTOS ONLY □ NON-OWNED AUTOS ONLY |  |  |  |  |  | PROPERTY DAMAGE (Per accident) |  |\n| A | ☑ UMBRELLA LIAB ☒ OCCUR |  | Y | XS-39151005-01 | 09/22/2024 | 09/22/2025 | EACH OCCURRENCE | $10,000,000 |\n|  | □ EXCESS LIAB □ CLAIMS-MADE |  |  |  |  |  | AGGREGATE | $10,000,000 |\n|  | □ DED ☒ RETENTION $10,000 |  |  |  |  |  |  |  |\n| B | WORKERS COMPENSATION AND EMPLOYERS' LIABILITY | Y |  | WC-51974802A | 09/22/2024 | 09/22/2025 | ☒ PER STATUTE □ OTH-ER |  |\n|  | ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? □ Y ☑ N |  |  |  |  |  | E.L. EACH ACCIDENT | $500,000 |\n|  | If yes, describe under DESCRIPTION OF OPERATIONS below |  |  |  |  |  | E.L. DISEASE - EA EMPLOYEE | $1,000,000 |\n|  |  |  |  |  |  |  | E.L. DISEASE - POLICY LIMIT | $500,000 |\n| A | PROPERTY / BUSINESS INTERRUPTION |  |  | PKG-27651631 | 09/22/2024 | 09/22/2025 | BUILDING / CONTENTS | $3,300,000 |\n|  | Building Contents Equipment Breakdown |  |  |  |  |  | BUSINESS INTERRUPTION (ALS) | $1,000,000 |\n\n## **DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)**\n\nCertificate holder is included as additional insured with respect to liability arising out of the operations of the named insured under contract no. C-2198-565 (Yonge Street project). Waiver of subrogation applies in favour of the certificate holder where required by written contract.\n\n**CERTIFICATE HOLDER**\nPalmer and Sons Inc.\n373 Dundas Street West\nEdmonton, AB T6B 5T6\n\n**CANCELLATION**\nSHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN ACCORDANCE WITH THE POLICY PROVISIONS.\n\n**AUTHORIZED REPRESENTATIVE**\n\nLawson Insurance Services Inc. | ACORD 25 (2016/03) © 1988-2015 ACORD CORPORATION. All rights reserved. The ACORD name and logo are registered marks of ACORD",
+ "layout_1036": [
+  {
+   "bbox": [
+    879,
+    44,
+    987,
+    55
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    269,
+    71,
+    627,
+    89
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    864,
+    70,
+    970,
+    89
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    56,
+    97,
+    980,
+    123
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    56,
+    130,
+    980,
+    148
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    56,
+    156,
+    344,
+    225
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    547,
+    153,
+    986,
+    194
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    56,
+    233,
+    202,
+    272
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    639,
+    233,
+    747,
+    273
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    56,
+    279,
+    313,
+    290
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    56,
+    296,
+    980,
+    323
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    325,
+    987,
+    680
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    56,
+    685,
+    718,
+    694
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    56,
+    698,
+    942,
+    720
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    56,
+    734,
+    174,
+    773
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    525,
+    734,
+    949,
+    828
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    49,
+    989,
+    828,
+    998
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "1002_000431_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    1442,
+    94,
+    1620,
+    117
+   ],
+   "md": "Broker file: nb-57459"
+  },
+  {
+   "id": "1002_000431_r1",
+   "cat": "title",
+   "bbox_px": [
+    442,
+    151,
+    1029,
+    188
+   ],
+   "md": "# **CERTIFICATE OF LIABILITY INSURANCE**"
+  },
+  {
+   "id": "1002_000431_r2",
+   "cat": "text",
+   "bbox_px": [
+    1417,
+    148,
+    1592,
+    189
+   ],
+   "md": "**DATE (MM/DD/YYYY)**\n01/17/2025"
+  },
+  {
+   "id": "1002_000431_r3",
+   "cat": "text",
+   "bbox_px": [
+    92,
+    205,
+    1608,
+    262
+   ],
+   "md": "THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW. THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER."
+  },
+  {
+   "id": "1002_000431_r4",
+   "cat": "text",
+   "bbox_px": [
+    92,
+    277,
+    1608,
+    315
+   ],
+   "md": "**IMPORTANT:** If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed. If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement. A statement on this certificate does not confer rights to the certificate holder in lieu of such endorsement(s)."
+  },
+  {
+   "id": "1002_000431_r5",
+   "cat": "text",
+   "bbox_px": [
+    92,
+    332,
+    565,
+    478
+   ],
+   "md": "**PRODUCER**\nLawson Insurance Services Inc.\n9757 Victoria Avenue\nRed Deer, AB T4P 7L5\n**CONTACT NAME:** Andrea Galvan\n**PHONE (A/C, No, Ext):** (825) 762-8927 **FAX:** 587 704-5500\n**E-MAIL ADDRESS:** agalvan@gmail.com"
+  },
+  {
+   "id": "1002_000431_r6",
+   "cat": "table",
+   "bbox_px": [
+    897,
+    325,
+    1618,
+    413
+   ],
+   "otsl": "<fcel>INSURER(S) AFFORDING COVERAGE<lcel><fcel>NAIC #<nl>\n<fcel>INSURER A:<fcel>Prairie Mutual Insurance<fcel>37239<nl>\n<fcel>INSURER B:<fcel>Dominion Northern Assurance<fcel>14699<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"ins\"><thead><tr><th colspan=\"2\">INSURER(S) AFFORDING COVERAGE</th><th class=\"c\">NAIC #</th></tr></thead><tbody><tr><th style=\"text-align:left;background:#eee\">INSURER A: </th><td>Prairie Mutual Insurance</td><td class=\"c\">37239</td></tr><tr><th style=\"text-align:left;background:#eee\">INSURER B: </th><td>Dominion Northern Assurance</td><td class=\"c\">14699</td></tr></tbody></table>",
+   "md": "| INSURER(S) AFFORDING COVERAGE |  | NAIC # |\n|---|---|---|\n| INSURER A: | Prairie Mutual Insurance | 37239 |\n| INSURER B: | Dominion Northern Assurance | 14699 |"
+  },
+  {
+   "id": "1002_000431_r7",
+   "cat": "text",
+   "bbox_px": [
+    92,
+    494,
+    331,
+    578
+   ],
+   "md": "**INSURED**\nDay-Craig ltée\n3691 Albert Street, Suite 1214\nEdmonton, AB T5Y 7R1"
+  },
+  {
+   "id": "1002_000431_r8",
+   "cat": "text",
+   "bbox_px": [
+    1048,
+    494,
+    1225,
+    580
+   ],
+   "md": "**CERTIFICATE NUMBER:**\nCERT-3619761\n\n**REVISION NUMBER:**\n1"
+  },
+  {
+   "id": "1002_000431_r9",
+   "cat": "section_header",
+   "bbox_px": [
+    92,
+    593,
+    513,
+    616
+   ],
+   "md": "## **COVERAGES CERTIFICATE NUMBER: 87657426**"
+  },
+  {
+   "id": "1002_000431_r10",
+   "cat": "text",
+   "bbox_px": [
+    92,
+    628,
+    1608,
+    685
+   ],
+   "md": "THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD INDICATED. NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS, EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS."
+  },
+  {
+   "id": "1002_000431_r11",
+   "cat": "table",
+   "bbox_px": [
+    80,
+    691,
+    1620,
+    1443
+   ],
+   "otsl": "<fcel>INSR LTR<fcel>TYPE OF INSURANCE<fcel>ADDL INSD<fcel>SUBR WVD<fcel>POLICY NUMBER<fcel>POLICY EFF<fcel>POLICY EXP<fcel>LIMITS<lcel><nl>\n<ucel><ucel><fcel>(Y/N)<lcel><ucel><fcel>(MM/DD/YYYY)<lcel><ucel><xcel><nl>\n<fcel>A<fcel>COMMERCIAL GENERAL LIABILITY<fcel>Y<ecel><fcel>CGL-94465226A<fcel>09/22/2024<fcel>09/22/2025<fcel>EACH OCCURRENCE<fcel>$2,000,000<nl>\n<ucel><fcel>□ CLAIMS-MADE ☒ OCCUR<ucel><ucel><ucel><ucel><ucel><fcel>DAMAGE TO RENTED PREMISES (Ea occurrence)<fcel>$300,000<nl>\n<ucel><fcel>□ Contractual Liability<ucel><ucel><ucel><ucel><ucel><fcel>MED EXP (Any one person)<fcel>$5,000<nl>\n<ucel><fcel>□ Non-Owned Auto<ucel><ucel><ucel><ucel><ucel><fcel>PERSONAL & ADV INJURY<fcel>$2,000,000<nl>\n<ucel><fcel>GEN'L AGGREGATE LIMIT APPLIES PER:<ucel><ucel><ucel><ucel><ucel><fcel>GENERAL AGGREGATE<fcel>$4,000,000<nl>\n<ucel><fcel>☑ POLICY □ PROJECT □ LOC<ucel><ucel><ucel><ucel><ucel><fcel>PRODUCTS - COMP/OP AGG<fcel>$4,000,000<nl>\n<fcel>B<fcel>AUTOMOBILE LIABILITY<ecel><fcel>Y<fcel>CA-55356767<fcel>09/22/2024<fcel>09/22/2025<fcel>COMBINED SINGLE LIMIT (Ea accident)<fcel>$2,000,000<nl>\n<ucel><fcel>☒ ANY AUTO<ucel><ucel><ucel><ucel><ucel><fcel>BODILY INJURY (Per person)<ecel><nl>\n<ucel><fcel>□ OWNED AUTOS ONLY □ SCHEDULED AUTOS<ucel><ucel><ucel><ucel><ucel><fcel>BODILY INJURY (Per accident)<ecel><nl>\n<ucel><fcel>☒ HIRED AUTOS ONLY □ NON-OWNED AUTOS ONLY<ucel><ucel><ucel><ucel><ucel><fcel>PROPERTY DAMAGE (Per accident)<ecel><nl>\n<fcel>A<fcel>☑ UMBRELLA LIAB ☒ OCCUR<ecel><fcel>Y<fcel>XS-39151005-01<fcel>09/22/2024<fcel>09/22/2025<fcel>EACH OCCURRENCE<fcel>$10,000,000<nl>\n<ucel><fcel>□ EXCESS LIAB □ CLAIMS-MADE<ucel><ucel><ucel><ucel><ucel><fcel>AGGREGATE<fcel>$10,000,000<nl>\n<ucel><fcel>□ DED ☒ RETENTION $10,000<ucel><ucel><ucel><ucel><ucel><ecel><ecel><nl>\n<fcel>B<fcel>WORKERS COMPENSATION AND EMPLOYERS' LIABILITY<fcel>Y<ecel><fcel>WC-51974802A<fcel>09/22/2024<fcel>09/22/2025<fcel>☒ PER STATUTE □ OTH-ER<ecel><nl>\n<ucel><fcel>ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? □ Y ☑ N<ucel><ucel><ucel><ucel><ucel><fcel>E.L. EACH ACCIDENT<fcel>$500,000<nl>\n<ucel><fcel>If yes, describe under DESCRIPTION OF OPERATIONS below<ucel><ucel><ucel><ucel><ucel><fcel>E.L. DISEASE - EA EMPLOYEE<fcel>$1,000,000<nl>\n<ucel><ecel><ucel><ucel><ucel><ucel><ucel><fcel>E.L. DISEASE - POLICY LIMIT<fcel>$500,000<nl>\n<fcel>A<fcel>PROPERTY / BUSINESS INTERRUPTION<ecel><ecel><fcel>PKG-27651631<fcel>09/22/2024<fcel>09/22/2025<fcel>BUILDING / CONTENTS<fcel>$3,300,000<nl>\n<ucel><fcel>Building Contents Equipment Breakdown<ucel><ucel><ucel><ucel><ucel><fcel>BUSINESS INTERRUPTION (ALS)<fcel>$1,000,000<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"cov\" style=\"table-layout:fixed\"><colgroup><col style=\"width:3.5%\"><col style=\"width:30%\"><col style=\"width:4%\"><col style=\"width:4%\"><col style=\"width:12.5%\"><col style=\"width:8%\"><col style=\"width:8%\"><col style=\"width:21%\"><col style=\"width:9%\"></colgroup><thead><tr><th rowspan=\"2\" class=\"c\">INSR<br>LTR</th><th rowspan=\"2\">TYPE OF INSURANCE</th><th class=\"c\">ADDL<br>INSD</th><th class=\"c\">SUBR<br>WVD</th><th rowspan=\"2\" class=\"c\">POLICY NUMBER</th><th class=\"c\">POLICY EFF</th><th class=\"c\">POLICY EXP</th><th colspan=\"2\" rowspan=\"2\" class=\"c\">LIMITS</th></tr><tr><th colspan=\"2\" class=\"c\" style=\"font-size:5.5pt\">(Y/N)</th><th colspan=\"2\" class=\"c\" style=\"font-size:5.5pt\">(MM/DD/YYYY)</th></tr></thead><tbody><tr><td rowspan=\"6\" class=\"c\">A</td><td class=\"l\"><b>COMMERCIAL GENERAL LIABILITY</b></td><td rowspan=\"6\" class=\"c\">Y</td><td rowspan=\"6\" class=\"c\"></td><td rowspan=\"6\" class=\"mono\">CGL-94465226A</td><td rowspan=\"6\" class=\"c\">09/22/2024</td><td rowspan=\"6\" class=\"c\">09/22/2025</td><td>EACH OCCURRENCE</td><td class=\"r\">$2,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>CLAIMS-MADE &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M2.6745327341004494 2.8728122516215224 L13.515353582267927 14.149304603442225 M15.003640000984209 2.8894981521391516 L2.888140272406538 12.869039705407202\" stroke=\"#0b2a8a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>OCCUR</td><td>DAMAGE TO RENTED PREMISES (Ea occurrence)</td><td class=\"r\">$300,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>Contractual Liability</td><td>MED EXP (Any one person)</td><td class=\"r\">$5,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>Non-Owned Auto</td><td>PERSONAL &amp; ADV INJURY</td><td class=\"r\">$2,000,000</td></tr><tr><td class=\"l\">GEN'L AGGREGATE LIMIT APPLIES PER:</td><td>GENERAL AGGREGATE</td><td class=\"r\">$4,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M4.193641923880239 8.800163228583175 L6.092491839630753 14.847805992460497 L17.23912204700415 0.8756372420004865\" stroke=\"#1a1a1a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>POLICY &nbsp; <span class=\"cb\"></span>PROJECT &nbsp; <span class=\"cb\"></span>LOC</td><td>PRODUCTS - COMP/OP AGG</td><td class=\"r\">$4,000,000</td></tr><tr><td rowspan=\"4\" class=\"c\">B</td><td class=\"l\"><b>AUTOMOBILE LIABILITY</b></td><td rowspan=\"4\" class=\"c\"></td><td rowspan=\"4\" class=\"c\">Y</td><td rowspan=\"4\" class=\"mono\">CA-55356767</td><td rowspan=\"4\" class=\"c\">09/22/2024</td><td rowspan=\"4\" class=\"c\">09/22/2025</td><td>COMBINED SINGLE LIMIT (Ea accident)</td><td class=\"r\">$2,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.87317500906428 2.0139299432936646 L12.591158217522745 13.436076962934152 M13.72979875516397 4.075768890160422 L4.340533582500735 13.27450694033222\" stroke=\"#222\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>ANY AUTO</td><td>BODILY INJURY (Per person)</td><td class=\"r\"></td></tr><tr><td class=\"l\"><span class=\"cb\"></span>OWNED AUTOS ONLY &nbsp; <span class=\"cb\"></span>SCHEDULED AUTOS</td><td>BODILY INJURY (Per accident)</td><td class=\"r\"></td></tr><tr><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.731980514162353 1.8001628520390096 L13.19338024090956 14.272436188358304 M12.890635288292607 3.488124684465182 L4.251084118413299 14.342839176715088\" stroke=\"#0b2a8a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>HIRED AUTOS ONLY &nbsp; <span class=\"cb\"></span>NON-OWNED AUTOS ONLY</td><td>PROPERTY DAMAGE (Per accident)</td><td class=\"r\"></td></tr><tr><td rowspan=\"3\" class=\"c\">A</td><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.015084319043801 8.664719059623536 L5.701261294968855 14.96082125889587 L15.12535810292887 3.1246316820851847\" stroke=\"#10267a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span><b>UMBRELLA LIAB</b> &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.145047968218499 2.062717574446218 L14.869092712832595 14.618463669438958 M13.639831138758124 1.669629007557512 L1.6094753981371057 12.91833950788398\" stroke=\"#222\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>OCCUR</td><td rowspan=\"3\" class=\"c\"></td><td rowspan=\"3\" class=\"c\">Y</td><td rowspan=\"3\" class=\"mono\">XS-39151005-01</td><td rowspan=\"3\" class=\"c\">09/22/2024</td><td rowspan=\"3\" class=\"c\">09/22/2025</td><td>EACH OCCURRENCE</td><td class=\"r\">$10,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span><b>EXCESS LIAB</b> &nbsp; <span class=\"cb\"></span>CLAIMS-MADE</td><td>AGGREGATE</td><td class=\"r\">$10,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>DED &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M4.28845381357492 2.4979777693850083 L14.312512141374109 14.160918512278254 M13.80601490587135 2.741270879967221 L4.430193405106761 12.600891291104737\" stroke=\"#2b2b2b\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>RETENTION $10,000</td><td></td><td class=\"r\"></td></tr><tr><td rowspan=\"4\" class=\"c\">B</td><td class=\"l\"><b>WORKERS COMPENSATION AND EMPLOYERS' LIABILITY</b></td><td rowspan=\"4\" class=\"c\">Y</td><td rowspan=\"4\" class=\"c\"></td><td rowspan=\"4\" class=\"mono\">WC-51974802A</td><td rowspan=\"4\" class=\"c\">09/22/2024</td><td rowspan=\"4\" class=\"c\">09/22/2025</td><td><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M2.623572398901404 2.68769755144487 L14.551997310027975 12.920490350358524 M14.466137280770287 1.6130928285144648 L1.8359868057118809 13.528702916321036\" stroke=\"#1a1a1a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>PER STATUTE &nbsp; <span class=\"cb\"></span>OTH-ER</td><td class=\"r\"></td></tr><tr><td class=\"l\">ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? &nbsp; <span class=\"cb\"></span>Y &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M2.211326279900672 8.040129003247841 L8.007588440718216 12.737811434801337 L14.853696207728019 3.3268411148892465\" stroke=\"#222\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>N</td><td>E.L. EACH ACCIDENT</td><td class=\"r\">$500,000</td></tr><tr><td class=\"l\">If yes, describe under DESCRIPTION OF OPERATIONS below</td><td>E.L. DISEASE - EA EMPLOYEE</td><td class=\"r\">$1,000,000</td></tr><tr><td class=\"l\"></td><td>E.L. DISEASE - POLICY LIMIT</td><td class=\"r\">$500,000</td></tr><tr><td rowspan=\"2\" class=\"c\">A</td><td class=\"l\"><b>PROPERTY / BUSINESS INTERRUPTION</b></td><td rowspan=\"2\" class=\"c\"></td><td rowspan=\"2\" class=\"c\"></td><td rowspan=\"2\" class=\"mono\">PKG-27651631</td><td rowspan=\"2\" class=\"c\">09/22/2024</td><td rowspan=\"2\" class=\"c\">09/22/2025</td><td>BUILDING / CONTENTS</td><td class=\"r\">$3,300,000</td></tr><tr><td class=\"l\">Building &nbsp; Contents &nbsp; Equipment Breakdown</td><td>BUSINESS INTERRUPTION (ALS)</td><td class=\"r\">$1,000,000</td></tr></tbody></table>",
+   "md": "| INSR LTR | TYPE OF INSURANCE | ADDL INSD | SUBR WVD | POLICY NUMBER | POLICY EFF | POLICY EXP | LIMITS |  |\n|---|---|---|---|---|---|---|---|---|\n|  |  | (Y/N) |  |  | (MM/DD/YYYY) |  |  |  |\n| A | COMMERCIAL GENERAL LIABILITY | Y |  | CGL-94465226A | 09/22/2024 | 09/22/2025 | EACH OCCURRENCE | $2,000,000 |\n|  | □ CLAIMS-MADE ☒ OCCUR |  |  |  |  |  | DAMAGE TO RENTED PREMISES (Ea occurrence) | $300,000 |\n|  | □ Contractual Liability |  |  |  |  |  | MED EXP (Any one person) | $5,000 |\n|  | □ Non-Owned Auto |  |  |  |  |  | PERSONAL & ADV INJURY | $2,000,000 |\n|  | GEN'L AGGREGATE LIMIT APPLIES PER: |  |  |  |  |  | GENERAL AGGREGATE | $4,000,000 |\n|  | ☑ POLICY □ PROJECT □ LOC |  |  |  |  |  | PRODUCTS - COMP/OP AGG | $4,000,000 |\n| B | AUTOMOBILE LIABILITY |  | Y | CA-55356767 | 09/22/2024 | 09/22/2025 | COMBINED SINGLE LIMIT (Ea accident) | $2,000,000 |\n|  | ☒ ANY AUTO |  |  |  |  |  | BODILY INJURY (Per person) |  |\n|  | □ OWNED AUTOS ONLY □ SCHEDULED AUTOS |  |  |  |  |  | BODILY INJURY (Per accident) |  |\n|  | ☒ HIRED AUTOS ONLY □ NON-OWNED AUTOS ONLY |  |  |  |  |  | PROPERTY DAMAGE (Per accident) |  |\n| A | ☑ UMBRELLA LIAB ☒ OCCUR |  | Y | XS-39151005-01 | 09/22/2024 | 09/22/2025 | EACH OCCURRENCE | $10,000,000 |\n|  | □ EXCESS LIAB □ CLAIMS-MADE |  |  |  |  |  | AGGREGATE | $10,000,000 |\n|  | □ DED ☒ RETENTION $10,000 |  |  |  |  |  |  |  |\n| B | WORKERS COMPENSATION AND EMPLOYERS' LIABILITY | Y |  | WC-51974802A | 09/22/2024 | 09/22/2025 | ☒ PER STATUTE □ OTH-ER |  |\n|  | ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? □ Y ☑ N |  |  |  |  |  | E.L. EACH ACCIDENT | $500,000 |\n|  | If yes, describe under DESCRIPTION OF OPERATIONS below |  |  |  |  |  | E.L. DISEASE - EA EMPLOYEE | $1,000,000 |\n|  |  |  |  |  |  |  | E.L. DISEASE - POLICY LIMIT | $500,000 |\n| A | PROPERTY / BUSINESS INTERRUPTION |  |  | PKG-27651631 | 09/22/2024 | 09/22/2025 | BUILDING / CONTENTS | $3,300,000 |\n|  | Building Contents Equipment Breakdown |  |  |  |  |  | BUSINESS INTERRUPTION (ALS) | $1,000,000 |"
+  },
+  {
+   "id": "1002_000431_r12",
+   "cat": "section_header",
+   "bbox_px": [
+    92,
+    1454,
+    1179,
+    1473
+   ],
+   "md": "## **DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)**"
+  },
+  {
+   "id": "1002_000431_r13",
+   "cat": "text",
+   "bbox_px": [
+    92,
+    1483,
+    1546,
+    1529
+   ],
+   "md": "Certificate holder is included as additional insured with respect to liability arising out of the operations of the named insured under contract no. C-2198-565 (Yonge Street project). Waiver of subrogation applies in favour of the certificate holder where required by written contract."
+  },
+  {
+   "id": "1002_000431_r14",
+   "cat": "text",
+   "bbox_px": [
+    92,
+    1558,
+    286,
+    1642
+   ],
+   "md": "**CERTIFICATE HOLDER**\nPalmer and Sons Inc.\n373 Dundas Street West\nEdmonton, AB T6B 5T6"
+  },
+  {
+   "id": "1002_000431_r15",
+   "cat": "text",
+   "bbox_px": [
+    861,
+    1558,
+    1558,
+    1759
+   ],
+   "md": "**CANCELLATION**\nSHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN ACCORDANCE WITH THE POLICY PROVISIONS.\n\n**AUTHORIZED REPRESENTATIVE**"
+  },
+  {
+   "id": "1002_000431_r16",
+   "cat": "page_footer",
+   "bbox_px": [
+    80,
+    2101,
+    1358,
+    2120
+   ],
+   "md": "Lawson Insurance Services Inc. | ACORD 25 (2016/03) © 1988-2015 ACORD CORPORATION. All rights reserved. The ACORD name and logo are registered marks of ACORD"
+  }
+ ],
+ "tables": [
+  {
+   "id": "1002_000431_r6",
+   "otsl": "<fcel>INSURER(S) AFFORDING COVERAGE<lcel><fcel>NAIC #<nl>\n<fcel>INSURER A:<fcel>Prairie Mutual Insurance<fcel>37239<nl>\n<fcel>INSURER B:<fcel>Dominion Northern Assurance<fcel>14699<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"ins\"><thead><tr><th colspan=\"2\">INSURER(S) AFFORDING COVERAGE</th><th class=\"c\">NAIC #</th></tr></thead><tbody><tr><th style=\"text-align:left;background:#eee\">INSURER A: </th><td>Prairie Mutual Insurance</td><td class=\"c\">37239</td></tr><tr><th style=\"text-align:left;background:#eee\">INSURER B: </th><td>Dominion Northern Assurance</td><td class=\"c\">14699</td></tr></tbody></table>",
+   "markdown": "| INSURER(S) AFFORDING COVERAGE |  | NAIC # |\n|---|---|---|\n| INSURER A: | Prairie Mutual Insurance | 37239 |\n| INSURER B: | Dominion Northern Assurance | 14699 |"
+  },
+  {
+   "id": "1002_000431_r11",
+   "otsl": "<fcel>INSR LTR<fcel>TYPE OF INSURANCE<fcel>ADDL INSD<fcel>SUBR WVD<fcel>POLICY NUMBER<fcel>POLICY EFF<fcel>POLICY EXP<fcel>LIMITS<lcel><nl>\n<ucel><ucel><fcel>(Y/N)<lcel><ucel><fcel>(MM/DD/YYYY)<lcel><ucel><xcel><nl>\n<fcel>A<fcel>COMMERCIAL GENERAL LIABILITY<fcel>Y<ecel><fcel>CGL-94465226A<fcel>09/22/2024<fcel>09/22/2025<fcel>EACH OCCURRENCE<fcel>$2,000,000<nl>\n<ucel><fcel>□ CLAIMS-MADE ☒ OCCUR<ucel><ucel><ucel><ucel><ucel><fcel>DAMAGE TO RENTED PREMISES (Ea occurrence)<fcel>$300,000<nl>\n<ucel><fcel>□ Contractual Liability<ucel><ucel><ucel><ucel><ucel><fcel>MED EXP (Any one person)<fcel>$5,000<nl>\n<ucel><fcel>□ Non-Owned Auto<ucel><ucel><ucel><ucel><ucel><fcel>PERSONAL & ADV INJURY<fcel>$2,000,000<nl>\n<ucel><fcel>GEN'L AGGREGATE LIMIT APPLIES PER:<ucel><ucel><ucel><ucel><ucel><fcel>GENERAL AGGREGATE<fcel>$4,000,000<nl>\n<ucel><fcel>☑ POLICY □ PROJECT □ LOC<ucel><ucel><ucel><ucel><ucel><fcel>PRODUCTS - COMP/OP AGG<fcel>$4,000,000<nl>\n<fcel>B<fcel>AUTOMOBILE LIABILITY<ecel><fcel>Y<fcel>CA-55356767<fcel>09/22/2024<fcel>09/22/2025<fcel>COMBINED SINGLE LIMIT (Ea accident)<fcel>$2,000,000<nl>\n<ucel><fcel>☒ ANY AUTO<ucel><ucel><ucel><ucel><ucel><fcel>BODILY INJURY (Per person)<ecel><nl>\n<ucel><fcel>□ OWNED AUTOS ONLY □ SCHEDULED AUTOS<ucel><ucel><ucel><ucel><ucel><fcel>BODILY INJURY (Per accident)<ecel><nl>\n<ucel><fcel>☒ HIRED AUTOS ONLY □ NON-OWNED AUTOS ONLY<ucel><ucel><ucel><ucel><ucel><fcel>PROPERTY DAMAGE (Per accident)<ecel><nl>\n<fcel>A<fcel>☑ UMBRELLA LIAB ☒ OCCUR<ecel><fcel>Y<fcel>XS-39151005-01<fcel>09/22/2024<fcel>09/22/2025<fcel>EACH OCCURRENCE<fcel>$10,000,000<nl>\n<ucel><fcel>□ EXCESS LIAB □ CLAIMS-MADE<ucel><ucel><ucel><ucel><ucel><fcel>AGGREGATE<fcel>$10,000,000<nl>\n<ucel><fcel>□ DED ☒ RETENTION $10,000<ucel><ucel><ucel><ucel><ucel><ecel><ecel><nl>\n<fcel>B<fcel>WORKERS COMPENSATION AND EMPLOYERS' LIABILITY<fcel>Y<ecel><fcel>WC-51974802A<fcel>09/22/2024<fcel>09/22/2025<fcel>☒ PER STATUTE □ OTH-ER<ecel><nl>\n<ucel><fcel>ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? □ Y ☑ N<ucel><ucel><ucel><ucel><ucel><fcel>E.L. EACH ACCIDENT<fcel>$500,000<nl>\n<ucel><fcel>If yes, describe under DESCRIPTION OF OPERATIONS below<ucel><ucel><ucel><ucel><ucel><fcel>E.L. DISEASE - EA EMPLOYEE<fcel>$1,000,000<nl>\n<ucel><ecel><ucel><ucel><ucel><ucel><ucel><fcel>E.L. DISEASE - POLICY LIMIT<fcel>$500,000<nl>\n<fcel>A<fcel>PROPERTY / BUSINESS INTERRUPTION<ecel><ecel><fcel>PKG-27651631<fcel>09/22/2024<fcel>09/22/2025<fcel>BUILDING / CONTENTS<fcel>$3,300,000<nl>\n<ucel><fcel>Building Contents Equipment Breakdown<ucel><ucel><ucel><ucel><ucel><fcel>BUSINESS INTERRUPTION (ALS)<fcel>$1,000,000<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"cov\" style=\"table-layout:fixed\"><colgroup><col style=\"width:3.5%\"><col style=\"width:30%\"><col style=\"width:4%\"><col style=\"width:4%\"><col style=\"width:12.5%\"><col style=\"width:8%\"><col style=\"width:8%\"><col style=\"width:21%\"><col style=\"width:9%\"></colgroup><thead><tr><th rowspan=\"2\" class=\"c\">INSR<br>LTR</th><th rowspan=\"2\">TYPE OF INSURANCE</th><th class=\"c\">ADDL<br>INSD</th><th class=\"c\">SUBR<br>WVD</th><th rowspan=\"2\" class=\"c\">POLICY NUMBER</th><th class=\"c\">POLICY EFF</th><th class=\"c\">POLICY EXP</th><th colspan=\"2\" rowspan=\"2\" class=\"c\">LIMITS</th></tr><tr><th colspan=\"2\" class=\"c\" style=\"font-size:5.5pt\">(Y/N)</th><th colspan=\"2\" class=\"c\" style=\"font-size:5.5pt\">(MM/DD/YYYY)</th></tr></thead><tbody><tr><td rowspan=\"6\" class=\"c\">A</td><td class=\"l\"><b>COMMERCIAL GENERAL LIABILITY</b></td><td rowspan=\"6\" class=\"c\">Y</td><td rowspan=\"6\" class=\"c\"></td><td rowspan=\"6\" class=\"mono\">CGL-94465226A</td><td rowspan=\"6\" class=\"c\">09/22/2024</td><td rowspan=\"6\" class=\"c\">09/22/2025</td><td>EACH OCCURRENCE</td><td class=\"r\">$2,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>CLAIMS-MADE &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M2.6745327341004494 2.8728122516215224 L13.515353582267927 14.149304603442225 M15.003640000984209 2.8894981521391516 L2.888140272406538 12.869039705407202\" stroke=\"#0b2a8a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>OCCUR</td><td>DAMAGE TO RENTED PREMISES (Ea occurrence)</td><td class=\"r\">$300,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>Contractual Liability</td><td>MED EXP (Any one person)</td><td class=\"r\">$5,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>Non-Owned Auto</td><td>PERSONAL &amp; ADV INJURY</td><td class=\"r\">$2,000,000</td></tr><tr><td class=\"l\">GEN'L AGGREGATE LIMIT APPLIES PER:</td><td>GENERAL AGGREGATE</td><td class=\"r\">$4,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M4.193641923880239 8.800163228583175 L6.092491839630753 14.847805992460497 L17.23912204700415 0.8756372420004865\" stroke=\"#1a1a1a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>POLICY &nbsp; <span class=\"cb\"></span>PROJECT &nbsp; <span class=\"cb\"></span>LOC</td><td>PRODUCTS - COMP/OP AGG</td><td class=\"r\">$4,000,000</td></tr><tr><td rowspan=\"4\" class=\"c\">B</td><td class=\"l\"><b>AUTOMOBILE LIABILITY</b></td><td rowspan=\"4\" class=\"c\"></td><td rowspan=\"4\" class=\"c\">Y</td><td rowspan=\"4\" class=\"mono\">CA-55356767</td><td rowspan=\"4\" class=\"c\">09/22/2024</td><td rowspan=\"4\" class=\"c\">09/22/2025</td><td>COMBINED SINGLE LIMIT (Ea accident)</td><td class=\"r\">$2,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.87317500906428 2.0139299432936646 L12.591158217522745 13.436076962934152 M13.72979875516397 4.075768890160422 L4.340533582500735 13.27450694033222\" stroke=\"#222\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>ANY AUTO</td><td>BODILY INJURY (Per person)</td><td class=\"r\"></td></tr><tr><td class=\"l\"><span class=\"cb\"></span>OWNED AUTOS ONLY &nbsp; <span class=\"cb\"></span>SCHEDULED AUTOS</td><td>BODILY INJURY (Per accident)</td><td class=\"r\"></td></tr><tr><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.731980514162353 1.8001628520390096 L13.19338024090956 14.272436188358304 M12.890635288292607 3.488124684465182 L4.251084118413299 14.342839176715088\" stroke=\"#0b2a8a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>HIRED AUTOS ONLY &nbsp; <span class=\"cb\"></span>NON-OWNED AUTOS ONLY</td><td>PROPERTY DAMAGE (Per accident)</td><td class=\"r\"></td></tr><tr><td rowspan=\"3\" class=\"c\">A</td><td class=\"l\"><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.015084319043801 8.664719059623536 L5.701261294968855 14.96082125889587 L15.12535810292887 3.1246316820851847\" stroke=\"#10267a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span><b>UMBRELLA LIAB</b> &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M3.145047968218499 2.062717574446218 L14.869092712832595 14.618463669438958 M13.639831138758124 1.669629007557512 L1.6094753981371057 12.91833950788398\" stroke=\"#222\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>OCCUR</td><td rowspan=\"3\" class=\"c\"></td><td rowspan=\"3\" class=\"c\">Y</td><td rowspan=\"3\" class=\"mono\">XS-39151005-01</td><td rowspan=\"3\" class=\"c\">09/22/2024</td><td rowspan=\"3\" class=\"c\">09/22/2025</td><td>EACH OCCURRENCE</td><td class=\"r\">$10,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span><b>EXCESS LIAB</b> &nbsp; <span class=\"cb\"></span>CLAIMS-MADE</td><td>AGGREGATE</td><td class=\"r\">$10,000,000</td></tr><tr><td class=\"l\"><span class=\"cb\"></span>DED &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M4.28845381357492 2.4979777693850083 L14.312512141374109 14.160918512278254 M13.80601490587135 2.741270879967221 L4.430193405106761 12.600891291104737\" stroke=\"#2b2b2b\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>RETENTION $10,000</td><td></td><td class=\"r\"></td></tr><tr><td rowspan=\"4\" class=\"c\">B</td><td class=\"l\"><b>WORKERS COMPENSATION AND EMPLOYERS' LIABILITY</b></td><td rowspan=\"4\" class=\"c\">Y</td><td rowspan=\"4\" class=\"c\"></td><td rowspan=\"4\" class=\"mono\">WC-51974802A</td><td rowspan=\"4\" class=\"c\">09/22/2024</td><td rowspan=\"4\" class=\"c\">09/22/2025</td><td><span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M2.623572398901404 2.68769755144487 L14.551997310027975 12.920490350358524 M14.466137280770287 1.6130928285144648 L1.8359868057118809 13.528702916321036\" stroke=\"#1a1a1a\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>PER STATUTE &nbsp; <span class=\"cb\"></span>OTH-ER</td><td class=\"r\"></td></tr><tr><td class=\"l\">ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? &nbsp; <span class=\"cb\"></span>Y &nbsp; <span class=\"cb\"><svg width=\"18\" height=\"18\"><path d=\"M2.211326279900672 8.040129003247841 L8.007588440718216 12.737811434801337 L14.853696207728019 3.3268411148892465\" stroke=\"#222\" stroke-width=\"1.8\" fill=\"none\" stroke-linecap=\"round\"></path></svg></span>N</td><td>E.L. EACH ACCIDENT</td><td class=\"r\">$500,000</td></tr><tr><td class=\"l\">If yes, describe under DESCRIPTION OF OPERATIONS below</td><td>E.L. DISEASE - EA EMPLOYEE</td><td class=\"r\">$1,000,000</td></tr><tr><td class=\"l\"></td><td>E.L. DISEASE - POLICY LIMIT</td><td class=\"r\">$500,000</td></tr><tr><td rowspan=\"2\" class=\"c\">A</td><td class=\"l\"><b>PROPERTY / BUSINESS INTERRUPTION</b></td><td rowspan=\"2\" class=\"c\"></td><td rowspan=\"2\" class=\"c\"></td><td rowspan=\"2\" class=\"mono\">PKG-27651631</td><td rowspan=\"2\" class=\"c\">09/22/2024</td><td rowspan=\"2\" class=\"c\">09/22/2025</td><td>BUILDING / CONTENTS</td><td class=\"r\">$3,300,000</td></tr><tr><td class=\"l\">Building &nbsp; Contents &nbsp; Equipment Breakdown</td><td>BUSINESS INTERRUPTION (ALS)</td><td class=\"r\">$1,000,000</td></tr></tbody></table>",
+   "markdown": "| INSR LTR | TYPE OF INSURANCE | ADDL INSD | SUBR WVD | POLICY NUMBER | POLICY EFF | POLICY EXP | LIMITS |  |\n|---|---|---|---|---|---|---|---|---|\n|  |  | (Y/N) |  |  | (MM/DD/YYYY) |  |  |  |\n| A | COMMERCIAL GENERAL LIABILITY | Y |  | CGL-94465226A | 09/22/2024 | 09/22/2025 | EACH OCCURRENCE | $2,000,000 |\n|  | □ CLAIMS-MADE ☒ OCCUR |  |  |  |  |  | DAMAGE TO RENTED PREMISES (Ea occurrence) | $300,000 |\n|  | □ Contractual Liability |  |  |  |  |  | MED EXP (Any one person) | $5,000 |\n|  | □ Non-Owned Auto |  |  |  |  |  | PERSONAL & ADV INJURY | $2,000,000 |\n|  | GEN'L AGGREGATE LIMIT APPLIES PER: |  |  |  |  |  | GENERAL AGGREGATE | $4,000,000 |\n|  | ☑ POLICY □ PROJECT □ LOC |  |  |  |  |  | PRODUCTS - COMP/OP AGG | $4,000,000 |\n| B | AUTOMOBILE LIABILITY |  | Y | CA-55356767 | 09/22/2024 | 09/22/2025 | COMBINED SINGLE LIMIT (Ea accident) | $2,000,000 |\n|  | ☒ ANY AUTO |  |  |  |  |  | BODILY INJURY (Per person) |  |\n|  | □ OWNED AUTOS ONLY □ SCHEDULED AUTOS |  |  |  |  |  | BODILY INJURY (Per accident) |  |\n|  | ☒ HIRED AUTOS ONLY □ NON-OWNED AUTOS ONLY |  |  |  |  |  | PROPERTY DAMAGE (Per accident) |  |\n| A | ☑ UMBRELLA LIAB ☒ OCCUR |  | Y | XS-39151005-01 | 09/22/2024 | 09/22/2025 | EACH OCCURRENCE | $10,000,000 |\n|  | □ EXCESS LIAB □ CLAIMS-MADE |  |  |  |  |  | AGGREGATE | $10,000,000 |\n|  | □ DED ☒ RETENTION $10,000 |  |  |  |  |  |  |  |\n| B | WORKERS COMPENSATION AND EMPLOYERS' LIABILITY | Y |  | WC-51974802A | 09/22/2024 | 09/22/2025 | ☒ PER STATUTE □ OTH-ER |  |\n|  | ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? □ Y ☑ N |  |  |  |  |  | E.L. EACH ACCIDENT | $500,000 |\n|  | If yes, describe under DESCRIPTION OF OPERATIONS below |  |  |  |  |  | E.L. DISEASE - EA EMPLOYEE | $1,000,000 |\n|  |  |  |  |  |  |  | E.L. DISEASE - POLICY LIMIT | $500,000 |\n| A | PROPERTY / BUSINESS INTERRUPTION |  |  | PKG-27651631 | 09/22/2024 | 09/22/2025 | BUILDING / CONTENTS | $3,300,000 |\n|  | Building Contents Equipment Breakdown |  |  |  |  |  | BUSINESS INTERRUPTION (ALS) | $1,000,000 |"
+  }
+ ]
+}

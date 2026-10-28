@@ -1,0 +1,259 @@
+{
+ "id": "1010_003460",
+ "industry": "financial_services",
+ "doctype": "invoice",
+ "lang": "en",
+ "seed": "1010_003460",
+ "preset": "scan_skewed",
+ "bbox_approx": false,
+ "homography": [
+  [
+   0.975257427558493,
+   -0.04685401098500133,
+   72.57059865878243
+  ],
+  [
+   0.04685401098500133,
+   0.975257427558493,
+   -12.609079651593415
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "width": 1700,
+ "height": 2200,
+ "page_md": "9156 Bank Street, Kelowna, BC V1S 6B3 · Tel. 778-854-7890 · GST 782096447 RT0001\n\n# **INVOICE**\n\npaid chq #195\n\n| Invoice no. | F75839 |\n|---|---|\n| Date | 2021-07-09 |\n| Due date | 2021-08-08 |\n| PO no. | PO-2380 |\n| Terms | Net 30 |\n\n**Bill to**\nMalone Holdings Inc.\n2654 Bloor Street West\nVancouver, BC V5E 5P1\n\n| # | Description | Qty | Unit | Unit price | Amount |\n|---|---|---|---|---|---|\n| PROJECT PHOENIX – PO 8869 |  |  |  |  |  |\n| 1 | Freight, Montréal to Toronto, 2 pallets | 5 | ea | 442.19 | 2,210.95 |\n| 2 | Office 365 Business Standard licence | 6 | ea | 16.90 | 101.40 |\n| 3 | Freight, Montréal to Toronto, 2 pallets | 5 | ea | 515.62 | 2,578.10 |\n| Subtotal |  |  |  |  | 4,890.45 |\n| PROJECT ATLAS – PO 3357 |  |  |  |  |  |\n| 1 | Office 365 Business Standard licence | 2 | ea | 16.90 | 33.80 |\n| 2 | Payroll processing (12 employees) | 1 | mo | 170.34 | 170.34 |\n| 3 | Freight, Montréal to Toronto, 2 pallets | 1 | ea | 354.58 | 354.58 |\n| 4 | Legal review of commercial lease | 18 | hr | 365.15 | 6,572.70 |\n| Subtotal |  |  |  |  | 7,131.42 |\n\n| Subtotal | $12,021.87 |\n|---|---|\n| Discount | -$1,202.19 |\n| GST 5% (782096447 RT0001) | $540.98 |\n| HST 8% (ON portion) | $865.57 |\n| TOTAL | $12,226.23 |\n\nTerms: Net 30 days. Overdue accounts bear interest at 1.5% per month (19.56% per annum). Please remit by e-Transfer to ar@daniels.ca or by EFT (transit 88002-003-1825008). Make cheques payable to Daniels Technologies Inc..\n\nGST/HST no. 782096447 RT0001 · QST no. 3125578595 TQ0001\n\nDaniels Technologies Inc. · Invoice F75839 Page 1 of 1",
+ "layout_1036": [
+  {
+   "bbox": [
+    284,
+    93,
+    803,
+    127
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    117,
+    119,
+    274,
+    167
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    748,
+    192,
+    879,
+    224
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    110,
+    169,
+    960,
+    301
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    118,
+    282,
+    268,
+    341
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    88,
+    350,
+    949,
+    661
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    538,
+    654,
+    932,
+    770
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    79,
+    751,
+    909,
+    806
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    79,
+    774,
+    422,
+    799
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    69,
+    929,
+    914,
+    975
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "1010_003460_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    466,
+    198,
+    1318,
+    269
+   ],
+   "md": "9156 Bank Street, Kelowna, BC V1S 6B3 · Tel. 778-854-7890 · GST 782096447 RT0001"
+  },
+  {
+   "id": "1010_003460_r1",
+   "cat": "title",
+   "bbox_px": [
+    192,
+    253,
+    449,
+    355
+   ],
+   "md": "# **INVOICE**"
+  },
+  {
+   "id": "1010_003460_r2",
+   "cat": "text",
+   "bbox_px": [
+    1227,
+    408,
+    1443,
+    475
+   ],
+   "md": "paid chq #195"
+  },
+  {
+   "id": "1010_003460_r3",
+   "cat": "table",
+   "bbox_px": [
+    181,
+    359,
+    1576,
+    639
+   ],
+   "otsl": "<fcel>Invoice no.<fcel>F75839<nl>\n<fcel>Date<fcel>2021-07-09<nl>\n<fcel>Due date<fcel>2021-08-08<nl>\n<fcel>PO no.<fcel>PO-2380<nl>\n<fcel>Terms<fcel>Net 30<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"t3 small\"><tbody><tr><td style=\"width:30%\"><b>Invoice no.</b></td><td style=\"width:70%\"><b>F75839</b></td></tr><tr><td style=\"width:30%\"><b>Date</b></td><td style=\"width:70%\">2021-07-09</td></tr><tr><td style=\"width:30%\"><b>Due date</b></td><td style=\"width:70%\">2021-08-08</td></tr><tr><td style=\"width:30%\"><b>PO no.</b></td><td style=\"width:70%\">PO-2380</td></tr><tr><td style=\"width:30%\"><b>Terms</b></td><td style=\"width:70%\">Net 30</td></tr></tbody></table>",
+   "md": "| Invoice no. | F75839 |\n|---|---|\n| Date | 2021-07-09 |\n| Due date | 2021-08-08 |\n| PO no. | PO-2380 |\n| Terms | Net 30 |"
+  },
+  {
+   "id": "1010_003460_r4",
+   "cat": "text",
+   "bbox_px": [
+    193,
+    599,
+    440,
+    725
+   ],
+   "md": "**Bill to**\nMalone Holdings Inc.\n2654 Bloor Street West\nVancouver, BC V5E 5P1"
+  },
+  {
+   "id": "1010_003460_r5",
+   "cat": "table",
+   "bbox_px": [
+    145,
+    743,
+    1558,
+    1404
+   ],
+   "otsl": "<fcel>#<fcel>Description<fcel>Qty<fcel>Unit<fcel>Unit price<fcel>Amount<nl>\n<fcel>PROJECT PHOENIX – PO 8869<lcel><lcel><lcel><lcel><lcel><nl>\n<fcel>1<fcel>Freight, Montréal to Toronto, 2 pallets<fcel>5<fcel>ea<fcel>442.19<fcel>2,210.95<nl>\n<fcel>2<fcel>Office 365 Business Standard licence<fcel>6<fcel>ea<fcel>16.90<fcel>101.40<nl>\n<fcel>3<fcel>Freight, Montréal to Toronto, 2 pallets<fcel>5<fcel>ea<fcel>515.62<fcel>2,578.10<nl>\n<fcel>Subtotal<lcel><lcel><lcel><lcel><fcel>4,890.45<nl>\n<fcel>PROJECT ATLAS – PO 3357<lcel><lcel><lcel><lcel><lcel><nl>\n<fcel>1<fcel>Office 365 Business Standard licence<fcel>2<fcel>ea<fcel>16.90<fcel>33.80<nl>\n<fcel>2<fcel>Payroll processing (12 employees)<fcel>1<fcel>mo<fcel>170.34<fcel>170.34<nl>\n<fcel>3<fcel>Freight, Montréal to Toronto, 2 pallets<fcel>1<fcel>ea<fcel>354.58<fcel>354.58<nl>\n<fcel>4<fcel>Legal review of commercial lease<fcel>18<fcel>hr<fcel>365.15<fcel>6,572.70<nl>\n<fcel>Subtotal<lcel><lcel><lcel><lcel><fcel>7,131.42<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"t3\"><thead><tr><th>#</th><th>Description</th><th class=\"num\">Qty</th><th>Unit</th><th class=\"num\">Unit price</th><th class=\"num\">Amount</th></tr></thead><tbody><tr class=\"grp\"><td colspan=\"6\">PROJECT PHOENIX – PO 8869</td></tr><tr><td class=\"ctr\">1</td><td>Freight, Montréal to Toronto, 2 pallets</td><td class=\"num\">5</td><td>ea</td><td class=\"num\">442.19</td><td class=\"num\">2,210.95</td></tr><tr><td class=\"ctr\">2</td><td>Office 365 Business Standard licence</td><td class=\"num\">6</td><td>ea</td><td class=\"num\">16.90</td><td class=\"num\">101.40</td></tr><tr><td class=\"ctr\">3</td><td>Freight, Montréal to Toronto, 2 pallets</td><td class=\"num\">5</td><td>ea</td><td class=\"num\">515.62</td><td class=\"num\">2,578.10</td></tr><tr class=\"sub\"><td colspan=\"5\" class=\"rt\">Subtotal</td><td class=\"num\">4,890.45</td></tr><tr class=\"grp\"><td colspan=\"6\">PROJECT ATLAS – PO 3357</td></tr><tr><td class=\"ctr\">1</td><td>Office 365 Business Standard licence</td><td class=\"num\">2</td><td>ea</td><td class=\"num\">16.90</td><td class=\"num\">33.80</td></tr><tr><td class=\"ctr\">2</td><td>Payroll processing (12 employees)</td><td class=\"num\">1</td><td>mo</td><td class=\"num\">170.34</td><td class=\"num\">170.34</td></tr><tr><td class=\"ctr\">3</td><td>Freight, Montréal to Toronto, 2 pallets</td><td class=\"num\">1</td><td>ea</td><td class=\"num\">354.58</td><td class=\"num\">354.58</td></tr><tr><td class=\"ctr\">4</td><td>Legal review of commercial lease</td><td class=\"num\">18</td><td>hr</td><td class=\"num\">365.15</td><td class=\"num\">6,572.70</td></tr><tr class=\"sub\"><td colspan=\"5\" class=\"rt\">Subtotal</td><td class=\"num\">7,131.42</td></tr></tbody></table>",
+   "md": "| # | Description | Qty | Unit | Unit price | Amount |\n|---|---|---|---|---|---|\n| PROJECT PHOENIX – PO 8869 |  |  |  |  |  |\n| 1 | Freight, Montréal to Toronto, 2 pallets | 5 | ea | 442.19 | 2,210.95 |\n| 2 | Office 365 Business Standard licence | 6 | ea | 16.90 | 101.40 |\n| 3 | Freight, Montréal to Toronto, 2 pallets | 5 | ea | 515.62 | 2,578.10 |\n| Subtotal |  |  |  |  | 4,890.45 |\n| PROJECT ATLAS – PO 3357 |  |  |  |  |  |\n| 1 | Office 365 Business Standard licence | 2 | ea | 16.90 | 33.80 |\n| 2 | Payroll processing (12 employees) | 1 | mo | 170.34 | 170.34 |\n| 3 | Freight, Montréal to Toronto, 2 pallets | 1 | ea | 354.58 | 354.58 |\n| 4 | Legal review of commercial lease | 18 | hr | 365.15 | 6,572.70 |\n| Subtotal |  |  |  |  | 7,131.42 |"
+  },
+  {
+   "id": "1010_003460_r6",
+   "cat": "table",
+   "bbox_px": [
+    882,
+    1389,
+    1529,
+    1635
+   ],
+   "otsl": "<fcel>Subtotal<fcel>$12,021.87<nl>\n<fcel>Discount<fcel>-$1,202.19<nl>\n<fcel>GST 5% (782096447 RT0001)<fcel>$540.98<nl>\n<fcel>HST 8% (ON portion)<fcel>$865.57<nl>\n<fcel>TOTAL<fcel>$12,226.23<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"t3 small\" style=\"width:46%\"><tbody><tr><td class=\"rt\">Subtotal</td><td class=\"num\">$12,021.87</td></tr><tr><td class=\"rt\">Discount</td><td class=\"num\">-$1,202.19</td></tr><tr class=\"tot\"><td class=\"rt b\">GST 5% (782096447 RT0001)</td><td class=\"num b\">$540.98</td></tr><tr><td class=\"rt\">HST 8% (ON portion)</td><td class=\"num\">$865.57</td></tr><tr class=\"tot\"><td class=\"rt b\">TOTAL</td><td class=\"num b\">$12,226.23</td></tr></tbody></table>",
+   "md": "| Subtotal | $12,021.87 |\n|---|---|\n| Discount | -$1,202.19 |\n| GST 5% (782096447 RT0001) | $540.98 |\n| HST 8% (ON portion) | $865.57 |\n| TOTAL | $12,226.23 |"
+  },
+  {
+   "id": "1010_003460_r7",
+   "cat": "text",
+   "bbox_px": [
+    130,
+    1595,
+    1491,
+    1711
+   ],
+   "md": "Terms: Net 30 days. Overdue accounts bear interest at 1.5% per month (19.56% per annum). Please remit by e-Transfer to ar@daniels.ca or by EFT (transit 88002-003-1825008). Make cheques payable to Daniels Technologies Inc.."
+  },
+  {
+   "id": "1010_003460_r8",
+   "cat": "text",
+   "bbox_px": [
+    129,
+    1644,
+    692,
+    1697
+   ],
+   "md": "GST/HST no. 782096447 RT0001 · QST no. 3125578595 TQ0001"
+  },
+  {
+   "id": "1010_003460_r9",
+   "cat": "page_footer",
+   "bbox_px": [
+    113,
+    1973,
+    1499,
+    2070
+   ],
+   "md": "Daniels Technologies Inc. · Invoice F75839 Page 1 of 1"
+  }
+ ],
+ "tables": [
+  {
+   "id": "1010_003460_r3",
+   "otsl": "<fcel>Invoice no.<fcel>F75839<nl>\n<fcel>Date<fcel>2021-07-09<nl>\n<fcel>Due date<fcel>2021-08-08<nl>\n<fcel>PO no.<fcel>PO-2380<nl>\n<fcel>Terms<fcel>Net 30<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"t3 small\"><tbody><tr><td style=\"width:30%\"><b>Invoice no.</b></td><td style=\"width:70%\"><b>F75839</b></td></tr><tr><td style=\"width:30%\"><b>Date</b></td><td style=\"width:70%\">2021-07-09</td></tr><tr><td style=\"width:30%\"><b>Due date</b></td><td style=\"width:70%\">2021-08-08</td></tr><tr><td style=\"width:30%\"><b>PO no.</b></td><td style=\"width:70%\">PO-2380</td></tr><tr><td style=\"width:30%\"><b>Terms</b></td><td style=\"width:70%\">Net 30</td></tr></tbody></table>",
+   "markdown": "| Invoice no. | F75839 |\n|---|---|\n| Date | 2021-07-09 |\n| Due date | 2021-08-08 |\n| PO no. | PO-2380 |\n| Terms | Net 30 |"
+  },
+  {
+   "id": "1010_003460_r5",
+   "otsl": "<fcel>#<fcel>Description<fcel>Qty<fcel>Unit<fcel>Unit price<fcel>Amount<nl>\n<fcel>PROJECT PHOENIX – PO 8869<lcel><lcel><lcel><lcel><lcel><nl>\n<fcel>1<fcel>Freight, Montréal to Toronto, 2 pallets<fcel>5<fcel>ea<fcel>442.19<fcel>2,210.95<nl>\n<fcel>2<fcel>Office 365 Business Standard licence<fcel>6<fcel>ea<fcel>16.90<fcel>101.40<nl>\n<fcel>3<fcel>Freight, Montréal to Toronto, 2 pallets<fcel>5<fcel>ea<fcel>515.62<fcel>2,578.10<nl>\n<fcel>Subtotal<lcel><lcel><lcel><lcel><fcel>4,890.45<nl>\n<fcel>PROJECT ATLAS – PO 3357<lcel><lcel><lcel><lcel><lcel><nl>\n<fcel>1<fcel>Office 365 Business Standard licence<fcel>2<fcel>ea<fcel>16.90<fcel>33.80<nl>\n<fcel>2<fcel>Payroll processing (12 employees)<fcel>1<fcel>mo<fcel>170.34<fcel>170.34<nl>\n<fcel>3<fcel>Freight, Montréal to Toronto, 2 pallets<fcel>1<fcel>ea<fcel>354.58<fcel>354.58<nl>\n<fcel>4<fcel>Legal review of commercial lease<fcel>18<fcel>hr<fcel>365.15<fcel>6,572.70<nl>\n<fcel>Subtotal<lcel><lcel><lcel><lcel><fcel>7,131.42<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"t3\"><thead><tr><th>#</th><th>Description</th><th class=\"num\">Qty</th><th>Unit</th><th class=\"num\">Unit price</th><th class=\"num\">Amount</th></tr></thead><tbody><tr class=\"grp\"><td colspan=\"6\">PROJECT PHOENIX – PO 8869</td></tr><tr><td class=\"ctr\">1</td><td>Freight, Montréal to Toronto, 2 pallets</td><td class=\"num\">5</td><td>ea</td><td class=\"num\">442.19</td><td class=\"num\">2,210.95</td></tr><tr><td class=\"ctr\">2</td><td>Office 365 Business Standard licence</td><td class=\"num\">6</td><td>ea</td><td class=\"num\">16.90</td><td class=\"num\">101.40</td></tr><tr><td class=\"ctr\">3</td><td>Freight, Montréal to Toronto, 2 pallets</td><td class=\"num\">5</td><td>ea</td><td class=\"num\">515.62</td><td class=\"num\">2,578.10</td></tr><tr class=\"sub\"><td colspan=\"5\" class=\"rt\">Subtotal</td><td class=\"num\">4,890.45</td></tr><tr class=\"grp\"><td colspan=\"6\">PROJECT ATLAS – PO 3357</td></tr><tr><td class=\"ctr\">1</td><td>Office 365 Business Standard licence</td><td class=\"num\">2</td><td>ea</td><td class=\"num\">16.90</td><td class=\"num\">33.80</td></tr><tr><td class=\"ctr\">2</td><td>Payroll processing (12 employees)</td><td class=\"num\">1</td><td>mo</td><td class=\"num\">170.34</td><td class=\"num\">170.34</td></tr><tr><td class=\"ctr\">3</td><td>Freight, Montréal to Toronto, 2 pallets</td><td class=\"num\">1</td><td>ea</td><td class=\"num\">354.58</td><td class=\"num\">354.58</td></tr><tr><td class=\"ctr\">4</td><td>Legal review of commercial lease</td><td class=\"num\">18</td><td>hr</td><td class=\"num\">365.15</td><td class=\"num\">6,572.70</td></tr><tr class=\"sub\"><td colspan=\"5\" class=\"rt\">Subtotal</td><td class=\"num\">7,131.42</td></tr></tbody></table>",
+   "markdown": "| # | Description | Qty | Unit | Unit price | Amount |\n|---|---|---|---|---|---|\n| PROJECT PHOENIX – PO 8869 |  |  |  |  |  |\n| 1 | Freight, Montréal to Toronto, 2 pallets | 5 | ea | 442.19 | 2,210.95 |\n| 2 | Office 365 Business Standard licence | 6 | ea | 16.90 | 101.40 |\n| 3 | Freight, Montréal to Toronto, 2 pallets | 5 | ea | 515.62 | 2,578.10 |\n| Subtotal |  |  |  |  | 4,890.45 |\n| PROJECT ATLAS – PO 3357 |  |  |  |  |  |\n| 1 | Office 365 Business Standard licence | 2 | ea | 16.90 | 33.80 |\n| 2 | Payroll processing (12 employees) | 1 | mo | 170.34 | 170.34 |\n| 3 | Freight, Montréal to Toronto, 2 pallets | 1 | ea | 354.58 | 354.58 |\n| 4 | Legal review of commercial lease | 18 | hr | 365.15 | 6,572.70 |\n| Subtotal |  |  |  |  | 7,131.42 |"
+  },
+  {
+   "id": "1010_003460_r6",
+   "otsl": "<fcel>Subtotal<fcel>$12,021.87<nl>\n<fcel>Discount<fcel>-$1,202.19<nl>\n<fcel>GST 5% (782096447 RT0001)<fcel>$540.98<nl>\n<fcel>HST 8% (ON portion)<fcel>$865.57<nl>\n<fcel>TOTAL<fcel>$12,226.23<nl>\n",
+   "html": "<table data-cat=\"table\" class=\"t3 small\" style=\"width:46%\"><tbody><tr><td class=\"rt\">Subtotal</td><td class=\"num\">$12,021.87</td></tr><tr><td class=\"rt\">Discount</td><td class=\"num\">-$1,202.19</td></tr><tr class=\"tot\"><td class=\"rt b\">GST 5% (782096447 RT0001)</td><td class=\"num b\">$540.98</td></tr><tr><td class=\"rt\">HST 8% (ON portion)</td><td class=\"num\">$865.57</td></tr><tr class=\"tot\"><td class=\"rt b\">TOTAL</td><td class=\"num b\">$12,226.23</td></tr></tbody></table>",
+   "markdown": "| Subtotal | $12,021.87 |\n|---|---|\n| Discount | -$1,202.19 |\n| GST 5% (782096447 RT0001) | $540.98 |\n| HST 8% (ON portion) | $865.57 |\n| TOTAL | $12,226.23 |"
+  }
+ ]
+}

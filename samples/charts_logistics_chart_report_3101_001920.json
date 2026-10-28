@@ -1,0 +1,297 @@
+{
+ "id": "3101_001920",
+ "industry": "logistics",
+ "doctype": "chart_report",
+ "lang": "en",
+ "seed": "3101_001920",
+ "preset": "clean",
+ "bbox_approx": false,
+ "styled": false,
+ "homography": null,
+ "width": 1700,
+ "height": 2200,
+ "page_md": "**WR Weaver, Rodriguez and Hobbs** Carrier Performance Review · 2024\n\n# **Carrier Performance Review**\n\nThis report summarizes key indicators for Weaver, Rodriguez and Hobbs for fiscal 2024.\n\n| Quarter | Truckload | Less than truckload | Rail | Intermodal |\n|---|---|---|---|---|\n| Q2-21 | 3,022 | 240 | 8,823 | 7,360 |\n| Q3-21 | 2,925 | 246 | 9,444 | 7,724 |\n| Q4-21 | 3,184 | 247 | 9,384 | 7,597 |\n| Q1-22 | 3,449 | 261 | 8,887 | 7,286 |\n| Q2-22 | 3,517 | 261 | 9,433 | 7,783 |\n\nSource: Internal data, 2024.\n\nTruckload moved from 3,022 in Q2-21 to 3,517 in Q2-22. The highest value was recorded for Q2-22 (3,517). The variance reflects seasonal factors and the timing of several large items.\n\n## **Key findings**\n\n- Shipments by mode: Q3-21 at 2,925.\n\n**Table 1.** Average transit time\n\n| Month | Domestic | Cross-border |\n|---|---|---|\n| Sep | 4.1 | 2.3 |\n| Oct | 3.9 | 2.3 |\n| Nov | 4.2 | 2.1 |\n| Dec | 3.9 | 2.1 |\n| Jan | 4.2 | 2.1 |\n| Feb | 3.9 | 2.2 |\n| Mar | 4.2 | 2.4 |\n| Apr | 4.3 | 2.5 |\n| May | 4.8 | 2.8 |\n\nWeaver, Rodriguez and Hobbs Page 8 of 28",
+ "layout_1036": [
+  {
+   "bbox": [
+    73,
+    57,
+    963,
+    78
+   ],
+   "cat": "page_header"
+  },
+  {
+   "bbox": [
+    73,
+    97,
+    393,
+    119
+   ],
+   "cat": "title"
+  },
+  {
+   "bbox": [
+    73,
+    130,
+    704,
+    145
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    155,
+    840,
+    476
+   ],
+   "cat": "chart"
+  },
+  {
+   "bbox": [
+    73,
+    483,
+    221,
+    493
+   ],
+   "cat": "footnote"
+  },
+  {
+   "bbox": [
+    73,
+    504,
+    946,
+    536
+   ],
+   "cat": "text"
+  },
+  {
+   "bbox": [
+    73,
+    549,
+    179,
+    566
+   ],
+   "cat": "section_header"
+  },
+  {
+   "bbox": [
+    91,
+    573,
+    363,
+    588
+   ],
+   "cat": "list_item"
+  },
+  {
+   "bbox": [
+    73,
+    597,
+    259,
+    610
+   ],
+   "cat": "table_caption"
+  },
+  {
+   "bbox": [
+    73,
+    612,
+    963,
+    833
+   ],
+   "cat": "table"
+  },
+  {
+   "bbox": [
+    73,
+    966,
+    963,
+    978
+   ],
+   "cat": "page_footer"
+  }
+ ],
+ "regions": [
+  {
+   "id": "3101_001920_r0",
+   "cat": "page_header",
+   "bbox_px": [
+    120,
+    120,
+    1580,
+    166
+   ],
+   "md": "**WR Weaver, Rodriguez and Hobbs** Carrier Performance Review · 2024"
+  },
+  {
+   "id": "3101_001920_r1",
+   "cat": "title",
+   "bbox_px": [
+    120,
+    207,
+    645,
+    252
+   ],
+   "md": "# **Carrier Performance Review**"
+  },
+  {
+   "id": "3101_001920_r2",
+   "cat": "text",
+   "bbox_px": [
+    120,
+    276,
+    1156,
+    307
+   ],
+   "md": "This report summarizes key indicators for Weaver, Rodriguez and Hobbs for fiscal 2024."
+  },
+  {
+   "id": "3101_001920_r3",
+   "cat": "chart",
+   "bbox_px": [
+    120,
+    329,
+    1378,
+    1010
+   ],
+   "chart": {
+    "sub": "Bar Chart",
+    "caption": "A bar chart showing shipments by mode across 5 quarter categories for Truckload, Less than truckload, Rail and Intermodal.",
+    "title": "Shipments by mode",
+    "header": [
+     "Quarter",
+     "Truckload",
+     "Less than truckload",
+     "Rail",
+     "Intermodal"
+    ],
+    "rows": [
+     [
+      "Q2-21",
+      "3,022",
+      "240",
+      "8,823",
+      "7,360"
+     ],
+     [
+      "Q3-21",
+      "2,925",
+      "246",
+      "9,444",
+      "7,724"
+     ],
+     [
+      "Q4-21",
+      "3,184",
+      "247",
+      "9,384",
+      "7,597"
+     ],
+     [
+      "Q1-22",
+      "3,449",
+      "261",
+      "8,887",
+      "7,286"
+     ],
+     [
+      "Q2-22",
+      "3,517",
+      "261",
+      "9,433",
+      "7,783"
+     ]
+    ]
+   },
+   "md": "| Quarter | Truckload | Less than truckload | Rail | Intermodal |\n|---|---|---|---|---|\n| Q2-21 | 3,022 | 240 | 8,823 | 7,360 |\n| Q3-21 | 2,925 | 246 | 9,444 | 7,724 |\n| Q4-21 | 3,184 | 247 | 9,384 | 7,597 |\n| Q1-22 | 3,449 | 261 | 8,887 | 7,286 |\n| Q2-22 | 3,517 | 261 | 9,433 | 7,783 |"
+  },
+  {
+   "id": "3101_001920_r4",
+   "cat": "footnote",
+   "bbox_px": [
+    120,
+    1025,
+    362,
+    1047
+   ],
+   "md": "Source: Internal data, 2024."
+  },
+  {
+   "id": "3101_001920_r5",
+   "cat": "text",
+   "bbox_px": [
+    120,
+    1070,
+    1553,
+    1139
+   ],
+   "md": "Truckload moved from 3,022 in Q2-21 to 3,517 in Q2-22. The highest value was recorded for Q2-22 (3,517). The variance reflects seasonal factors and the timing of several large items."
+  },
+  {
+   "id": "3101_001920_r6",
+   "cat": "section_header",
+   "bbox_px": [
+    120,
+    1166,
+    294,
+    1202
+   ],
+   "md": "## **Key findings**"
+  },
+  {
+   "id": "3101_001920_r7",
+   "cat": "list_item",
+   "bbox_px": [
+    149,
+    1216,
+    596,
+    1248
+   ],
+   "md": "- Shipments by mode: Q3-21 at 2,925."
+  },
+  {
+   "id": "3101_001920_r8",
+   "cat": "table_caption",
+   "bbox_px": [
+    120,
+    1267,
+    425,
+    1296
+   ],
+   "md": "**Table 1.** Average transit time"
+  },
+  {
+   "id": "3101_001920_r9",
+   "cat": "table",
+   "bbox_px": [
+    120,
+    1299,
+    1580,
+    1769
+   ],
+   "otsl": "<fcel>Month<fcel>Domestic<fcel>Cross-border<nl>\n<fcel>Sep<fcel>4.1<fcel>2.3<nl>\n<fcel>Oct<fcel>3.9<fcel>2.3<nl>\n<fcel>Nov<fcel>4.2<fcel>2.1<nl>\n<fcel>Dec<fcel>3.9<fcel>2.1<nl>\n<fcel>Jan<fcel>4.2<fcel>2.1<nl>\n<fcel>Feb<fcel>3.9<fcel>2.2<nl>\n<fcel>Mar<fcel>4.2<fcel>2.4<nl>\n<fcel>Apr<fcel>4.3<fcel>2.5<nl>\n<fcel>May<fcel>4.8<fcel>2.8<nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:0.85em\"><tbody><tr><th>Month</th><th>Domestic</th><th>Cross-border</th></tr><tr><td>Sep</td><td style=\"text-align:right\">4.1</td><td style=\"text-align:right\">2.3</td></tr><tr><td>Oct</td><td style=\"text-align:right\">3.9</td><td style=\"text-align:right\">2.3</td></tr><tr><td>Nov</td><td style=\"text-align:right\">4.2</td><td style=\"text-align:right\">2.1</td></tr><tr><td>Dec</td><td style=\"text-align:right\">3.9</td><td style=\"text-align:right\">2.1</td></tr><tr><td>Jan</td><td style=\"text-align:right\">4.2</td><td style=\"text-align:right\">2.1</td></tr><tr><td>Feb</td><td style=\"text-align:right\">3.9</td><td style=\"text-align:right\">2.2</td></tr><tr><td>Mar</td><td style=\"text-align:right\">4.2</td><td style=\"text-align:right\">2.4</td></tr><tr><td>Apr</td><td style=\"text-align:right\">4.3</td><td style=\"text-align:right\">2.5</td></tr><tr><td>May</td><td style=\"text-align:right\">4.8</td><td style=\"text-align:right\">2.8</td></tr></tbody></table>",
+   "md": "| Month | Domestic | Cross-border |\n|---|---|---|\n| Sep | 4.1 | 2.3 |\n| Oct | 3.9 | 2.3 |\n| Nov | 4.2 | 2.1 |\n| Dec | 3.9 | 2.1 |\n| Jan | 4.2 | 2.1 |\n| Feb | 3.9 | 2.2 |\n| Mar | 4.2 | 2.4 |\n| Apr | 4.3 | 2.5 |\n| May | 4.8 | 2.8 |"
+  },
+  {
+   "id": "3101_001920_r10",
+   "cat": "page_footer",
+   "bbox_px": [
+    120,
+    2052,
+    1580,
+    2077
+   ],
+   "md": "Weaver, Rodriguez and Hobbs Page 8 of 28"
+  }
+ ],
+ "tables": [
+  {
+   "id": "3101_001920_r9",
+   "otsl": "<fcel>Month<fcel>Domestic<fcel>Cross-border<nl>\n<fcel>Sep<fcel>4.1<fcel>2.3<nl>\n<fcel>Oct<fcel>3.9<fcel>2.3<nl>\n<fcel>Nov<fcel>4.2<fcel>2.1<nl>\n<fcel>Dec<fcel>3.9<fcel>2.1<nl>\n<fcel>Jan<fcel>4.2<fcel>2.1<nl>\n<fcel>Feb<fcel>3.9<fcel>2.2<nl>\n<fcel>Mar<fcel>4.2<fcel>2.4<nl>\n<fcel>Apr<fcel>4.3<fcel>2.5<nl>\n<fcel>May<fcel>4.8<fcel>2.8<nl>\n",
+   "html": "<table data-cat=\"table\" style=\"font-size:0.85em\"><tbody><tr><th>Month</th><th>Domestic</th><th>Cross-border</th></tr><tr><td>Sep</td><td style=\"text-align:right\">4.1</td><td style=\"text-align:right\">2.3</td></tr><tr><td>Oct</td><td style=\"text-align:right\">3.9</td><td style=\"text-align:right\">2.3</td></tr><tr><td>Nov</td><td style=\"text-align:right\">4.2</td><td style=\"text-align:right\">2.1</td></tr><tr><td>Dec</td><td style=\"text-align:right\">3.9</td><td style=\"text-align:right\">2.1</td></tr><tr><td>Jan</td><td style=\"text-align:right\">4.2</td><td style=\"text-align:right\">2.1</td></tr><tr><td>Feb</td><td style=\"text-align:right\">3.9</td><td style=\"text-align:right\">2.2</td></tr><tr><td>Mar</td><td style=\"text-align:right\">4.2</td><td style=\"text-align:right\">2.4</td></tr><tr><td>Apr</td><td style=\"text-align:right\">4.3</td><td style=\"text-align:right\">2.5</td></tr><tr><td>May</td><td style=\"text-align:right\">4.8</td><td style=\"text-align:right\">2.8</td></tr></tbody></table>",
+   "markdown": "| Month | Domestic | Cross-border |\n|---|---|---|\n| Sep | 4.1 | 2.3 |\n| Oct | 3.9 | 2.3 |\n| Nov | 4.2 | 2.1 |\n| Dec | 3.9 | 2.1 |\n| Jan | 4.2 | 2.1 |\n| Feb | 3.9 | 2.2 |\n| Mar | 4.2 | 2.4 |\n| Apr | 4.3 | 2.5 |\n| May | 4.8 | 2.8 |"
+  }
+ ]
+}
